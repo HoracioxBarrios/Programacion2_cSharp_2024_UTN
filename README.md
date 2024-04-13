@@ -1,4 +1,4 @@
-Horacio Barrios - Tecicatura en Programacion - Cursada 2024
+Horacio Barrios - Tecicatura en Programacion - Cursada 2024 "/n"
 Ejercicios de Programacion 2 C# dot Net
 .Net 8
 Fuente de los ejercicios:
