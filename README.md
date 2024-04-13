@@ -1,6 +1,6 @@
 Horacio Barrios
 - Tecnicatura en Programación - Cursada 2024
-- Ejercicios de Programación 2 C# .NET
+- Ejercicios de Programación 2 C#
 - .NET 8
 
 Fuente de los ejercicios:
