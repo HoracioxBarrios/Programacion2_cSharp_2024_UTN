@@ -29,11 +29,11 @@ namespace Clase2Ejercicio1
                     acumuladorNumeros += numero;
 
 
-                    if (primerAsignacion || numero > numMIn)
+                    if (primerAsignacion || numero > numMax)
                     {
                         numMax = numero;
                     }
-                    if (primerAsignacion || numero < numMax)
+                    if (primerAsignacion || numero < numMIn)
                     {
                         numMIn = numero;
                     }
