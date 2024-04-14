@@ -6,6 +6,7 @@ namespace Clase2Ejercicio1
     {
         static void Main(string[] args)
         {
+            //Ejercicio I01 - Validador de rangos
             int cantidadLimiteNumerosPedidos = 10;
             string datoStrIngresado;
             int numero;
