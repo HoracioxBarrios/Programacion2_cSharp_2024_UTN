@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase3Ejercicio1\\Clase3Ejercicio1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase3Ejercicio1\\Clase3Ejercicio1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase3Ejercicio1\\Clase3Ejercicio1.csproj",
+        "projectName": "Clase3Ejercicio1",
+        "projectPath": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase3Ejercicio1\\Clase3Ejercicio1.csproj",
+        "packagesPath": "C:\\Users\\Orfhen2022\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase3Ejercicio1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Orfhen2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj": {
+                "projectPath": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj",
+        "projectName": "LibreriaClases",
+        "projectPath": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj",
+        "packagesPath": "C:\\Users\\Orfhen2022\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Orfhen2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

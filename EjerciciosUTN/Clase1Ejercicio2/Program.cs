@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            //Ejercicio I02 - Error al cubo
+            //Ejercicio I02 - Error al cubo - https://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/docs/clases/introduccion/Ejercicios/I02-error-al-cubo/
             double numero;
             double resultadoAlCubo;
             double resultadoCuadrado;

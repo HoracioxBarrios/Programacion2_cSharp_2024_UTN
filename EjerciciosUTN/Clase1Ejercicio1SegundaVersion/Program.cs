@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            //Ejercicio I01 - Máximo, mínimo y promedio
+            //Ejercicio I01 - Máximo, mínimo y promedio - https://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/docs/clases/introduccion/Ejercicios/I01-maximo-minimo-promedio/
 
             int cantidadPeticiones = 5;
             int numero;

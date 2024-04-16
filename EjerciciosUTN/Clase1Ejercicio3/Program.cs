@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            //Ejercicio I03 - Los primos
+            //Ejercicio I03 - Los primos - https://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/docs/clases/introduccion/Ejercicios/I03-los-primos/
             int numero;
             string inputString;
             bool esValido = false;

@@ -6,7 +6,7 @@ namespace Clase2Ejercicio1
     {
         static void Main(string[] args)
         {
-            //Ejercicio I01 - Validador de rangos
+            //Ejercicio I01 - Validador de rangos - https://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/docs/clases/estaticos/Ejercicios/I01-validador-rangos/
             int cantidadLimiteNumerosPedidos = 10;
             string datoStrIngresado;
             int numero;
