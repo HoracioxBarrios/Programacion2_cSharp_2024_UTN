@@ -10,3 +10,15 @@ C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN
 C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\LibreriaClases\obj\Debug\net8.0\refint\LibreriaClases.dll
 C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\LibreriaClases\obj\Debug\net8.0\LibreriaClases.pdb
 C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\LibreriaClases\obj\Debug\net8.0\ref\LibreriaClases.dll
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\LibreriaClases\bin\Debug\net8.0\LibreriaClases.deps.json
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\LibreriaClases\bin\Debug\net8.0\LibreriaClases.dll
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\LibreriaClases\bin\Debug\net8.0\LibreriaClases.pdb
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\LibreriaClases\obj\Debug\net8.0\LibreriaClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\LibreriaClases\obj\Debug\net8.0\LibreriaClases.AssemblyInfoInputs.cache
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\LibreriaClases\obj\Debug\net8.0\LibreriaClases.AssemblyInfo.cs
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\LibreriaClases\obj\Debug\net8.0\LibreriaClases.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\LibreriaClases\obj\Debug\net8.0\LibreriaClases.sourcelink.json
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\LibreriaClases\obj\Debug\net8.0\LibreriaClases.dll
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\LibreriaClases\obj\Debug\net8.0\refint\LibreriaClases.dll
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\LibreriaClases\obj\Debug\net8.0\LibreriaClases.pdb
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\LibreriaClases\obj\Debug\net8.0\ref\LibreriaClases.dll

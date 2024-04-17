@@ -17,3 +17,22 @@ C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN
 C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\obj\Debug\net8.0\Clase3Ejercicio1.pdb
 C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\obj\Debug\net8.0\Clase3Ejercicio1.genruntimeconfig.cache
 C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\obj\Debug\net8.0\ref\Clase3Ejercicio1.dll
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\bin\Debug\net8.0\Clase3Ejercicio1.exe
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\bin\Debug\net8.0\Clase3Ejercicio1.deps.json
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\bin\Debug\net8.0\Clase3Ejercicio1.runtimeconfig.json
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\bin\Debug\net8.0\Clase3Ejercicio1.dll
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\bin\Debug\net8.0\Clase3Ejercicio1.pdb
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\bin\Debug\net8.0\LibreriaClases.dll
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\bin\Debug\net8.0\LibreriaClases.pdb
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\obj\Debug\net8.0\Clase3Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\obj\Debug\net8.0\Clase3Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\obj\Debug\net8.0\Clase3Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\obj\Debug\net8.0\Clase3Ejercicio1.AssemblyInfo.cs
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\obj\Debug\net8.0\Clase3Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\obj\Debug\net8.0\Clase3Ejercicio1.sourcelink.json
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\obj\Debug\net8.0\Clase3Ejercicio1.csproj.CopyComplete
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\obj\Debug\net8.0\Clase3Ejercicio1.dll
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\obj\Debug\net8.0\refint\Clase3Ejercicio1.dll
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\obj\Debug\net8.0\Clase3Ejercicio1.pdb
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\obj\Debug\net8.0\Clase3Ejercicio1.genruntimeconfig.cache
+C:\Users\Migue\Desktop\UTN programacion 2\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio1\obj\Debug\net8.0\ref\Clase3Ejercicio1.dll

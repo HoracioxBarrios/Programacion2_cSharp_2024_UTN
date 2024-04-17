@@ -16,7 +16,6 @@ namespace Clase3Ejercicio1
             Console.WriteLine(cuenta1.Mostrar());
             cuenta1.Retirar(500.000m);
             Console.WriteLine(cuenta1.Mostrar());
-
             cuenta1.Retirar(200.000m);
             Console.WriteLine(cuenta1.Mostrar());
 

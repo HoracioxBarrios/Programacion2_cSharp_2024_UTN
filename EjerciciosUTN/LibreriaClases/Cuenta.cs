@@ -9,9 +9,8 @@ namespace LibreriaClases
     public class Cuenta
     {
         private string _titular;
-        private decimal _cantidad = 0;
+        private decimal _cantidad;
 
-        private decimal _monto;
         public Cuenta(string titular, decimal cantidad)
         {
             _titular = titular;
@@ -22,6 +21,11 @@ namespace LibreriaClases
         {
             get { return _titular; }
             set { _titular = value; }
+        }
+        public decimal Cantidad
+        {
+            get { return _cantidad; }
+            set { _cantidad = value; }
         }
 
         public string Mostrar()
