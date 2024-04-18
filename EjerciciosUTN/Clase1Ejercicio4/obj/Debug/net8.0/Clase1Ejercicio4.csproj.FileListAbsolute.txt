@@ -1,0 +1,15 @@
+C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase1Ejercicio4\bin\Debug\net8.0\Clase1Ejercicio4.exe
+C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase1Ejercicio4\bin\Debug\net8.0\Clase1Ejercicio4.deps.json
+C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase1Ejercicio4\bin\Debug\net8.0\Clase1Ejercicio4.runtimeconfig.json
+C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase1Ejercicio4\bin\Debug\net8.0\Clase1Ejercicio4.dll
+C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase1Ejercicio4\bin\Debug\net8.0\Clase1Ejercicio4.pdb
+C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase1Ejercicio4\obj\Debug\net8.0\Clase1Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase1Ejercicio4\obj\Debug\net8.0\Clase1Ejercicio4.AssemblyInfoInputs.cache
+C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase1Ejercicio4\obj\Debug\net8.0\Clase1Ejercicio4.AssemblyInfo.cs
+C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase1Ejercicio4\obj\Debug\net8.0\Clase1Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase1Ejercicio4\obj\Debug\net8.0\Clase1Ejercicio4.sourcelink.json
+C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase1Ejercicio4\obj\Debug\net8.0\Clase1Ejercicio4.dll
+C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase1Ejercicio4\obj\Debug\net8.0\refint\Clase1Ejercicio4.dll
+C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase1Ejercicio4\obj\Debug\net8.0\Clase1Ejercicio4.pdb
+C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase1Ejercicio4\obj\Debug\net8.0\Clase1Ejercicio4.genruntimeconfig.cache
+C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase1Ejercicio4\obj\Debug\net8.0\ref\Clase1Ejercicio4.dll

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F572B6A1-7E8F-46F8-B48F-00F525266A7B}|Clase1Ejercicio4\\Clase1Ejercicio4.csproj|c:\\users\\orfhen2022\\desktop\\utn 2024\\programacion2_csharp_2024_utn\\ejerciciosutn\\clase1ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F572B6A1-7E8F-46F8-B48F-00F525266A7B}|Clase1Ejercicio4\\Clase1Ejercicio4.csproj|solutionrelative:clase1ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E331ED4-C0F7-4771-8549-2A6042366528}|Clase3Ejercicio1\\Clase3Ejercicio1.csproj|c:\\users\\orfhen2022\\desktop\\utn 2024\\programacion2_csharp_2024_utn\\ejerciciosutn\\clase3ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E331ED4-C0F7-4771-8549-2A6042366528}|Clase3Ejercicio1\\Clase3Ejercicio1.csproj|solutionrelative:clase3ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,15 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -94,7 +94,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Clase1Ejercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio4\\Program.cs",
+              "RelativeToolTip": "Clase1Ejercicio4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:41:20.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Cuenta.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\Cuenta.cs",
               "RelativeDocumentMoniker": "LibreriaClases\\Cuenta.cs",
@@ -106,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase3Ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Clase3Ejercicio1\\Program.cs",
@@ -119,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio1SegundaVersion\\Program.cs",
               "RelativeDocumentMoniker": "Clase1Ejercicio1SegundaVersion\\Program.cs",
@@ -131,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Clase2Ejercicio2",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio2\\Clase2Ejercicio2.csproj",
               "RelativeDocumentMoniker": "Clase2Ejercicio2\\Clase2Ejercicio2.csproj",
@@ -143,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio2\\Program.cs",
               "RelativeDocumentMoniker": "Clase2Ejercicio2\\Program.cs",
@@ -155,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio2\\Program.cs",
               "RelativeDocumentMoniker": "Clase1Ejercicio2\\Program.cs",
@@ -167,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio3\\Program.cs",
               "RelativeDocumentMoniker": "Clase1Ejercicio3\\Program.cs",
@@ -179,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Clase2Ejercicio1.csproj",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
               "RelativeDocumentMoniker": "Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
@@ -191,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Validador.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\Validador.cs",
               "RelativeDocumentMoniker": "LibreriaClases\\Validador.cs",
@@ -203,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Clase2Ejercicio1\\Program.cs",
@@ -215,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio1SegundaVersion\\Program.cs",
               "RelativeDocumentMoniker": "Clase1Ejercicio1SegundaVersion\\Program.cs",
@@ -227,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Clase1Ejercicio1\\Program.cs",

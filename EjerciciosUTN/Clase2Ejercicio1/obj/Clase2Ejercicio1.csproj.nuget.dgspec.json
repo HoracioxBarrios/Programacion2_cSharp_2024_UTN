@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Migue\\Desktop\\UTN programacion 2\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj": {}
+    "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Migue\\Desktop\\UTN programacion 2\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj": {
+    "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Migue\\Desktop\\UTN programacion 2\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
         "projectName": "Clase2Ejercicio1",
-        "projectPath": "C:\\Users\\Migue\\Desktop\\UTN programacion 2\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
-        "packagesPath": "C:\\Users\\Migue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Migue\\Desktop\\UTN programacion 2\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\obj\\",
+        "projectPath": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
+        "packagesPath": "C:\\Users\\Orfhen2022\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Orfhen2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Migue\\Desktop\\UTN programacion 2\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj": {
-                "projectPath": "C:\\Users\\Migue\\Desktop\\UTN programacion 2\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj"
+              "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj": {
+                "projectPath": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj"
               }
             }
           }
@@ -43,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,25 +64,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Migue\\Desktop\\UTN programacion 2\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj": {
+    "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Migue\\Desktop\\UTN programacion 2\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj",
+        "projectUniqueName": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj",
         "projectName": "LibreriaClases",
-        "projectPath": "C:\\Users\\Migue\\Desktop\\UTN programacion 2\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj",
-        "packagesPath": "C:\\Users\\Migue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Migue\\Desktop\\UTN programacion 2\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\obj\\",
+        "projectPath": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj",
+        "packagesPath": "C:\\Users\\Orfhen2022\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Orfhen2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,7 +86,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -103,6 +98,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -124,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
