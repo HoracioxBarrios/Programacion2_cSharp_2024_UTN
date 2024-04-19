@@ -7,6 +7,7 @@ namespace Clase3Ejercicio3
         static void Main(string[] args)
         {
             //Ejercicio I03 - El ejemplo universal - https://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/docs/clases/objetos/Ejercicios/I03-el-ejemplo-universal/
+
             Estudiante estudiante1 = new Estudiante("Ariel", "Alcantara", "100");
             Estudiante estudiante2 = new Estudiante("Beleéin", "Britos", "101");
             Estudiante estudiante3 = new Estudiante("Claribel", "Ceal", "102");
