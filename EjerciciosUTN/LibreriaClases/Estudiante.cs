@@ -56,7 +56,7 @@ namespace LibreriaClases
             int notaFinal = -1;
             if (_notaPrimerParcial > 4 && _notaSegundoParcial > 4)
             {
-                notaFinal = _random.Next(4, 6);
+                notaFinal = _random.Next(6, 11);
             }
 
             return notaFinal;
