@@ -6,7 +6,7 @@
         {
             //Ejercicio I04 - Un número perfecto - https://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/docs/clases/introduccion/Ejercicios/I04-un-numero-perfecto/
             /*
-                Los números perfectos son un tipo especial de números enteros positivos que son iguales a 
+                * Los números perfectos son un tipo especial de números enteros positivos que son iguales a 
                 la suma de sus divisores propios (excluyendo el número mismo). Es decir, un número perfecto 
                 'n' cumple con la siguiente igualdad:
                 
@@ -63,9 +63,6 @@
 
                     }
                 }
-
-
-
 
             }
 
