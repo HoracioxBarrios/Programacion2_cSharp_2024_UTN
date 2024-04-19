@@ -49,7 +49,7 @@
                     int acumuladorDeDivisores = 0;
 
                     
-                    for(int divisor = 1; divisor < numero; divisor++)//con este buscamos los divisores del numero (si es par)
+                    for(int divisor = 1; divisor < numero; divisor++)//Con este buscamos los divisores del numero (si es par)
                     {
                         if (numero % divisor == 0)
                         {

@@ -27,7 +27,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase3Ejercicio1", "Clase3E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase3Ejercicio2", "Clase3Ejercicio2\Clase3Ejercicio2.csproj", "{4800F8F1-C5AF-46E6-A5C9-2A7AAD9D3ED7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase1Ejercicio4", "Clase1Ejercicio4\Clase1Ejercicio4.csproj", "{F572B6A1-7E8F-46F8-B48F-00F525266A7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase1Ejercicio4", "Clase1Ejercicio4\Clase1Ejercicio4.csproj", "{F572B6A1-7E8F-46F8-B48F-00F525266A7B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{80289A44-B842-480E-AA25-425AB6CF099A}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -88,6 +93,7 @@ Global
 		{9F298B9A-09B1-45E2-8F40-0DABD37AEE38} = {338796E9-3A72-417E-9F29-6A0CC30C4676}
 		{4E331ED4-C0F7-4771-8549-2A6042366528} = {1C8EAB8D-8134-4DCA-AB63-58A238B226FF}
 		{4800F8F1-C5AF-46E6-A5C9-2A7AAD9D3ED7} = {1C8EAB8D-8134-4DCA-AB63-58A238B226FF}
+		{F572B6A1-7E8F-46F8-B48F-00F525266A7B} = {725C78E1-AFED-494D-9CB1-3ACDAC96BC82}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56A756F6-2467-43C0-90D6-FBEC92801C43}

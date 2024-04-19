@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio2\\Clase1Ejercicio2.csproj": {}
+    "C:\\Users\\Orfhen2022\\Source\\Repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio2\\Clase1Ejercicio2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio2\\Clase1Ejercicio2.csproj": {
+    "C:\\Users\\Orfhen2022\\Source\\Repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio2\\Clase1Ejercicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio2\\Clase1Ejercicio2.csproj",
+        "projectUniqueName": "C:\\Users\\Orfhen2022\\Source\\Repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio2\\Clase1Ejercicio2.csproj",
         "projectName": "Clase1Ejercicio2",
-        "projectPath": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio2\\Clase1Ejercicio2.csproj",
+        "projectPath": "C:\\Users\\Orfhen2022\\Source\\Repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio2\\Clase1Ejercicio2.csproj",
         "packagesPath": "C:\\Users\\Orfhen2022\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio2\\obj\\",
+        "outputPath": "C:\\Users\\Orfhen2022\\Source\\Repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Orfhen2022\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,57 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\",
+  "WorkspaceRootPath": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F572B6A1-7E8F-46F8-B48F-00F525266A7B}|Clase1Ejercicio4\\Clase1Ejercicio4.csproj|c:\\users\\orfhen2022\\desktop\\utn 2024\\programacion2_csharp_2024_utn\\ejerciciosutn\\clase1ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80289A44-B842-480E-AA25-425AB6CF099A}|Elementos de la soluci\u00F3n{80289A44-B842-480E-AA25-425AB6CF099A}|C:\\Users\\Orfhen2022\\Source\\Repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{80289A44-B842-480E-AA25-425AB6CF099A}|Elementos de la soluci\u00F3n{80289A44-B842-480E-AA25-425AB6CF099A}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F572B6A1-7E8F-46F8-B48F-00F525266A7B}|Clase1Ejercicio4\\Clase1Ejercicio4.csproj|c:\\users\\orfhen2022\\source\\repos\\programacion2_csharp_2024_utn\\ejerciciosutn\\clase1ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F572B6A1-7E8F-46F8-B48F-00F525266A7B}|Clase1Ejercicio4\\Clase1Ejercicio4.csproj|solutionrelative:clase1ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E331ED4-C0F7-4771-8549-2A6042366528}|Clase3Ejercicio1\\Clase3Ejercicio1.csproj|c:\\users\\orfhen2022\\desktop\\utn 2024\\programacion2_csharp_2024_utn\\ejerciciosutn\\clase3ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E331ED4-C0F7-4771-8549-2A6042366528}|Clase3Ejercicio1\\Clase3Ejercicio1.csproj|C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase3ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E331ED4-C0F7-4771-8549-2A6042366528}|Clase3Ejercicio1\\Clase3Ejercicio1.csproj|solutionrelative:clase3ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\LibreriaClases.csproj|C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\libreriaclases\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\LibreriaClases.csproj|C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\libreriaclases\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\LibreriaClases.csproj|solutionrelative:libreriaclases\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB6F38FF-F06D-400F-8854-8B617A84518F}|Clase1Ejercicio3\\Clase1Ejercicio3.csproj|C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase1ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB6F38FF-F06D-400F-8854-8B617A84518F}|Clase1Ejercicio3\\Clase1Ejercicio3.csproj|C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase1ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB6F38FF-F06D-400F-8854-8B617A84518F}|Clase1Ejercicio3\\Clase1Ejercicio3.csproj|solutionrelative:clase1ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D4DA2F8-BFE4-4896-94C4-4F955139D198}|Clase1Ejercicio2\\Clase1Ejercicio2.csproj|C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase1ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D4DA2F8-BFE4-4896-94C4-4F955139D198}|Clase1Ejercicio2\\Clase1Ejercicio2.csproj|C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase1ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D4DA2F8-BFE4-4896-94C4-4F955139D198}|Clase1Ejercicio2\\Clase1Ejercicio2.csproj|solutionrelative:clase1ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78190B76-FDB6-467C-BAD0-F4626F541CA7}|Clase1Ejercicio1SegundaVersion\\Clase1Ejercicio1Alernativa.csproj|C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase1ejercicio1segundaversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78190B76-FDB6-467C-BAD0-F4626F541CA7}|Clase1Ejercicio1SegundaVersion\\Clase1Ejercicio1Alernativa.csproj|C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase1ejercicio1segundaversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78190B76-FDB6-467C-BAD0-F4626F541CA7}|Clase1Ejercicio1SegundaVersion\\Clase1Ejercicio1Alernativa.csproj|solutionrelative:clase1ejercicio1segundaversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78190B76-FDB6-467C-BAD0-F4626F541CA7}|Clase1Ejercicio1SegundaVersion\\Clase1Ejercicio1SegundaVersion.csproj|C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase1ejercicio1segundaversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78190B76-FDB6-467C-BAD0-F4626F541CA7}|Clase1Ejercicio1SegundaVersion\\Clase1Ejercicio1SegundaVersion.csproj|C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase1ejercicio1segundaversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78190B76-FDB6-467C-BAD0-F4626F541CA7}|Clase1Ejercicio1SegundaVersion\\Clase1Ejercicio1SegundaVersion.csproj|solutionrelative:clase1ejercicio1segundaversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51C6908F-9712-4476-8C96-296DFDA1F5AF}|Clase1Ejercicio1\\Clase1Ejercicio1.csproj|C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase1ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51C6908F-9712-4476-8C96-296DFDA1F5AF}|Clase1Ejercicio1\\Clase1Ejercicio1.csproj|C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase1ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51C6908F-9712-4476-8C96-296DFDA1F5AF}|Clase1Ejercicio1\\Clase1Ejercicio1.csproj|solutionrelative:clase1ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5C2B10B-EFD2-401A-BD7D-9C2D6A2D3D96}|Clase2Ejercicio1\\Clase2Ejercicio1.csproj|C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase2ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5C2B10B-EFD2-401A-BD7D-9C2D6A2D3D96}|Clase2Ejercicio1\\Clase2Ejercicio1.csproj|C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase2ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5C2B10B-EFD2-401A-BD7D-9C2D6A2D3D96}|Clase2Ejercicio1\\Clase2Ejercicio1.csproj|solutionrelative:clase2ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F298B9A-09B1-45E2-8F40-0DABD37AEE38}|Clase2Ejercicio2\\Clase2Ejercicio2.csproj|C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase2ejercicio2\\clase2ejercicio2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{9F298B9A-09B1-45E2-8F40-0DABD37AEE38}|Clase2Ejercicio2\\Clase2Ejercicio2.csproj|C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase2ejercicio2\\clase2ejercicio2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9F298B9A-09B1-45E2-8F40-0DABD37AEE38}|Clase2Ejercicio2\\Clase2Ejercicio2.csproj|solutionrelative:clase2ejercicio2\\clase2ejercicio2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F298B9A-09B1-45E2-8F40-0DABD37AEE38}|Clase2Ejercicio2\\Clase2Ejercicio2.csproj|C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase2ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F298B9A-09B1-45E2-8F40-0DABD37AEE38}|Clase2Ejercicio2\\Clase2Ejercicio2.csproj|C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase2ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F298B9A-09B1-45E2-8F40-0DABD37AEE38}|Clase2Ejercicio2\\Clase2Ejercicio2.csproj|solutionrelative:clase2ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\LibreriaClases.csproj|C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\libreriaclases\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\LibreriaClases.csproj|C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\libreriaclases\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\LibreriaClases.csproj|solutionrelative:libreriaclases\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5C2B10B-EFD2-401A-BD7D-9C2D6A2D3D96}|Clase2Ejercicio1\\Clase2Ejercicio1.csproj|C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase2ejercicio1\\clase2ejercicio1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B5C2B10B-EFD2-401A-BD7D-9C2D6A2D3D96}|Clase2Ejercicio1\\Clase2Ejercicio1.csproj|C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase2ejercicio1\\clase2ejercicio1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B5C2B10B-EFD2-401A-BD7D-9C2D6A2D3D96}|Clase2Ejercicio1\\Clase2Ejercicio1.csproj|solutionrelative:clase2ejercicio1\\clase2ejercicio1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -95,23 +99,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-19T17:17:51.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio4\\Program.cs",
               "RelativeDocumentMoniker": "Clase1Ejercicio4\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio4\\Program.cs",
               "RelativeToolTip": "Clase1Ejercicio4\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAnAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T17:41:20.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Cuenta.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\Cuenta.cs",
               "RelativeDocumentMoniker": "LibreriaClases\\Cuenta.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\Cuenta.cs",
               "RelativeToolTip": "LibreriaClases\\Cuenta.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,24 +136,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase3Ejercicio1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase3Ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Clase3Ejercicio1\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase3Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase3Ejercicio1\\Program.cs",
               "RelativeToolTip": "Clase3Ejercicio1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T18:09:36.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T18:09:36.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio1SegundaVersion\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio1SegundaVersion\\Program.cs",
               "RelativeDocumentMoniker": "Clase1Ejercicio1SegundaVersion\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio1SegundaVersion\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio1SegundaVersion\\Program.cs",
               "RelativeToolTip": "Clase1Ejercicio1SegundaVersion\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAC7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,11 +160,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Clase2Ejercicio2",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio2\\Clase2Ejercicio2.csproj",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio2\\Clase2Ejercicio2.csproj",
               "RelativeDocumentMoniker": "Clase2Ejercicio2\\Clase2Ejercicio2.csproj",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio2\\Clase2Ejercicio2.csproj",
+              "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio2\\Clase2Ejercicio2.csproj",
               "RelativeToolTip": "Clase2Ejercicio2\\Clase2Ejercicio2.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -156,11 +172,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio2\\Program.cs",
               "RelativeDocumentMoniker": "Clase2Ejercicio2\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio2\\Program.cs",
               "RelativeToolTip": "Clase2Ejercicio2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -168,11 +184,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio2\\Program.cs",
               "RelativeDocumentMoniker": "Clase1Ejercicio2\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio2\\Program.cs",
               "RelativeToolTip": "Clase1Ejercicio2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -180,11 +196,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio3\\Program.cs",
               "RelativeDocumentMoniker": "Clase1Ejercicio3\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio3\\Program.cs",
               "RelativeToolTip": "Clase1Ejercicio3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -192,11 +208,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Clase2Ejercicio1.csproj",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
               "RelativeDocumentMoniker": "Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
+              "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
               "RelativeToolTip": "Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -204,11 +220,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Validador.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\Validador.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\Validador.cs",
               "RelativeDocumentMoniker": "LibreriaClases\\Validador.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\Validador.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\Validador.cs",
               "RelativeToolTip": "LibreriaClases\\Validador.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,11 +232,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Clase2Ejercicio1\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Program.cs",
               "RelativeToolTip": "Clase2Ejercicio1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -228,11 +244,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio1SegundaVersion\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio1SegundaVersion\\Program.cs",
               "RelativeDocumentMoniker": "Clase1Ejercicio1SegundaVersion\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio1SegundaVersion\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio1SegundaVersion\\Program.cs",
               "RelativeToolTip": "Clase1Ejercicio1SegundaVersion\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -240,11 +256,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Clase1Ejercicio1\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\utn 2024\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase1Ejercicio1\\Program.cs",
               "RelativeToolTip": "Clase1Ejercicio1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAC7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

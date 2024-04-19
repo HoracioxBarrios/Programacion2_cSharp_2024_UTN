@@ -1,0 +1,11 @@
+# Ignorar archivos temporales generados por Visual Studio
+bin/
+obj/
+
+# Ignorar archivos de configuración local
+.vs/
+
+# Ignorar archivos de compilación y resultados de pruebas
+*.exe
+*.dll
+*.pdb
