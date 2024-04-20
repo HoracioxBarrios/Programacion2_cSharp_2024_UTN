@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08A04745-74F2-4617-B95D-9BD640BA5B7F}|Clase3Ejercicio3\\Clase3Ejercicio3.csproj|c:\\users\\orfhen2022\\source\\repos\\programacion2_csharp_2024_utn\\ejerciciosutn\\clase3ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08A04745-74F2-4617-B95D-9BD640BA5B7F}|Clase3Ejercicio3\\Clase3Ejercicio3.csproj|solutionrelative:clase3ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{785B339E-6C94-4ACD-80D6-11F2C457DCB5}|Clase3Ejercicio4-PracticaColor\\Clase3Ejercicio4-PracticaColor.csproj|c:\\users\\orfhen2022\\source\\repos\\programacion2_csharp_2024_utn\\ejerciciosutn\\clase3ejercicio4-practicacolor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B339E-6C94-4ACD-80D6-11F2C457DCB5}|Clase3Ejercicio4-PracticaColor\\Clase3Ejercicio4-PracticaColor.csproj|solutionrelative:clase3ejercicio4-practicacolor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\LibreriaClases.csproj|c:\\users\\orfhen2022\\source\\repos\\programacion2_csharp_2024_utn\\ejerciciosutn\\libreriaclases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB5B2080-CE2A-464D-ABDF-B0A3D19149F8}|Clase3Ejercicio4\\Clase3Ejercicio4.csproj|c:\\users\\orfhen2022\\source\\repos\\programacion2_csharp_2024_utn\\ejerciciosutn\\clase3ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5B2080-CE2A-464D-ABDF-B0A3D19149F8}|Clase3Ejercicio4\\Clase3Ejercicio4.csproj|solutionrelative:clase3ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\LibreriaClases.csproj|c:\\users\\orfhen2022\\source\\repos\\programacion2_csharp_2024_utn\\ejerciciosutn\\libreriaclases\\boligrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\LibreriaClases.csproj|solutionrelative:libreriaclases\\boligrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\LibreriaClases.csproj|C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\libreriaclases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\LibreriaClases.csproj|solutionrelative:libreriaclases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A04745-74F2-4617-B95D-9BD640BA5B7F}|Clase3Ejercicio3\\Clase3Ejercicio3.csproj|C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\clase3ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A04745-74F2-4617-B95D-9BD640BA5B7F}|Clase3Ejercicio3\\Clase3Ejercicio3.csproj|solutionrelative:clase3ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase3Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Clase3Ejercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase3Ejercicio4\\Program.cs",
+              "RelativeToolTip": "Clase3Ejercicio4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T03:35:01.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Boligrafo.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\Boligrafo.cs",
+              "RelativeDocumentMoniker": "LibreriaClases\\Boligrafo.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\Boligrafo.cs",
+              "RelativeToolTip": "LibreriaClases\\Boligrafo.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T03:29:05.286Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -50,29 +88,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase3Ejercicio4-PracticaColor\\Program.cs",
+              "RelativeDocumentMoniker": "Clase3Ejercicio4-PracticaColor\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase3Ejercicio4-PracticaColor\\Program.cs",
+              "RelativeToolTip": "Clase3Ejercicio4-PracticaColor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T03:25:38.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Estudiante.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\Estudiante.cs",
               "RelativeDocumentMoniker": "LibreriaClases\\Estudiante.cs",
               "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\Estudiante.cs",
               "RelativeToolTip": "LibreriaClases\\Estudiante.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAQwBQAAAAJAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAQwEAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T18:00:13.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase3Ejercicio3\\Program.cs",
               "RelativeDocumentMoniker": "Clase3Ejercicio3\\Program.cs",
               "ToolTip": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase3Ejercicio3\\Program.cs",
               "RelativeToolTip": "Clase3Ejercicio3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T17:56:25.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T17:56:25.834Z"
             }
           ]
         }

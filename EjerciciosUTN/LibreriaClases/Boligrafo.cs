@@ -43,23 +43,19 @@ namespace LibreriaClases
         public bool Pintar(short gasto, out string dibujo)
         {
             StringBuilder sb = new StringBuilder();
-            
-            
+            ConsoleColor colorAnterior = Console.ForegroundColor;
+            Console.ForegroundColor = colorAnterior;
             bool seGasto = false;
             if(gasto <= _tinta )
             {
-                              
                 Tinta = gasto;
                 seGasto = true;
-                for(int i = 0; i < gasto; i++)
-                {
-                    ConsoleColor colorAnterior = Console.ForegroundColor;
-                    Console.ForegroundColor = _color;
-                    sb.Append("*");
-                    Console.ForegroundColor = colorAnterior;
+                for(int cantidadAsteriscos = 0; cantidadAsteriscos < gasto; cantidadAsteriscos++)
+                {                  
+                    sb.Append("*");                    
                 }
                 dibujo = sb.ToString();
-                
+                Console.ForegroundColor = _color;
             }
             else
             {
