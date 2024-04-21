@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
+      "projectUniqueName": "C:\\Users\\Orfhen2022\\Source\\Repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
       "projectName": "Clase2Ejercicio1",
-      "projectPath": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
+      "projectPath": "C:\\Users\\Orfhen2022\\Source\\Repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
       "packagesPath": "C:\\Users\\Orfhen2022\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\obj\\",
+      "outputPath": "C:\\Users\\Orfhen2022\\Source\\Repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\Clase2Ejercicio1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Orfhen2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj": {
-              "projectPath": "C:\\Users\\Orfhen2022\\source\\repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj"
+            "C:\\Users\\Orfhen2022\\Source\\Repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj": {
+              "projectPath": "C:\\Users\\Orfhen2022\\Source\\Repos\\Programacion2_cSharp_2024_UTN\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj"
             }
           }
         }

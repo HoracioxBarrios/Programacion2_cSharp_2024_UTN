@@ -26,19 +26,19 @@ namespace LibreriaClases
         public short Tinta
         {
             get { return _tinta; }
-            set
+            private set
             {                
-                if((value + _tinta) >= 0 && (value + _tinta) <= _CantidadTintaMaxima) 
+                if( _tinta >= 0 && _tinta <= _CantidadTintaMaxima) 
                 {
-                    _tinta += value; 
+                    _tinta -= value; 
                 }
             }
 
         }
 
-        public void Recargar()
+        public void Recargar() 
         {
-            _tinta = _CantidadTintaMaxima;
+            Tinta = _CantidadTintaMaxima;
         }
         public bool Pintar(short gasto, out string dibujo)
         {
