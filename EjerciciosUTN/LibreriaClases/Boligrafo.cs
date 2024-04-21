@@ -28,7 +28,7 @@ namespace LibreriaClases
             get { return _tinta; }
             private set
             {                
-                if( _tinta >= 0 && _tinta <= _CantidadTintaMaxima) 
+                if( value >= 0 && value <= _CantidadTintaMaxima) 
                 {
                     _tinta -= value; 
                 }
@@ -38,7 +38,7 @@ namespace LibreriaClases
 
         public void Recargar() 
         {
-            Tinta = _CantidadTintaMaxima;
+            _tinta = _CantidadTintaMaxima;
         }
         public bool Pintar(short gasto, out string dibujo)
         {
