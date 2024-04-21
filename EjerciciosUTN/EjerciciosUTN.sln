@@ -36,9 +36,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase3Ejercicio3", "Clase3Ejercicio3\Clase3Ejercicio3.csproj", "{08A04745-74F2-4617-B95D-9BD640BA5B7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase3Ejercicio4", "Clase3Ejercicio4\Clase3Ejercicio4.csproj", "{CB5B2080-CE2A-464D-ABDF-B0A3D19149F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase3Ejercicio4", "Clase3Ejercicio4\Clase3Ejercicio4.csproj", "{CB5B2080-CE2A-464D-ABDF-B0A3D19149F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase3Ejercicio4-PracticaColor", "Clase3Ejercicio4-PracticaColor\Clase3Ejercicio4-PracticaColor.csproj", "{785B339E-6C94-4ACD-80D6-11F2C457DCB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase3Ejercicio4-PracticaColor", "Clase3Ejercicio4-PracticaColor\Clase3Ejercicio4-PracticaColor.csproj", "{785B339E-6C94-4ACD-80D6-11F2C457DCB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase1Ejercicio5", "Clase1Ejercicio5\Clase1Ejercicio5.csproj", "{06FEF7AF-567B-4DF0-A23F-7C65F69D89FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -98,6 +100,10 @@ Global
 		{785B339E-6C94-4ACD-80D6-11F2C457DCB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{785B339E-6C94-4ACD-80D6-11F2C457DCB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{785B339E-6C94-4ACD-80D6-11F2C457DCB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06FEF7AF-567B-4DF0-A23F-7C65F69D89FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FEF7AF-567B-4DF0-A23F-7C65F69D89FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FEF7AF-567B-4DF0-A23F-7C65F69D89FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FEF7AF-567B-4DF0-A23F-7C65F69D89FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
