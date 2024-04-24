@@ -54,6 +54,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrecargaOperadoresEj1", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase4Ejercicio1", "Clase4Ejercicio1\Clase4Ejercicio1.csproj", "{8F0E186A-E454-40D9-8FCB-78753E249B6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billetes", "Billetes\Billetes.csproj", "{9CC76301-1A64-41D0-98DE-E98682B4E429}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -136,6 +138,10 @@ Global
 		{8F0E186A-E454-40D9-8FCB-78753E249B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F0E186A-E454-40D9-8FCB-78753E249B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F0E186A-E454-40D9-8FCB-78753E249B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC76301-1A64-41D0-98DE-E98682B4E429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC76301-1A64-41D0-98DE-E98682B4E429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC76301-1A64-41D0-98DE-E98682B4E429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC76301-1A64-41D0-98DE-E98682B4E429}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -158,6 +164,7 @@ Global
 		{018140FC-3BBB-4E53-B0C8-C4185F8631AC} = {44D219F0-C35B-4A50-9985-7BB32EDC9B53}
 		{C4797108-F6E1-442E-B6E0-BBCE706DDC37} = {44D219F0-C35B-4A50-9985-7BB32EDC9B53}
 		{2DC37502-F452-44F0-90F5-56B87517BB76} = {44D219F0-C35B-4A50-9985-7BB32EDC9B53}
+		{8F0E186A-E454-40D9-8FCB-78753E249B6A} = {44D219F0-C35B-4A50-9985-7BB32EDC9B53}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56A756F6-2467-43C0-90D6-FBEC92801C43}
