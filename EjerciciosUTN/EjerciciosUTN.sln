@@ -44,19 +44,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase1Ejercicio5", "Clase1E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4- Sobrecarga", "4- Sobrecarga", "{44D219F0-C35B-4A50-9985-7BB32EDC9B53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrecargaConstructorApp", "PracticaSobrecargaConstr\SobrecargaConstructorApp.csproj", "{1C03F64D-6500-41B0-9C40-87A5D719080E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SobrecargaConstructorApp", "PracticaSobrecargaConstr\SobrecargaConstructorApp.csproj", "{1C03F64D-6500-41B0-9C40-87A5D719080E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrecargaOperadoresCoversionExplicitaApp", "SobrecargaOperadoresCoversionExplicitaApp\SobrecargaOperadoresCoversionExplicitaApp.csproj", "{018140FC-3BBB-4E53-B0C8-C4185F8631AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SobrecargaOperadoresCoversionExplicitaApp", "SobrecargaOperadoresCoversionExplicitaApp\SobrecargaOperadoresCoversionExplicitaApp.csproj", "{018140FC-3BBB-4E53-B0C8-C4185F8631AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrecargaOperadoresCoversionImplicitoApp", "SobrecargaOperadoresCoversionImplicitoApp\SobrecargaOperadoresCoversionImplicitoApp.csproj", "{C4797108-F6E1-442E-B6E0-BBCE706DDC37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SobrecargaOperadoresCoversionImplicitoApp", "SobrecargaOperadoresCoversionImplicitoApp\SobrecargaOperadoresCoversionImplicitoApp.csproj", "{C4797108-F6E1-442E-B6E0-BBCE706DDC37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrecargaOperadoresEj1", "SobrecargaOperadoresEj1\SobrecargaOperadoresEj1.csproj", "{2DC37502-F452-44F0-90F5-56B87517BB76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SobrecargaOperadoresEj1", "SobrecargaOperadoresEj1\SobrecargaOperadoresEj1.csproj", "{2DC37502-F452-44F0-90F5-56B87517BB76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase4Ejercicio1", "Clase4Ejercicio1\Clase4Ejercicio1.csproj", "{8F0E186A-E454-40D9-8FCB-78753E249B6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase4Ejercicio1", "Clase4Ejercicio1\Clase4Ejercicio1.csproj", "{8F0E186A-E454-40D9-8FCB-78753E249B6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billetes", "Billetes\Billetes.csproj", "{9CC76301-1A64-41D0-98DE-E98682B4E429}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Billetes", "Billetes\Billetes.csproj", "{9CC76301-1A64-41D0-98DE-E98682B4E429}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase4Ejercicio2", "Clase4Ejercicio2\Clase4Ejercicio2.csproj", "{1216301A-08D5-4C7B-9F9E-5A90B54D5901}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase4Ejercicio2", "Clase4Ejercicio2\Clase4Ejercicio2.csproj", "{1216301A-08D5-4C7B-9F9E-5A90B54D5901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase1Ejercicio6", "Clase1Ejercicio6\Clase1Ejercicio6.csproj", "{2DAAD2F8-FC0A-4459-9108-BECE06227E8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase1Ejercicio6Alternativa", "Clase1Ejercicio6Alternativa\Clase1Ejercicio6Alternativa.csproj", "{CCB58B55-0886-48A7-9BB9-7E0D07B05C3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase1Ejercicio7", "Clase1Ejercicio7\Clase1Ejercicio7.csproj", "{2028EDF6-C8B1-4C44-B3F9-DE278C3F2B7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -148,6 +154,18 @@ Global
 		{1216301A-08D5-4C7B-9F9E-5A90B54D5901}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1216301A-08D5-4C7B-9F9E-5A90B54D5901}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1216301A-08D5-4C7B-9F9E-5A90B54D5901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DAAD2F8-FC0A-4459-9108-BECE06227E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DAAD2F8-FC0A-4459-9108-BECE06227E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DAAD2F8-FC0A-4459-9108-BECE06227E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DAAD2F8-FC0A-4459-9108-BECE06227E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB58B55-0886-48A7-9BB9-7E0D07B05C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB58B55-0886-48A7-9BB9-7E0D07B05C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB58B55-0886-48A7-9BB9-7E0D07B05C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB58B55-0886-48A7-9BB9-7E0D07B05C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2028EDF6-C8B1-4C44-B3F9-DE278C3F2B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2028EDF6-C8B1-4C44-B3F9-DE278C3F2B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2028EDF6-C8B1-4C44-B3F9-DE278C3F2B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2028EDF6-C8B1-4C44-B3F9-DE278C3F2B7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -171,6 +189,8 @@ Global
 		{C4797108-F6E1-442E-B6E0-BBCE706DDC37} = {44D219F0-C35B-4A50-9985-7BB32EDC9B53}
 		{2DC37502-F452-44F0-90F5-56B87517BB76} = {44D219F0-C35B-4A50-9985-7BB32EDC9B53}
 		{8F0E186A-E454-40D9-8FCB-78753E249B6A} = {44D219F0-C35B-4A50-9985-7BB32EDC9B53}
+		{2DAAD2F8-FC0A-4459-9108-BECE06227E8F} = {725C78E1-AFED-494D-9CB1-3ACDAC96BC82}
+		{CCB58B55-0886-48A7-9BB9-7E0D07B05C3F} = {725C78E1-AFED-494D-9CB1-3ACDAC96BC82}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56A756F6-2467-43C0-90D6-FBEC92801C43}
