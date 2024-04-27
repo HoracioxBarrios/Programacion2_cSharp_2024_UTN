@@ -22,24 +22,60 @@
         {
             get { return _cantidad; }
         }
-        public static double CantizRespectDolar
+
+        public static double Cotizacion
         {
             get { return _cotizRespectDolar; }
         }
 
         public static explicit operator Dolar(Peso peso)//ok
         {
-            double tasaDeCambio = CantizRespectDolar;
+            double tasaDeCambio = Cotizacion;
             double montoEnDolares = peso.Cantidad / tasaDeCambio;
             return new Dolar(montoEnDolares);
         }
 
         public static explicit operator Euro(Peso peso)
         {
-            double tasaDeCambio = CantizRespectDolar;
+            double tasaDeCambio = Cotizacion;
             double montoEnDolares = peso.Cantidad / tasaDeCambio;
-            double montoEnEuros = montoEnDolares / Euro.CantizRespectDolar;
+            double montoEnEuros = montoEnDolares / Euro.Cotizacion;
             return new Euro(montoEnEuros);
+        }
+
+        public static implicit operator Peso(double cantidad)
+        {
+            return new Peso(cantidad);
+        }
+
+        public static bool operator ==(Peso peso, Dolar dolar)
+        {
+            return peso.Cantidad == dolar.Cantidad;
+        }
+
+        public static bool operator !=(Peso peso, Dolar dolar)
+        {
+            return !(peso.Cantidad == dolar.Cantidad);
+        }
+
+        public static bool operator ==(Peso peso, Euro euro)
+        {
+            return peso.Cantidad == euro.Cantidad;
+        }
+
+        public static bool operator !=(Peso peso, Euro euro)
+        {
+            return !(peso.Cantidad == euro.Cantidad);
+        }
+
+        public static bool operator ==(Peso peso, Peso peso2)
+        {
+            return peso.Cantidad == peso2.Cantidad;
+        }
+
+        public static bool operator !=(Peso peso, Peso peso2)
+        {
+            return !(peso.Cantidad == peso2.Cantidad);
         }
 
     }

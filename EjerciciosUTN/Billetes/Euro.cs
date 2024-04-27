@@ -30,25 +30,59 @@ namespace Billetes
             get { return _cantidad; }        
         }
 
-        public static double CantizRespectDolar
+        public static double Cotizacion
         {
             get { return _cotizRespectDolar;}
         }
 
         public static explicit operator Dolar(Euro euro)//ok
         {
-            double tasaDeCambio = CantizRespectDolar;
+            double tasaDeCambio = Cotizacion;
             double montoEnDolar = euro.Cantidad * tasaDeCambio;
             return new Dolar(montoEnDolar);
         }
 
         public static explicit operator Peso(Euro euro)//ok
         {
-            double tasaDeCambioDolar = CantizRespectDolar;
+            double tasaDeCambioDolar = Cotizacion;
             double montoEnDolar = euro.Cantidad * tasaDeCambioDolar;
-            double tasaDecambioPesos = Peso.CantizRespectDolar * montoEnDolar;
+            double tasaDecambioPesos = Peso.Cotizacion * montoEnDolar;
             return new Peso(tasaDecambioPesos);
         }
 
+        public static implicit operator Euro(double cantidad)
+        {
+            return new Euro(cantidad);
+        }
+
+        public static bool operator ==(Euro euro, Dolar dolar)
+        {
+            return euro.Cantidad == dolar.Cantidad;
+        }
+
+        public static bool operator !=(Euro euro, Dolar dolar)
+        {
+            return !(euro.Cantidad == dolar.Cantidad);
+        }
+
+        public static bool operator ==(Euro euro, Peso peso)
+        {
+            return euro.Cantidad == peso.Cantidad;
+        }
+
+        public static bool operator !=(Euro euro, Peso peso)
+        {
+            return !(euro.Cantidad == peso.Cantidad);
+        }
+
+        public static bool operator ==(Euro euro, Euro euro2)
+        {
+            return euro.Cantidad == euro2.Cantidad;
+        }
+
+        public static bool operator !=(Euro euro, Euro euro2)
+        {
+            return !(euro.Cantidad == euro2.Cantidad);
+        }
     }   
 }

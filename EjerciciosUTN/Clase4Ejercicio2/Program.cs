@@ -32,8 +32,20 @@ namespace Clase4Ejercicio2
             Console.WriteLine($"Euro -> Dolar: {dolares2.Cantidad}");
             Console.WriteLine($"Euro -> Pesos: {pesos3.Cantidad}");
 
+            Dolar dolares3 = 100.15;
+            Console.WriteLine(dolares3.Cantidad);
 
+            Euro euros3 = 500.50;
+            Console.WriteLine(euros3.Cantidad);
 
+            Peso pesos4 = 100.500;
+            Console.WriteLine(pesos4.Cantidad);
+            //--------------------------------------- Operador ==
+            Dolar dolares4 = 100;
+            Euro euros4 = 100;
+
+            bool resultado = dolares4 == euros4;
+            Console.WriteLine($"Comparacion {resultado}");
 
         }
     }
