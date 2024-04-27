@@ -54,8 +54,8 @@ namespace Billetes
 
         public static bool operator ==(Dolar dolar, Euro euro)
         {
-            //Corregir
-            return dolar.Cantidad == euro.Cantidad;
+            Dolar dolar1 = (Dolar)euro;
+            return dolar.Cantidad == dolar1.Cantidad;
         }
         public static bool operator !=(Dolar dolar, Euro euro)
         {
@@ -84,8 +84,8 @@ namespace Billetes
         public static Dolar operator +(Dolar dolar , Euro euro)
         {
             // convertir euro a dolar para sumar
-
-            double cantidad = dolar.Cantidad + euro.Cantidad;
+            Dolar dolar1 = (Dolar)euro;
+            double cantidad = dolar.Cantidad + dolar1.Cantidad;
             return new Dolar(cantidad);
         }
         public static Dolar operator -(Dolar dolar, Euro euro)

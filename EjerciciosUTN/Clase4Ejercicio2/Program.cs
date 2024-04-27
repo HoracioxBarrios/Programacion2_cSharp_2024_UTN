@@ -42,9 +42,9 @@ namespace Clase4Ejercicio2
             Console.WriteLine(pesos4.Cantidad);
             //--------------------------------------- Operador ==
             Dolar dolares4 = 100;
-            Euro euros4 = 100;
+            Euro euros4 = 117;
 
-            bool resultado = dolares4 == euros4;
+            bool resultado = euros4 == dolares4;
             Console.WriteLine($"Comparacion {resultado}");
 
         }

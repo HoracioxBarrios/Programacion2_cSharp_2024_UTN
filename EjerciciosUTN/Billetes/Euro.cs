@@ -57,7 +57,8 @@ namespace Billetes
 
         public static bool operator ==(Euro euro, Dolar dolar)
         {
-            return euro.Cantidad == dolar.Cantidad;
+            Euro euro1 = (Euro)dolar;
+            return euro.Cantidad == euro1.Cantidad;
         }
 
         public static bool operator !=(Euro euro, Dolar dolar)
