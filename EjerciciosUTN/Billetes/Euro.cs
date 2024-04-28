@@ -53,35 +53,37 @@ namespace Billetes
             return new Euro(cantidad);
         }
 
-        //public static bool operator ==(Euro euro, Dolar dolar)
-        //{
-        //    Euro euro1 = (Euro)dolar;
-        //    return euro.Cantidad == euro1.Cantidad;
-        //}
+        public static bool operator ==(Euro euro, Dolar dolar)
+        {
+            Euro euro1 = (Euro)dolar;
+            return euro.Cantidad == euro1.Cantidad;
+        }
 
-        //public static bool operator !=(Euro euro, Dolar dolar)
-        //{
-        //    return !(euro.Cantidad == dolar.Cantidad);
-        //}
+        public static bool operator !=(Euro euro, Dolar dolar)
+        {
+            return !(euro == dolar);
+        }
 
-        //public static bool operator ==(Euro euro, Peso peso)
-        //{
-        //    return euro.Cantidad == peso.Cantidad;
-        //}
+        public static bool operator ==(Euro euro, Peso peso)
+        {
+            Dolar dePesoADolar = (Dolar)peso;
+            Euro deDolarAEuro = (Euro)dePesoADolar;
+            return euro.Cantidad == deDolarAEuro.Cantidad;
+        }
 
-        //public static bool operator !=(Euro euro, Peso peso)
-        //{
-        //    return !(euro.Cantidad == peso.Cantidad);
-        //}
+        public static bool operator !=(Euro euro, Peso peso)
+        {
+            return !(euro == peso);
+        }
 
-        //public static bool operator ==(Euro euro, Euro euro2)
-        //{
-        //    return euro.Cantidad == euro2.Cantidad;
-        //}
+        public static bool operator ==(Euro euro, Euro euro2)
+        {
+            return euro.Cantidad == euro2.Cantidad;
+        }
 
-        //public static bool operator !=(Euro euro, Euro euro2)
-        //{
-        //    return !(euro.Cantidad == euro2.Cantidad);
-        //}
+        public static bool operator !=(Euro euro, Euro euro2)
+        {
+            return !(euro == euro2);
+        }
     }   
 }

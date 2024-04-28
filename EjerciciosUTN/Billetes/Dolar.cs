@@ -59,34 +59,36 @@ namespace Billetes
             return new Dolar(cantidad);
         }
 
-        //public static bool operator ==(Dolar dolar, Euro euro)
-        //{
-        //    Dolar dolar1 = (Dolar)euro;
-        //    return dolar.Cantidad == dolar1.Cantidad;
-        //}
-        //public static bool operator !=(Dolar dolar, Euro euro)
-        //{
-        //    return !(dolar.Cantidad == euro.Cantidad);
-        //}
+        public static bool operator ==(Dolar dolar, Euro euro)// 1.17 dolar == 1 euro
+        {
+            Dolar dolar1 = (Dolar)euro;
+            return dolar.Cantidad == dolar1.Cantidad;
+        }
+        public static bool operator !=(Dolar dolar, Euro euro)
+        {
+            return !(dolar == euro);
+        }
 
-        //public static bool operator ==(Dolar dolar, Peso peso)
-        //{
-        //    return dolar.Cantidad == peso.Cantidad;
-        //}
+        public static bool operator ==(Dolar dolar, Peso peso)
+        {
+            Dolar dePesoADolar = (Dolar)peso;
+            return dolar.Cantidad == dePesoADolar.Cantidad;
+        }
 
-        //public static bool operator !=(Dolar dolar, Peso peso)
-        //{
-        //    return !(dolar.Cantidad == peso.Cantidad);
-        //}
-        //public static bool operator ==(Dolar dolar, Dolar dolar2)
-        //{
-        //    return dolar.Cantidad == dolar2.Cantidad;
-        //}
+        public static bool operator !=(Dolar dolar, Peso peso)
+        {
+            return !(dolar == peso);
+        }
 
-        //public static bool operator !=(Dolar dolar, Dolar dolar2)
-        //{
-        //    return !(dolar.Cantidad == dolar2.Cantidad);
-        //}
+        public static bool operator ==(Dolar dolar, Dolar dolar2)
+        {
+            return dolar.Cantidad == dolar2.Cantidad;
+        }
+
+        public static bool operator !=(Dolar dolar, Dolar dolar2)
+        {
+            return !(dolar == dolar2);
+        }
 
         //public static Dolar operator +(Dolar dolar , Euro euro)
         //{

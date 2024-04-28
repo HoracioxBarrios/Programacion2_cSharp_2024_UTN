@@ -47,35 +47,38 @@
             return new Peso(cantidad);
         }
 
-        //public static bool operator ==(Peso peso, Dolar dolar)
-        //{
-        //    return peso.Cantidad == dolar.Cantidad;
-        //}
+        public static bool operator ==(Peso peso, Dolar dolar)
+        {
+            Peso deDolarAPeso = (Peso)dolar;
+            return peso.Cantidad == deDolarAPeso.Cantidad;
+        }
 
-        //public static bool operator !=(Peso peso, Dolar dolar)
-        //{
-        //    return !(peso.Cantidad == dolar.Cantidad);
-        //}
+        public static bool operator !=(Peso peso, Dolar dolar)
+        {
+            return !(peso == dolar);
+        }
 
-        //public static bool operator ==(Peso peso, Euro euro)
-        //{
-        //    return peso.Cantidad == euro.Cantidad;
-        //}
+        public static bool operator ==(Peso peso, Euro euro)
+        {
+            Dolar deEuroADolar = (Dolar)euro;
+            Peso deDolarAPeso = (Peso)deEuroADolar;
+            return peso.Cantidad == deDolarAPeso.Cantidad;
+        }
 
-        //public static bool operator !=(Peso peso, Euro euro)
-        //{
-        //    return !(peso.Cantidad == euro.Cantidad);
-        //}
+        public static bool operator !=(Peso peso, Euro euro)
+        {
+            return !(peso == euro);
+        }
 
-        //public static bool operator ==(Peso peso, Peso peso2)
-        //{
-        //    return peso.Cantidad == peso2.Cantidad;
-        //}
+        public static bool operator ==(Peso peso, Peso peso2)
+        {
+            return peso.Cantidad == peso2.Cantidad;
+        }
 
-        //public static bool operator !=(Peso peso, Peso peso2)
-        //{
-        //    return !(peso.Cantidad == peso2.Cantidad);
-        //}
+        public static bool operator !=(Peso peso, Peso peso2)
+        {
+            return !(peso == peso2);
+        }
 
     }
 }
