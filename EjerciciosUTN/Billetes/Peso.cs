@@ -5,11 +5,11 @@
         private double _cantidad;
         private static double _cotizRespectDolar;
 
-        private Peso()
+        static Peso()
         {
             _cotizRespectDolar = 102.65;
         }
-        public Peso(double cantidad) : this()
+        public Peso(double cantidad)
         {
             _cantidad = cantidad;
         }
@@ -28,18 +28,17 @@
             get { return _cotizRespectDolar; }
         }
 
-        public static explicit operator Dolar(Peso peso)//ok
+        public static explicit operator Dolar(Peso peso)
         {
-            double tasaDeCambio = Cotizacion;
-            double montoEnDolares = peso.Cantidad / tasaDeCambio;
+            double montoEnDolares = peso.Cantidad / Cotizacion; // 102.65 pesos dividido la cotizacion 102.65 = 1
             return new Dolar(montoEnDolares);
         }
 
+
         public static explicit operator Euro(Peso peso)
         {
-            double tasaDeCambio = Cotizacion;
-            double montoEnDolares = peso.Cantidad / tasaDeCambio;
-            double montoEnEuros = montoEnDolares / Euro.Cotizacion;
+            Dolar montoEnDolares = (Dolar)peso; // 102.65 pesos = 1 Dolar
+            double montoEnEuros = montoEnDolares.Cantidad * Euro.Cotizacion; // 1 Dolar * 1.17 = 1.17 Euros 
             return new Euro(montoEnEuros);
         }
 
@@ -48,35 +47,35 @@
             return new Peso(cantidad);
         }
 
-        public static bool operator ==(Peso peso, Dolar dolar)
-        {
-            return peso.Cantidad == dolar.Cantidad;
-        }
+        //public static bool operator ==(Peso peso, Dolar dolar)
+        //{
+        //    return peso.Cantidad == dolar.Cantidad;
+        //}
 
-        public static bool operator !=(Peso peso, Dolar dolar)
-        {
-            return !(peso.Cantidad == dolar.Cantidad);
-        }
+        //public static bool operator !=(Peso peso, Dolar dolar)
+        //{
+        //    return !(peso.Cantidad == dolar.Cantidad);
+        //}
 
-        public static bool operator ==(Peso peso, Euro euro)
-        {
-            return peso.Cantidad == euro.Cantidad;
-        }
+        //public static bool operator ==(Peso peso, Euro euro)
+        //{
+        //    return peso.Cantidad == euro.Cantidad;
+        //}
 
-        public static bool operator !=(Peso peso, Euro euro)
-        {
-            return !(peso.Cantidad == euro.Cantidad);
-        }
+        //public static bool operator !=(Peso peso, Euro euro)
+        //{
+        //    return !(peso.Cantidad == euro.Cantidad);
+        //}
 
-        public static bool operator ==(Peso peso, Peso peso2)
-        {
-            return peso.Cantidad == peso2.Cantidad;
-        }
+        //public static bool operator ==(Peso peso, Peso peso2)
+        //{
+        //    return peso.Cantidad == peso2.Cantidad;
+        //}
 
-        public static bool operator !=(Peso peso, Peso peso2)
-        {
-            return !(peso.Cantidad == peso2.Cantidad);
-        }
+        //public static bool operator !=(Peso peso, Peso peso2)
+        //{
+        //    return !(peso.Cantidad == peso2.Cantidad);
+        //}
 
     }
 }

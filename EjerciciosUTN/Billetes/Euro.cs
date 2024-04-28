@@ -12,11 +12,11 @@ namespace Billetes
         private double _cantidad;
         private static double _cotizRespectDolar;
 
-        private Euro() 
+        static Euro() 
         {
             _cotizRespectDolar = 1.17;
         }
-        public Euro(double cantidad) : this()
+        public Euro(double cantidad) 
         {
             _cantidad = cantidad;
         }
@@ -35,18 +35,16 @@ namespace Billetes
             get { return _cotizRespectDolar;}
         }
 
-        public static explicit operator Dolar(Euro euro)//ok
+        public static explicit operator Dolar(Euro euro) //1.17 Euros = 1 Dolar
         {
-            double tasaDeCambio = Cotizacion;
-            double montoEnDolar = euro.Cantidad * tasaDeCambio;
+            double montoEnDolar = euro.Cantidad / Cotizacion; //Euro cant 1 = 0,854 Dolars
             return new Dolar(montoEnDolar);
         }
 
-        public static explicit operator Peso(Euro euro)//ok
-        {
-            double tasaDeCambioDolar = Cotizacion;
-            double montoEnDolar = euro.Cantidad * tasaDeCambioDolar;
-            double tasaDecambioPesos = Peso.Cotizacion * montoEnDolar;
+        public static explicit operator Peso(Euro euro)
+        {            
+            Dolar montoEnDolar = (Dolar)euro; //1.17 Euros = 1 
+            double tasaDecambioPesos = montoEnDolar.Cantidad * Peso.Cotizacion; // 1 dolar * 102.65 cotiz = 102.65 pesos
             return new Peso(tasaDecambioPesos);
         }
 
@@ -55,35 +53,35 @@ namespace Billetes
             return new Euro(cantidad);
         }
 
-        public static bool operator ==(Euro euro, Dolar dolar)
-        {
-            Euro euro1 = (Euro)dolar;
-            return euro.Cantidad == euro1.Cantidad;
-        }
+        //public static bool operator ==(Euro euro, Dolar dolar)
+        //{
+        //    Euro euro1 = (Euro)dolar;
+        //    return euro.Cantidad == euro1.Cantidad;
+        //}
 
-        public static bool operator !=(Euro euro, Dolar dolar)
-        {
-            return !(euro.Cantidad == dolar.Cantidad);
-        }
+        //public static bool operator !=(Euro euro, Dolar dolar)
+        //{
+        //    return !(euro.Cantidad == dolar.Cantidad);
+        //}
 
-        public static bool operator ==(Euro euro, Peso peso)
-        {
-            return euro.Cantidad == peso.Cantidad;
-        }
+        //public static bool operator ==(Euro euro, Peso peso)
+        //{
+        //    return euro.Cantidad == peso.Cantidad;
+        //}
 
-        public static bool operator !=(Euro euro, Peso peso)
-        {
-            return !(euro.Cantidad == peso.Cantidad);
-        }
+        //public static bool operator !=(Euro euro, Peso peso)
+        //{
+        //    return !(euro.Cantidad == peso.Cantidad);
+        //}
 
-        public static bool operator ==(Euro euro, Euro euro2)
-        {
-            return euro.Cantidad == euro2.Cantidad;
-        }
+        //public static bool operator ==(Euro euro, Euro euro2)
+        //{
+        //    return euro.Cantidad == euro2.Cantidad;
+        //}
 
-        public static bool operator !=(Euro euro, Euro euro2)
-        {
-            return !(euro.Cantidad == euro2.Cantidad);
-        }
+        //public static bool operator !=(Euro euro, Euro euro2)
+        //{
+        //    return !(euro.Cantidad == euro2.Cantidad);
+        //}
     }   
 }
