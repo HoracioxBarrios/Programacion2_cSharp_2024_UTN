@@ -30,16 +30,16 @@
 
         public static explicit operator Dolar(Peso peso)
         {
-            double montoEnDolares = peso.Cantidad / Cotizacion; // 102.65 pesos dividido la cotizacion 102.65 = 1
+            double montoEnDolares = peso.Cantidad / Cotizacion; // 102.65 pesos divid la cotizacion 102.65 = 1
             return new Dolar(montoEnDolares);
         }
 
 
         public static explicit operator Euro(Peso peso)
         {
-            Dolar montoEnDolares = (Dolar)peso; // 102.65 pesos = 1 Dolar
-            double montoEnEuros = montoEnDolares.Cantidad * Euro.Cotizacion; // 1 Dolar * 1.17 = 1.17 Euros 
-            return new Euro(montoEnEuros);
+            Dolar montoEnDolar = (Dolar)peso; // 102.65 pesos = 1 dolar
+            Euro montoEnEuros = (Euro)montoEnDolar; // 1 dolar = 0.81 euros
+            return montoEnEuros;
         }
 
         public static implicit operator Peso(double cantidad)

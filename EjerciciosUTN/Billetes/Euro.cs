@@ -35,17 +35,17 @@ namespace Billetes
             get { return _cotizRespectDolar;}
         }
 
-        public static explicit operator Dolar(Euro euro) //1.17 Euros = 1 Dolar
+        public static explicit operator Dolar(Euro euro) 
         {
-            double montoEnDolar = euro.Cantidad / Cotizacion; //Euro cant 1 = 0,854 Dolars
+            double montoEnDolar = euro.Cantidad * Cotizacion; //1 Euros = 1.17 Dolar
             return new Dolar(montoEnDolar);
         }
 
         public static explicit operator Peso(Euro euro)
         {            
-            Dolar montoEnDolar = (Dolar)euro; //1.17 Euros = 1 
-            double tasaDecambioPesos = montoEnDolar.Cantidad * Peso.Cotizacion; // 1 dolar * 102.65 cotiz = 102.65 pesos
-            return new Peso(tasaDecambioPesos);
+            Dolar montoEnDolar = (Dolar)euro; //1 Euros = 1.17 dolar
+            Peso montoEnPesos = (Peso)montoEnDolar;// 1.17 dolar * 102.65 cotiz = 120.10 pesos
+            return montoEnPesos;
         }
 
         public static implicit operator Euro(double cantidad)

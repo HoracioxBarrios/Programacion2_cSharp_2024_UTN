@@ -7,33 +7,24 @@ namespace Clase4Ejercicio2
         static void Main(string[] args)
         {
             //Ejercicio I02 - Cotizador - https://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/docs/clases/sobrecarga/Ejercicios/I02-cotizador/
-            Dolar dolar = new Dolar(1);
-            Euro euro = new Euro(1);
-            Peso pesos = new Peso(102.65);
-
-            Console.WriteLine(dolar.Cantidad);
-            Console.WriteLine(euro.Cantidad);
-            Console.WriteLine(pesos.Cantidad);
-            Console.WriteLine(Dolar.Cotizacion);
-            Console.WriteLine(Euro.Cotizacion);
-            Console.WriteLine(Peso.Cotizacion);
+            Dolar dolar = 1;
+            Euro euro = 1;
+            Peso pesos = 102.65;
 
             Euro deDolarAEuro = (Euro)dolar;
-            Console.WriteLine($"1 Dolar es igual a {deDolarAEuro.Cantidad} Euros");
+            Console.WriteLine($"{dolar.Cantidad} Dolar equivale a {deDolarAEuro.Cantidad:f2} Euro");
             Peso deDolarAPeso = (Peso)dolar;
-            Console.WriteLine($"1 Dolar es igual a {deDolarAPeso.Cantidad :f4} Pesos"); // muestro 4 flotantes
+            Console.WriteLine($"{dolar.Cantidad} Dolar equivale a {deDolarAPeso.Cantidad:f2} Peso");
+
+            Dolar deEuroADolar = (Dolar)euro;
+            Console.WriteLine($"{euro.Cantidad} Euro equivale a {deEuroADolar.Cantidad:f2} Dolar");
+            Peso deEuroAPeso = (Peso)euro;
+            Console.WriteLine($"{euro.Cantidad} Euro equivale a {deEuroAPeso.Cantidad:f2} Peso");
 
             Dolar dePesoADolar = (Dolar)pesos;
-            Console.WriteLine($"102.65 Pesos es igual a {dePesoADolar.Cantidad} Dolars");
+            Console.WriteLine($"{pesos.Cantidad} Peso equivale a {dePesoADolar.Cantidad:f2} Dolar");
             Euro dePesoAEuro = (Euro)pesos;
-            Console.WriteLine($"102.65 Pesos es igual a {dePesoAEuro.Cantidad} Euros");
-
-            Euro euro2 = new Euro(1.17);
-            Dolar deEuroADolar = (Dolar)euro2;
-            Console.WriteLine($"1.17 Euros es igual a {deEuroADolar.Cantidad} Dolars");
-            Peso deEuroAPeso = (Peso)euro2;
-            Console.WriteLine($"1.17 Euros es igual a {deEuroAPeso.Cantidad} Pesos");
-
+            Console.WriteLine($"{pesos.Cantidad} Peso equivale a {dePesoAEuro.Cantidad:f2} Euro");
 
 
 

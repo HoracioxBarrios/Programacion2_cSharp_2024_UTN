@@ -44,14 +44,13 @@ namespace Billetes
         public static explicit operator Euro(Dolar dolar)
         {
             //me traigo la cotizacion del Euro (desde la Class porque la Propiedad es statica
-            double montoEnEuros = dolar.Cantidad * Euro.Cotizacion; // cant dolar: 1 * 1.17 = 1.17 euros
+            double montoEnEuros = dolar.Cantidad / Euro.Cotizacion; // cant dolar 1.17 / 1.17 cotz = 1 euro
             return new Euro(montoEnEuros);
         }
         
         public static explicit operator Peso(Dolar dolar)
         {
-
-            double montoEnPesos = dolar.Cantidad / Peso.Cotizacion; //cant dolar: 1 / 102.65 = 0,00974 Pesos
+            double montoEnPesos = dolar.Cantidad * Peso.Cotizacion; //cant dolar: 1 * 102.65 = 102.65 Pesos
             return new Peso(montoEnPesos);
         }
 
