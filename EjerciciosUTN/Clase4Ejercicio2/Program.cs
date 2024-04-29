@@ -77,6 +77,29 @@ namespace Clase4Ejercicio2
             esIgual = peso6 == peso7;
             Console.WriteLine($"{peso6.Cantidad:f2}(Peso) == {peso7.Cantidad:f2}(Peso) ? -> {esIgual}");
 
+            Console.WriteLine("__________________Operadores binario y unarios");
+
+            Dolar dolar8 = 1;
+            Euro euro8 = 2;
+            Dolar cantDolar = dolar8 + euro8;
+            Console.WriteLine($"{dolar8.Cantidad}(Dolar) + {euro8.Cantidad}(Euro) = {cantDolar.Cantidad} (Dolar)");
+
+            Dolar dolar9 = 10;
+            Euro euro9 = 2;
+            Dolar cantDolar2 = dolar9 - euro9;
+            Console.WriteLine($"{dolar9.Cantidad}(Dolar) - {euro9.Cantidad}(Euro) = {cantDolar2.Cantidad} (Dolar)");
+
+            Dolar dolar10 = 10;
+            Peso peso10 = 102.65;
+            Dolar cantDolar3 = dolar10 + peso10;
+            Console.WriteLine($"{dolar9.Cantidad}(Dolar) + {peso10.Cantidad}(Peso) = {cantDolar3.Cantidad} (Dolar)");
+
+
+            Dolar dolar11 = 10;
+            Peso peso11 = 102.65;
+            Dolar cantDolar4 = dolar11 - peso11;
+            Console.WriteLine($"{dolar11.Cantidad}(Dolar) - {peso11.Cantidad}(Peso) = {cantDolar4.Cantidad} (Dolar)");
+
             //Euro euros = (Euro)pesos;
             //Dolar dolares = (Dolar)pesos;
 

@@ -90,18 +90,34 @@ namespace Billetes
             return !(dolar == dolar2);
         }
 
-        //public static Dolar operator +(Dolar dolar , Euro euro)
-        //{
-        //    // convertir euro a dolar para sumar
-        //    Dolar dolar1 = (Dolar)euro;
-        //    double cantidad = dolar.Cantidad + dolar1.Cantidad;
-        //    return new Dolar(cantidad);
-        //}
-        //public static Dolar operator -(Dolar dolar, Euro euro)
-        //{
-        //    double cantidad = dolar.Cantidad - euro.Cantidad;
-        //    return new Dolar(cantidad);
-        //}
+        public static Dolar operator +(Dolar dolar, Euro euro)//1 dolar + 2 euro = 3.34 dolar
+        {
+            // convertir euro a dolar para sumar
+            Dolar dolar1 = (Dolar)euro;
+            double cantidad = dolar.Cantidad + dolar1.Cantidad;
+            return new Dolar(cantidad);
+        }
+
+        public static Dolar operator -(Dolar dolar, Euro euro)
+        {
+            Dolar dolar1 = (Dolar)euro;
+            double cantidad = dolar.Cantidad - dolar1.Cantidad;
+            return new Dolar(cantidad);
+        }
+
+        public static Dolar operator +(Dolar dolar, Peso peso)
+        {
+            Dolar dePesoADolar = (Dolar)peso;
+            double cantidad = dolar.Cantidad + dePesoADolar.Cantidad;
+            return new Dolar(cantidad);
+        }
+
+        public static Dolar operator -(Dolar dolar, Peso peso)
+        {
+            Dolar dePesoADolar = (Dolar)peso;
+            double cantidad = dolar.Cantidad - dePesoADolar.Cantidad;
+            return new Dolar(cantidad);
+        }
 
     }
 }
