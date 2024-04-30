@@ -85,5 +85,33 @@ namespace Billetes
         {
             return !(euro == euro2);
         }
+
+        public static Euro operator +(Euro euro, Dolar dolar)
+        {
+            Euro euro2 = (Euro)dolar;
+            double cantidad = euro.Cantidad + euro2.Cantidad;
+            return new Euro(cantidad);
+        }
+        public static Euro operator -(Euro euro, Dolar dolar)
+        {
+            Euro euro2 = (Euro)dolar;
+            double cantidad = euro.Cantidad - euro2.Cantidad;
+            return new Euro(cantidad);
+        }
+
+        public static Euro operator +(Euro euro, Peso peso)
+        {
+            Dolar dolar = (Dolar)peso;
+            Euro euro2 = ( Euro)dolar;
+            double cantidad = euro.Cantidad + euro2.Cantidad;
+            return new Euro(cantidad);
+        }
+        public static Euro operator -(Euro euro, Peso peso)
+        {
+            Dolar dolar = (Dolar)peso;
+            Euro euro2 = (Euro)dolar;
+            double cantidad = euro.Cantidad - euro2.Cantidad;
+            return new Euro(cantidad);
+        }
     }   
 }

@@ -1,4 +1,7 @@
-﻿namespace Billetes
+﻿using System.Numerics;
+using System.Runtime.CompilerServices;
+
+namespace Billetes
 {
     public class Peso
     {
@@ -80,5 +83,26 @@
             return !(peso == peso2);
         }
 
+        public static Peso operator +(Peso peso1, Dolar dolar)
+        {
+            Peso peso2 = (Peso)dolar;
+            double cantidad = peso1.Cantidad + peso2.Cantidad;
+            return new Peso(cantidad);
+        }
+
+        public static Peso operator -(Peso peso1, Dolar dolar)
+        {
+            Peso peso2 = (Peso)dolar;
+            double cantidad = peso1.Cantidad - peso2.Cantidad;
+            return new Peso(cantidad);
+        }
+
+        public static Peso operator +(Peso peso, Euro euro2)
+        {
+            Dolar dolar = (Dolar)euro2;
+            Peso peso2 = (Peso)dolar;
+            double cantidad = peso.Cantidad - peso2.Cantidad;
+            return new Peso(cantidad);
+        }
     }
 }
