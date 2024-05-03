@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D1FA7F4D-187D-4B86-9055-F82D4FE0F50D}|Clase5Ejercicio2\\Clase5Ejercicio2.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\ejerciciosutn\\clase5ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FA7F4D-187D-4B86-9055-F82D4FE0F50D}|Clase5Ejercicio2\\Clase5Ejercicio2.csproj|solutionrelative:clase5ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2615C3-2621-489D-8C82-8B6225E5C794}|Clase5Ejercicio1\\Clase5Ejercicio1.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\ejerciciosutn\\clase5ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2615C3-2621-489D-8C82-8B6225E5C794}|Clase5Ejercicio1\\Clase5Ejercicio1.csproj|solutionrelative:clase5ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD0185BF-82B5-4BD2-8D63-7C0900708E58}|Clase6Ejercicio1Formulario\\Clase6Ejercicio1Formulario.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\ejerciciosutn\\clase6ejercicio1formulario\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD0185BF-82B5-4BD2-8D63-7C0900708E58}|Clase6Ejercicio1Formulario\\Clase6Ejercicio1Formulario.csproj|solutionrelative:clase6ejercicio1formulario\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -99,19 +107,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase5Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Clase5Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase5Ejercicio2\\Program.cs",
+              "RelativeToolTip": "Clase5Ejercicio2\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:52:57.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase5Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Clase5Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase5Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Clase5Ejercicio1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:27:28.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FrmInicio.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase6Ejercicio1Formulario\\FrmInicio.cs",
               "RelativeDocumentMoniker": "Clase6Ejercicio1Formulario\\FrmInicio.cs",
               "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase6Ejercicio1Formulario\\FrmInicio.cs",
               "RelativeToolTip": "Clase6Ejercicio1Formulario\\FrmInicio.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBsAAABWAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCgAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T18:21:15.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase4Ejercicio2\\Program.cs",
               "RelativeDocumentMoniker": "Clase4Ejercicio2\\Program.cs",
@@ -124,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Peso.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Billetes\\Peso.cs",
               "RelativeDocumentMoniker": "Billetes\\Peso.cs",
@@ -137,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Euro.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Billetes\\Euro.cs",
               "RelativeDocumentMoniker": "Billetes\\Euro.cs",
@@ -150,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Dolar.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Billetes\\Dolar.cs",
               "RelativeDocumentMoniker": "Billetes\\Dolar.cs",
@@ -163,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase1Ejercicio7\\Program.cs",
               "RelativeDocumentMoniker": "Clase1Ejercicio7\\Program.cs",
@@ -175,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase1Ejercicio6Alternativa\\Program.cs",
               "RelativeDocumentMoniker": "Clase1Ejercicio6Alternativa\\Program.cs",
@@ -187,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase1Ejercicio6\\Program.cs",
               "RelativeDocumentMoniker": "Clase1Ejercicio6\\Program.cs",
@@ -199,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase1Ejercicio5\\Program.cs",
               "RelativeDocumentMoniker": "Clase1Ejercicio5\\Program.cs",
@@ -211,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase3Ejercicio4\\Program.cs",
               "RelativeDocumentMoniker": "Clase3Ejercicio4\\Program.cs",
@@ -223,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Boligrafo.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\LibreriaClases\\Boligrafo.cs",
               "RelativeDocumentMoniker": "LibreriaClases\\Boligrafo.cs",
@@ -235,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase3Ejercicio4-PracticaColor\\Program.cs",
               "RelativeDocumentMoniker": "Clase3Ejercicio4-PracticaColor\\Program.cs",
@@ -247,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Estudiante.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\LibreriaClases\\Estudiante.cs",
               "RelativeDocumentMoniker": "LibreriaClases\\Estudiante.cs",
@@ -259,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase3Ejercicio3\\Program.cs",
               "RelativeDocumentMoniker": "Clase3Ejercicio3\\Program.cs",
