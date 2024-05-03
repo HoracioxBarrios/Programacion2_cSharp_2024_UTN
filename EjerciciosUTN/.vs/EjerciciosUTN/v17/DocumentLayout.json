@@ -1,58 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\",
+  "WorkspaceRootPath": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1216301A-08D5-4C7B-9F9E-5A90B54D5901}|Clase4Ejercicio2\\Clase4Ejercicio2.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\ejerciciosutn\\clase4ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1216301A-08D5-4C7B-9F9E-5A90B54D5901}|Clase4Ejercicio2\\Clase4Ejercicio2.csproj|solutionrelative:clase4ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD0185BF-82B5-4BD2-8D63-7C0900708E58}|Clase6Ejercicio1Formulario\\Clase6Ejercicio1Formulario.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\clase6ejercicio1formulario\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD0185BF-82B5-4BD2-8D63-7C0900708E58}|Clase6Ejercicio1Formulario\\Clase6Ejercicio1Formulario.csproj|solutionrelative:clase6ejercicio1formulario\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC76301-1A64-41D0-98DE-E98682B4E429}|Billetes\\Billetes.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\ejerciciosutn\\billetes\\euro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC76301-1A64-41D0-98DE-E98682B4E429}|Billetes\\Billetes.csproj|solutionrelative:billetes\\euro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF444144-77DC-4739-AAB8-19325B2D09AD}|FormularioSaludo\\FormularioSaludo.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\formulariosaludo\\frmsaludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF444144-77DC-4739-AAB8-19325B2D09AD}|FormularioSaludo\\FormularioSaludo.csproj|solutionrelative:formulariosaludo\\frmsaludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC76301-1A64-41D0-98DE-E98682B4E429}|Billetes\\Billetes.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\ejerciciosutn\\billetes\\dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC76301-1A64-41D0-98DE-E98682B4E429}|Billetes\\Billetes.csproj|solutionrelative:billetes\\dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF444144-77DC-4739-AAB8-19325B2D09AD}|FormularioSaludo\\FormularioSaludo.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\formulariosaludo\\frmsaludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF444144-77DC-4739-AAB8-19325B2D09AD}|FormularioSaludo\\FormularioSaludo.csproj|solutionrelative:formulariosaludo\\frmsaludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC76301-1A64-41D0-98DE-E98682B4E429}|Billetes\\Billetes.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\ejerciciosutn\\billetes\\peso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC76301-1A64-41D0-98DE-E98682B4E429}|Billetes\\Billetes.csproj|solutionrelative:billetes\\peso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD0185BF-82B5-4BD2-8D63-7C0900708E58}|Clase6Ejercicio1Formulario\\Clase6Ejercicio1Formulario.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\clase6ejercicio1formulario\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0185BF-82B5-4BD2-8D63-7C0900708E58}|Clase6Ejercicio1Formulario\\Clase6Ejercicio1Formulario.csproj|solutionrelative:clase6ejercicio1formulario\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2028EDF6-C8B1-4C44-B3F9-DE278C3F2B7C}|Clase1Ejercicio7\\Clase1Ejercicio7.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\ejerciciosutn\\clase1ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2028EDF6-C8B1-4C44-B3F9-DE278C3F2B7C}|Clase1Ejercicio7\\Clase1Ejercicio7.csproj|solutionrelative:clase1ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF444144-77DC-4739-AAB8-19325B2D09AD}|FormularioSaludo\\FormularioSaludo.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\formulariosaludo\\frmsaludo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF444144-77DC-4739-AAB8-19325B2D09AD}|FormularioSaludo\\FormularioSaludo.csproj|solutionrelative:formulariosaludo\\frmsaludo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCB58B55-0886-48A7-9BB9-7E0D07B05C3F}|Clase1Ejercicio6Alternativa\\Clase1Ejercicio6Alternativa.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\clase1ejercicio6alternativa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB58B55-0886-48A7-9BB9-7E0D07B05C3F}|Clase1Ejercicio6Alternativa\\Clase1Ejercicio6Alternativa.csproj|solutionrelative:clase1ejercicio6alternativa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD0185BF-82B5-4BD2-8D63-7C0900708E58}|Clase6Ejercicio1Formulario\\Clase6Ejercicio1Formulario.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\clase6ejercicio1formulario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0185BF-82B5-4BD2-8D63-7C0900708E58}|Clase6Ejercicio1Formulario\\Clase6Ejercicio1Formulario.csproj|solutionrelative:clase6ejercicio1formulario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DAAD2F8-FC0A-4459-9108-BECE06227E8F}|Clase1Ejercicio6\\Clase1Ejercicio6.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\clase1ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DAAD2F8-FC0A-4459-9108-BECE06227E8F}|Clase1Ejercicio6\\Clase1Ejercicio6.csproj|solutionrelative:clase1ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF444144-77DC-4739-AAB8-19325B2D09AD}|FormularioSaludo\\FormularioSaludo.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\formulariosaludo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF444144-77DC-4739-AAB8-19325B2D09AD}|FormularioSaludo\\FormularioSaludo.csproj|solutionrelative:formulariosaludo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\LibreriaClases.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\libreriaclases\\boligrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\LibreriaClases.csproj|solutionrelative:libreriaclases\\boligrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD0185BF-82B5-4BD2-8D63-7C0900708E58}|Clase6Ejercicio1Formulario\\Clase6Ejercicio1Formulario.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\clase6ejercicio1formulario\\frminicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0185BF-82B5-4BD2-8D63-7C0900708E58}|Clase6Ejercicio1Formulario\\Clase6Ejercicio1Formulario.csproj|solutionrelative:clase6ejercicio1formulario\\frminicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB5B2080-CE2A-464D-ABDF-B0A3D19149F8}|Clase3Ejercicio4\\Clase3Ejercicio4.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\clase3ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB5B2080-CE2A-464D-ABDF-B0A3D19149F8}|Clase3Ejercicio4\\Clase3Ejercicio4.csproj|solutionrelative:clase3ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06FEF7AF-567B-4DF0-A23F-7C65F69D89FF}|Clase1Ejercicio5\\Clase1Ejercicio5.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\clase1ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06FEF7AF-567B-4DF0-A23F-7C65F69D89FF}|Clase1Ejercicio5\\Clase1Ejercicio5.csproj|solutionrelative:clase1ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{785B339E-6C94-4ACD-80D6-11F2C457DCB5}|Clase3Ejercicio4-PracticaColor\\Clase3Ejercicio4-PracticaColor.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\clase3ejercicio4-practicacolor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{785B339E-6C94-4ACD-80D6-11F2C457DCB5}|Clase3Ejercicio4-PracticaColor\\Clase3Ejercicio4-PracticaColor.csproj|solutionrelative:clase3ejercicio4-practicacolor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\LibreriaClases.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\libreriaclases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\LibreriaClases.csproj|solutionrelative:libreriaclases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08A04745-74F2-4617-B95D-9BD640BA5B7F}|Clase3Ejercicio3\\Clase3Ejercicio3.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\clase3ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08A04745-74F2-4617-B95D-9BD640BA5B7F}|Clase3Ejercicio3\\Clase3Ejercicio3.csproj|solutionrelative:clase3ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD0185BF-82B5-4BD2-8D63-7C0900708E58}|Clase6Ejercicio1Formulario\\Clase6Ejercicio1Formulario.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\clase6ejercicio1formulario\\frminicio.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{FD0185BF-82B5-4BD2-8D63-7C0900708E58}|Clase6Ejercicio1Formulario\\Clase6Ejercicio1Formulario.csproj|solutionrelative:clase6ejercicio1formulario\\frminicio.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,196 +46,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase4Ejercicio2\\Program.cs",
-              "RelativeDocumentMoniker": "Clase4Ejercicio2\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase4Ejercicio2\\Program.cs",
-              "RelativeToolTip": "Clase4Ejercicio2\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwCIAAABVAAAA",
+              "DocumentIndex": 4,
+              "Title": "FrmSaludo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\FormularioSaludo\\FrmSaludo.Designer.cs",
+              "RelativeDocumentMoniker": "FormularioSaludo\\FrmSaludo.Designer.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\FormularioSaludo\\FrmSaludo.Designer.cs",
+              "RelativeToolTip": "FormularioSaludo\\FrmSaludo.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwEkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T05:08:20.036Z",
+              "WhenOpened": "2024-05-03T00:13:25.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Peso.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Billetes\\Peso.cs",
-              "RelativeDocumentMoniker": "Billetes\\Peso.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Billetes\\Peso.cs",
-              "RelativeToolTip": "Billetes\\Peso.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAowCoAAAAJAAAA",
+              "Title": "FrmInicio.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Clase6Ejercicio1Formulario\\FrmInicio.cs",
+              "RelativeDocumentMoniker": "Clase6Ejercicio1Formulario\\FrmInicio.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Clase6Ejercicio1Formulario\\FrmInicio.cs*",
+              "RelativeToolTip": "Clase6Ejercicio1Formulario\\FrmInicio.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T05:07:57.255Z",
+              "WhenOpened": "2024-05-02T23:34:40.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Clase6Ejercicio1Formulario\\FrmInicio.cs",
+              "RelativeDocumentMoniker": "Clase6Ejercicio1Formulario\\FrmInicio.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Clase6Ejercicio1Formulario\\FrmInicio.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Clase6Ejercicio1Formulario\\FrmInicio.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:29:30.676Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmInicio.resx",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Clase6Ejercicio1Formulario\\FrmInicio.resx",
+              "RelativeDocumentMoniker": "Clase6Ejercicio1Formulario\\FrmInicio.resx",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Clase6Ejercicio1Formulario\\FrmInicio.resx*",
+              "RelativeToolTip": "Clase6Ejercicio1Formulario\\FrmInicio.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-02T23:38:02.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Euro.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Billetes\\Euro.cs",
-              "RelativeDocumentMoniker": "Billetes\\Euro.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Billetes\\Euro.cs",
-              "RelativeToolTip": "Billetes\\Euro.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAA5wC8AAAAvAAAA",
+              "Title": "FrmSaludo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\FormularioSaludo\\FrmSaludo.cs",
+              "RelativeDocumentMoniker": "FormularioSaludo\\FrmSaludo.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\FormularioSaludo\\FrmSaludo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormularioSaludo\\FrmSaludo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T05:07:41.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:32:18.193Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Dolar.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Billetes\\Dolar.cs",
-              "RelativeDocumentMoniker": "Billetes\\Dolar.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Billetes\\Dolar.cs",
-              "RelativeToolTip": "Billetes\\Dolar.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAiwDwAAAAJAAAA",
+              "Title": "FrmSaludo.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\FormularioSaludo\\FrmSaludo.cs",
+              "RelativeDocumentMoniker": "FormularioSaludo\\FrmSaludo.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\FormularioSaludo\\FrmSaludo.cs",
+              "RelativeToolTip": "FormularioSaludo\\FrmSaludo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T05:06:34.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase1Ejercicio7\\Program.cs",
-              "RelativeDocumentMoniker": "Clase1Ejercicio7\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase1Ejercicio7\\Program.cs",
-              "RelativeToolTip": "Clase1Ejercicio7\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA1wDMAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T20:01:51.023Z",
+              "WhenOpened": "2024-05-02T23:32:57.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase1Ejercicio6Alternativa\\Program.cs",
-              "RelativeDocumentMoniker": "Clase1Ejercicio6Alternativa\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase1Ejercicio6Alternativa\\Program.cs",
-              "RelativeToolTip": "Clase1Ejercicio6Alternativa\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAABAAAA",
+              "DocumentIndex": 7,
+              "Title": "FrmInicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Clase6Ejercicio1Formulario\\FrmInicio.Designer.cs",
+              "RelativeDocumentMoniker": "Clase6Ejercicio1Formulario\\FrmInicio.Designer.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Clase6Ejercicio1Formulario\\FrmInicio.Designer.cs*",
+              "RelativeToolTip": "Clase6Ejercicio1Formulario\\FrmInicio.Designer.cs*",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAkwF0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T19:53:44.807Z"
+              "WhenOpened": "2024-05-02T23:37:50.385Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase1Ejercicio6\\Program.cs",
-              "RelativeDocumentMoniker": "Clase1Ejercicio6\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase1Ejercicio6\\Program.cs",
-              "RelativeToolTip": "Clase1Ejercicio6\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\FormularioSaludo\\Program.cs",
+              "RelativeDocumentMoniker": "FormularioSaludo\\Program.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\FormularioSaludo\\Program.cs",
+              "RelativeToolTip": "FormularioSaludo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T19:49:51.21Z"
+              "WhenOpened": "2024-05-02T23:49:25.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase1Ejercicio5\\Program.cs",
-              "RelativeDocumentMoniker": "Clase1Ejercicio5\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase1Ejercicio5\\Program.cs",
-              "RelativeToolTip": "Clase1Ejercicio5\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Clase6Ejercicio1Formulario\\Program.cs",
+              "RelativeDocumentMoniker": "Clase6Ejercicio1Formulario\\Program.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Clase6Ejercicio1Formulario\\Program.cs",
+              "RelativeToolTip": "Clase6Ejercicio1Formulario\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T06:35:16.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase3Ejercicio4\\Program.cs",
-              "RelativeDocumentMoniker": "Clase3Ejercicio4\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase3Ejercicio4\\Program.cs",
-              "RelativeToolTip": "Clase3Ejercicio4\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T03:35:01.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Boligrafo.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\LibreriaClases\\Boligrafo.cs",
-              "RelativeDocumentMoniker": "LibreriaClases\\Boligrafo.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\LibreriaClases\\Boligrafo.cs",
-              "RelativeToolTip": "LibreriaClases\\Boligrafo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T03:29:05.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase3Ejercicio4-PracticaColor\\Program.cs",
-              "RelativeDocumentMoniker": "Clase3Ejercicio4-PracticaColor\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase3Ejercicio4-PracticaColor\\Program.cs",
-              "RelativeToolTip": "Clase3Ejercicio4-PracticaColor\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T03:25:38.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Estudiante.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\LibreriaClases\\Estudiante.cs",
-              "RelativeDocumentMoniker": "LibreriaClases\\Estudiante.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\LibreriaClases\\Estudiante.cs",
-              "RelativeToolTip": "LibreriaClases\\Estudiante.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAQwEAAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T18:00:13.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase3Ejercicio3\\Program.cs",
-              "RelativeDocumentMoniker": "Clase3Ejercicio3\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\Clase3Ejercicio3\\Program.cs",
-              "RelativeToolTip": "Clase3Ejercicio3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T17:56:25.834Z"
+              "WhenOpened": "2024-05-02T23:49:57.755Z"
             }
           ]
         }
