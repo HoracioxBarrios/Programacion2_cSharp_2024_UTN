@@ -70,9 +70,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5- Arrays y Colecciones", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticaColecciones1", "PracticaColecciones1\PracticaColecciones1.csproj", "{96FEE14E-DC4A-4016-862F-176AAFB1522E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase6Ejercicio1Formulario", "Clase6Ejercicio1Formulario\Clase6Ejercicio1Formulario.csproj", "{FD0185BF-82B5-4BD2-8D63-7C0900708E58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase6Ejercicio1Formulario", "Clase6Ejercicio1Formulario\Clase6Ejercicio1Formulario.csproj", "{FD0185BF-82B5-4BD2-8D63-7C0900708E58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormularioSaludo", "FormularioSaludo\FormularioSaludo.csproj", "{AF444144-77DC-4739-AAB8-19325B2D09AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormularioSaludo", "FormularioSaludo\FormularioSaludo.csproj", "{AF444144-77DC-4739-AAB8-19325B2D09AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6- Windows Forms", "6- Windows Forms", "{B81BBCFE-E3C0-49B8-A1B9-8DC2B63D98B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

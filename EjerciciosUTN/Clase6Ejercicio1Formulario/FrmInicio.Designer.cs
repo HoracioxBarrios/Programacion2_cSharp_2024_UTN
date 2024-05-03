@@ -33,6 +33,8 @@
             lbNombre = new Label();
             lbApellido = new Label();
             btnSaludo = new Button();
+            cBoxMaterias = new ComboBox();
+            lbMateriasCBox = new Label();
             SuspendLayout();
             // 
             // txtNombre
@@ -72,7 +74,7 @@
             // btnSaludo
             // 
             btnSaludo.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnSaludo.Location = new Point(175, 204);
+            btnSaludo.Location = new Point(287, 297);
             btnSaludo.Name = "btnSaludo";
             btnSaludo.Size = new Size(116, 30);
             btnSaludo.TabIndex = 4;
@@ -80,11 +82,31 @@
             btnSaludo.UseVisualStyleBackColor = true;
             btnSaludo.Click += btnSaludo_Click;
             // 
+            // cBoxMaterias
+            // 
+            cBoxMaterias.FormattingEnabled = true;
+            cBoxMaterias.Location = new Point(112, 228);
+            cBoxMaterias.Name = "cBoxMaterias";
+            cBoxMaterias.Size = new Size(207, 23);
+            cBoxMaterias.TabIndex = 5;
+            cBoxMaterias.SelectedIndexChanged += cBoxMaterias_SelectedIndexChanged;
+            // 
+            // lbMateriasCBox
+            // 
+            lbMateriasCBox.AutoSize = true;
+            lbMateriasCBox.Location = new Point(113, 203);
+            lbMateriasCBox.Name = "lbMateriasCBox";
+            lbMateriasCBox.Size = new Size(92, 15);
+            lbMateriasCBox.TabIndex = 6;
+            lbMateriasCBox.Text = "Materia Favorita";
+            // 
             // FrmInicio
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(459, 450);
+            Controls.Add(lbMateriasCBox);
+            Controls.Add(cBoxMaterias);
             Controls.Add(btnSaludo);
             Controls.Add(lbApellido);
             Controls.Add(lbNombre);
@@ -93,6 +115,7 @@
             Name = "FrmInicio";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
+            Load += cBoxMaterias_SelectedIndexChanged;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -104,5 +127,7 @@
         private Label lbNombre;
         private Label lbApellido;
         private Button btnSaludo;
+        private ComboBox cBoxMaterias;
+        private Label lbMateriasCBox;
     }
 }
