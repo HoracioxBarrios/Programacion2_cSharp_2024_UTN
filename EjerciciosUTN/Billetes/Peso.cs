@@ -73,6 +73,7 @@ namespace Billetes
             return !(peso == euro);
         }
 
+
         public static bool operator ==(Peso peso, Peso peso2)
         {
             return peso.Cantidad == peso2.Cantidad;
