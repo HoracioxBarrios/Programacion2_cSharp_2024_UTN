@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj": {}
+    "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj": {
+    "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj",
+        "projectUniqueName": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj",
         "projectName": "LibreriaClases",
-        "projectPath": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj",
-        "packagesPath": "C:\\Users\\Orfhen2022\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\EjerciciosUTN\\LibreriaClases\\obj\\",
+        "projectPath": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\LibreriaClases\\LibreriaClases.csproj",
+        "packagesPath": "C:\\Users\\Migue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\LibreriaClases\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Orfhen2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
