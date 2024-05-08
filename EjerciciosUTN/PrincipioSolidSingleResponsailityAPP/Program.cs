@@ -6,7 +6,9 @@ namespace PrincipioSolidSingleResponsailityAPP
     {
         static void Main(string[] args)
         {
-            //Principio de Responsailidad Unica (S)OLID
+            /*Principio de Responsailidad Unica (S)OLID
+            Establece que una clase debe tener una sola razón para cambiar o una responsabilidad*/
+
             Rectangulo rectangulo = new Rectangulo(20, 40);
 
 
