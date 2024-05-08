@@ -1,4 +1,4 @@
-﻿using LibreriaClases;
+﻿using BibliotecaClases1;
 
 namespace Clase3Ejercicio3
 {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LibreriaClases
+namespace BibliotecaClases1
 {
     public class Boligrafo
     {

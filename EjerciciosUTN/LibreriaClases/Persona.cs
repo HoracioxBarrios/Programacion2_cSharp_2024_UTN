@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
 
-namespace LibreriaClases
+namespace BibliotecaClases1
 {
     public class Persona
     {

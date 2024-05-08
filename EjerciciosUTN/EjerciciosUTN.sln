@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase1Ejercicio1Alernativa"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase2Ejercicio1", "Clase2Ejercicio1\Clase2Ejercicio1.csproj", "{B5C2B10B-EFD2-401A-BD7D-9C2D6A2D3D96}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaClases", "LibreriaClases\LibreriaClases.csproj", "{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClases1", "LibreriaClases\BibliotecaClases1.csproj", "{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1- Introducción a .NET y C#", "1- Introducción a .NET y C#", "{725C78E1-AFED-494D-9CB1-3ACDAC96BC82}"
 EndProject
@@ -74,15 +74,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase6Ejercicio1Formulario"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormularioSaludo", "FormularioSaludo\FormularioSaludo.csproj", "{AF444144-77DC-4739-AAB8-19325B2D09AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase5Ejercicio1", "Clase5Ejercicio1\Clase5Ejercicio1.csproj", "{CD2615C3-2621-489D-8C82-8B6225E5C794}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase5Ejercicio1", "Clase5Ejercicio1\Clase5Ejercicio1.csproj", "{CD2615C3-2621-489D-8C82-8B6225E5C794}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase5Ejercicio2", "Clase5Ejercicio2\Clase5Ejercicio2.csproj", "{D1FA7F4D-187D-4B86-9055-F82D4FE0F50D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase5Ejercicio2", "Clase5Ejercicio2\Clase5Ejercicio2.csproj", "{D1FA7F4D-187D-4B86-9055-F82D4FE0F50D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6- Windows Forms", "6- Windows Forms", "{B81BBCFE-E3C0-49B8-A1B9-8DC2B63D98B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClass", "BibliotecaClass\BibliotecaClass.csproj", "{51D2C779-7772-4109-B4CE-D5AC57881E93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClases2", "BibliotecaClass\BibliotecaClases2.csproj", "{51D2C779-7772-4109-B4CE-D5AC57881E93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase6Ejercicio2FrmRegistro", "Registro\Clase6Ejercicio2FrmRegistro.csproj", "{CD51DB06-4403-46AF-837D-18A34A5EF350}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase6Ejercicio2FrmRegistro", "Registro\Clase6Ejercicio2FrmRegistro.csproj", "{CD51DB06-4403-46AF-837D-18A34A5EF350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppSingleAndSeparationResponsability", "WinFormsAppSingleAndSeparationResponsability\WinFormsAppSingleAndSeparationResponsability.csproj", "{D410FD34-4404-4E26-8ECE-F5A2CD464130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClasesPropia", "BibliotecaClasesPropia\BibliotecaClasesPropia.csproj", "{26452553-52E3-4383-898B-0292802A03D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "D- Principio de separación de preocupaciones (SoC)", "D- Principio de separación de preocupaciones (SoC)", "{65073378-EE81-4DD2-AD63-B50479590454}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "A- 4 Pilares de Programacion POO", "A- 4 Pilares de Programacion POO", "{00ECF822-F77E-44B7-83DE-2DA0FB86ABCC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "B- Principio Dry", "B- Principio Dry", "{507C0257-3C1E-43FB-9AF8-68FEF3DA0BEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C- Principios SOLID", "C- Principios SOLID", "{FBD92D53-1F9F-40D6-885A-020741A3E9E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -218,6 +230,14 @@ Global
 		{CD51DB06-4403-46AF-837D-18A34A5EF350}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD51DB06-4403-46AF-837D-18A34A5EF350}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD51DB06-4403-46AF-837D-18A34A5EF350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D410FD34-4404-4E26-8ECE-F5A2CD464130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D410FD34-4404-4E26-8ECE-F5A2CD464130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D410FD34-4404-4E26-8ECE-F5A2CD464130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D410FD34-4404-4E26-8ECE-F5A2CD464130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26452553-52E3-4383-898B-0292802A03D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26452553-52E3-4383-898B-0292802A03D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26452553-52E3-4383-898B-0292802A03D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26452553-52E3-4383-898B-0292802A03D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -251,6 +271,8 @@ Global
 		{AF444144-77DC-4739-AAB8-19325B2D09AD} = {B81BBCFE-E3C0-49B8-A1B9-8DC2B63D98B5}
 		{CD2615C3-2621-489D-8C82-8B6225E5C794} = {0F97DB8E-0A79-4158-932D-EB22FB2AC038}
 		{D1FA7F4D-187D-4B86-9055-F82D4FE0F50D} = {0F97DB8E-0A79-4158-932D-EB22FB2AC038}
+		{CD51DB06-4403-46AF-837D-18A34A5EF350} = {B81BBCFE-E3C0-49B8-A1B9-8DC2B63D98B5}
+		{D410FD34-4404-4E26-8ECE-F5A2CD464130} = {65073378-EE81-4DD2-AD63-B50479590454}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56A756F6-2467-43C0-90D6-FBEC92801C43}

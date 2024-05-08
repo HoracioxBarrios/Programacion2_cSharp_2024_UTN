@@ -5,7 +5,7 @@ using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LibreriaClases
+namespace BibliotecaClases1
 {
     public class Sumador
     {

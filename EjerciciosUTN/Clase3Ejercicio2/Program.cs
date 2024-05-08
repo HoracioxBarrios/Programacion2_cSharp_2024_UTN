@@ -1,5 +1,5 @@
 ﻿using System.Globalization;
-using LibreriaClases;
+using BibliotecaClases1;
 namespace Clase3Ejercicio2
 {
     internal class Program

@@ -1,4 +1,4 @@
-﻿using LibreriaClases;
+﻿using BibliotecaClases1;
 using System.ComponentModel.DataAnnotations;
 
 namespace Clase2Ejercicio2

@@ -1,22 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\",
+  "WorkspaceRootPath": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD51DB06-4403-46AF-837D-18A34A5EF350}|Registro\\FrmRegistro.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\registro\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD51DB06-4403-46AF-837D-18A34A5EF350}|Registro\\FrmRegistro.csproj|solutionrelative:registro\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D410FD34-4404-4E26-8ECE-F5A2CD464130}|WinFormsAppSingleAndSeparationResponsability\\WinFormsAppSingleAndSeparationResponsability.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\winformsappsingleandseparationresponsability\\formularioprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D410FD34-4404-4E26-8ECE-F5A2CD464130}|WinFormsAppSingleAndSeparationResponsability\\WinFormsAppSingleAndSeparationResponsability.csproj|solutionrelative:winformsappsingleandseparationresponsability\\formularioprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD51DB06-4403-46AF-837D-18A34A5EF350}|Registro\\Clase6Ejercicio2FrmRegistro.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\registro\\formularioregistro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD51DB06-4403-46AF-837D-18A34A5EF350}|Registro\\Clase6Ejercicio2FrmRegistro.csproj|solutionrelative:registro\\formularioregistro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D410FD34-4404-4E26-8ECE-F5A2CD464130}|WinFormsAppSingleAndSeparationResponsability\\WinFormsAppSingleAndSeparationResponsability.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\winformsappsingleandseparationresponsability\\formularioprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D410FD34-4404-4E26-8ECE-F5A2CD464130}|WinFormsAppSingleAndSeparationResponsability\\WinFormsAppSingleAndSeparationResponsability.csproj|solutionrelative:winformsappsingleandseparationresponsability\\formularioprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD51DB06-4403-46AF-837D-18A34A5EF350}|Registro\\Clase6Ejercicio2FrmRegistro.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\registro\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CD51DB06-4403-46AF-837D-18A34A5EF350}|Registro\\Clase6Ejercicio2FrmRegistro.csproj|solutionrelative:registro\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D410FD34-4404-4E26-8ECE-F5A2CD464130}|WinFormsAppSingleAndSeparationResponsability\\WinFormsAppSingleAndSeparationResponsability.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\winformsappsingleandseparationresponsability\\formularioprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D410FD34-4404-4E26-8ECE-F5A2CD464130}|WinFormsAppSingleAndSeparationResponsability\\WinFormsAppSingleAndSeparationResponsability.csproj|solutionrelative:winformsappsingleandseparationresponsability\\formularioprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51D2C779-7772-4109-B4CE-D5AC57881E93}|BibliotecaClass\\BibliotecaClass.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\bibliotecaclass\\ingresante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\BibliotecaClases1.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\libreriaclases\\boligrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\BibliotecaClases1.csproj|solutionrelative:libreriaclases\\boligrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\BibliotecaClases1.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\libreriaclases\\centimetro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\BibliotecaClases1.csproj|solutionrelative:libreriaclases\\centimetro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D410FD34-4404-4E26-8ECE-F5A2CD464130}|WinFormsAppSingleAndSeparationResponsability\\WinFormsAppSingleAndSeparationResponsability.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\winformsappsingleandseparationresponsability\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D410FD34-4404-4E26-8ECE-F5A2CD464130}|WinFormsAppSingleAndSeparationResponsability\\WinFormsAppSingleAndSeparationResponsability.csproj|solutionrelative:winformsappsingleandseparationresponsability\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D2C779-7772-4109-B4CE-D5AC57881E93}|BibliotecaClass\\BibliotecaClass.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclass\\ingresante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51D2C779-7772-4109-B4CE-D5AC57881E93}|BibliotecaClass\\BibliotecaClass.csproj|solutionrelative:bibliotecaclass\\ingresante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26452553-52E3-4383-898B-0292802A03D9}|BibliotecaClasesPropia\\BibliotecaClasesPropia.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasespropia\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26452553-52E3-4383-898B-0292802A03D9}|BibliotecaClasesPropia\\BibliotecaClasesPropia.csproj|solutionrelative:bibliotecaclasespropia\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD51DB06-4403-46AF-837D-18A34A5EF350}|Registro\\Clase6Ejercicio2FrmRegistro.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\registro\\formularioregistro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD51DB06-4403-46AF-837D-18A34A5EF350}|Registro\\Clase6Ejercicio2FrmRegistro.csproj|solutionrelative:registro\\formularioregistro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +46,152 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormularioRegistro.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Registro\\FormularioRegistro.cs",
-              "RelativeDocumentMoniker": "Registro\\FormularioRegistro.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Registro\\FormularioRegistro.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Registro\\FormularioRegistro.cs [Dise\u00F1o]*",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppSingleAndSeparationResponsability\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSingleAndSeparationResponsability\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppSingleAndSeparationResponsability\\Program.cs",
+              "RelativeToolTip": "WinFormsAppSingleAndSeparationResponsability\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T00:43:21.482Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-05-08T18:51:32.248Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Centimetro.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\LibreriaClases\\Centimetro.cs",
+              "RelativeDocumentMoniker": "LibreriaClases\\Centimetro.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\LibreriaClases\\Centimetro.cs",
+              "RelativeToolTip": "LibreriaClases\\Centimetro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:14:01.776Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormularioRegistro.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Registro\\FormularioRegistro.Designer.cs",
-              "RelativeDocumentMoniker": "Registro\\FormularioRegistro.Designer.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Registro\\FormularioRegistro.Designer.cs",
-              "RelativeToolTip": "Registro\\FormularioRegistro.Designer.cs",
-              "ViewState": "AQIAAOsAAAAAAAAAAAAAALsAAAAxAAAA",
+              "Title": "FormularioPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.Designer.cs",
+              "RelativeToolTip": "WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.Designer.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowIMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T00:30:39.944Z",
+              "WhenOpened": "2024-05-08T18:50:20.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormularioRegistro.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Registro\\FormularioRegistro.cs",
-              "RelativeDocumentMoniker": "Registro\\FormularioRegistro.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Registro\\FormularioRegistro.cs*",
-              "RelativeToolTip": "Registro\\FormularioRegistro.cs*",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwCkAAAAfAAAA",
+              "Title": "FormularioPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs",
+              "RelativeToolTip": "WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T23:59:57.007Z",
+              "WhenOpened": "2024-05-08T18:15:35.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Ingresante.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClass\\Ingresante.cs",
-              "RelativeDocumentMoniker": "BibliotecaClass\\Ingresante.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClass\\Ingresante.cs",
-              "RelativeToolTip": "BibliotecaClass\\Ingresante.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCAAAAAhAAAA",
+              "Title": "Boligrafo.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\LibreriaClases\\Boligrafo.cs",
+              "RelativeDocumentMoniker": "LibreriaClases\\Boligrafo.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\LibreriaClases\\Boligrafo.cs",
+              "RelativeToolTip": "LibreriaClases\\Boligrafo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T23:46:08.111Z",
+              "WhenOpened": "2024-05-08T18:13:19.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ingresante.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClass\\Ingresante.cs",
+              "RelativeDocumentMoniker": "BibliotecaClass\\Ingresante.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClass\\Ingresante.cs",
+              "RelativeToolTip": "BibliotecaClass\\Ingresante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:09:55.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormularioPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:08:11.149Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesPropia\\Producto.cs",
+              "RelativeDocumentMoniker": "BibliotecaClasesPropia\\Producto.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesPropia\\Producto.cs",
+              "RelativeToolTip": "BibliotecaClasesPropia\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:16:45.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormularioRegistro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\Registro\\FormularioRegistro.Designer.cs",
+              "RelativeDocumentMoniker": "Registro\\FormularioRegistro.Designer.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\Registro\\FormularioRegistro.Designer.cs",
+              "RelativeToolTip": "Registro\\FormularioRegistro.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T00:30:39.944Z",
               "EditorCaption": ""
             }
           ]

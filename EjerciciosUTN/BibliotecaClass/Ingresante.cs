@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace BibliotecaClass
+namespace BibliotecaClases1
 {
     public class Ingresante
     {

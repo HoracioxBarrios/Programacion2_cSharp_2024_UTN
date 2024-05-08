@@ -1,4 +1,4 @@
-﻿namespace LibreriaClases
+﻿namespace BibliotecaClases1
 {
     public class Validador
     {
