@@ -42,11 +42,11 @@ namespace WinFormsAppSingleAndSeparationResponsability
             // Asignar los valores al objeto Producto
             _producto.Nombre = nombre;
             _producto.Precio = precio;
-            //podemos tambien reci
+            //podemos tambien recibir este otro dato
             decimal tasaDeImpuesto;
             if (string.IsNullOrEmpty(textBoxTasaDeImpuesto.Text) && decimal.TryParse(textBoxTasaDeImpuesto.Text, out tasaDeImpuesto))
             {
-                _producto.CalcularImpuesto(tasaDeImpuesto);
+                _producto.CalcularImpuesto(tasaDeImpuesto);// todo pasa dentro de producto y no hay logica de negoco en el form
             }
 
             // Llamar al método de lógica de negocio

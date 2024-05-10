@@ -3,48 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5FECB9C-3789-4DDC-878C-C4FD4F876E56}|PrincipioSolidSingleResponsailityAPP\\PrincipioSolidSingleResponsailityAPP.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\principiosolidsingleresponsailityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5FECB9C-3789-4DDC-878C-C4FD4F876E56}|PrincipioSolidSingleResponsailityAPP\\PrincipioSolidSingleResponsailityAPP.csproj|solutionrelative:principiosolidsingleresponsailityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6ABF89E3-79C1-4F68-8844-3A2C9C632743}|PrincipioSolidOpen_ClosedAPP\\PrincipioSolidOpen_ClosedAPP.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\principiosolidopen_closedapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABF89E3-79C1-4F68-8844-3A2C9C632743}|PrincipioSolidOpen_ClosedAPP\\PrincipioSolidOpen_ClosedAPP.csproj|solutionrelative:principiosolidopen_closedapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A341BDBD-079C-4462-AFF9-649D36BEA61A}|BibliotecaClasesSOLID\\BibliotecaClasesSOLID.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasessolid\\calculadoraarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A341BDBD-079C-4462-AFF9-649D36BEA61A}|BibliotecaClasesSOLID\\BibliotecaClasesSOLID.csproj|solutionrelative:bibliotecaclasessolid\\calculadoraarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclaseso\\gestoralquilervehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|solutionrelative:bibliotecaclaseso\\gestoralquilervehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A341BDBD-079C-4462-AFF9-649D36BEA61A}|BibliotecaClasesSOLID\\BibliotecaClasesSOLID.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasessolid\\calculadoraperimetro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A341BDBD-079C-4462-AFF9-649D36BEA61A}|BibliotecaClasesSOLID\\BibliotecaClasesSOLID.csproj|solutionrelative:bibliotecaclasessolid\\calculadoraperimetro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclaseso\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|solutionrelative:bibliotecaclaseso\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A341BDBD-079C-4462-AFF9-649D36BEA61A}|BibliotecaClasesSOLID\\BibliotecaClasesSOLID.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasessolid\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A341BDBD-079C-4462-AFF9-649D36BEA61A}|BibliotecaClasesSOLID\\BibliotecaClasesSOLID.csproj|solutionrelative:bibliotecaclasessolid\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclaseso\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|solutionrelative:bibliotecaclaseso\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56EF835B-B346-4A1E-BA0A-8E3A441804C5}|WinFormsAppPracticaLogin1\\WinFormsAppPracticaLogin1.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\winformsapppracticalogin1\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56EF835B-B346-4A1E-BA0A-8E3A441804C5}|WinFormsAppPracticaLogin1\\WinFormsAppPracticaLogin1.csproj|solutionrelative:winformsapppracticalogin1\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclaseso\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|solutionrelative:bibliotecaclaseso\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FEBEBE1-3A10-436D-B64D-D509656DD106}|BibliotecaClasesEjemploLogin\\BibliotecaClasesEjemploLogin.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasesejemplologin\\loginfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclaseso\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|solutionrelative:bibliotecaclaseso\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D410FD34-4404-4E26-8ECE-F5A2CD464130}|WinFormsAppSingleAndSeparationResponsability\\WinFormsAppSingleAndSeparationResponsability.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\winformsappsingleandseparationresponsability\\formularioprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D410FD34-4404-4E26-8ECE-F5A2CD464130}|WinFormsAppSingleAndSeparationResponsability\\WinFormsAppSingleAndSeparationResponsability.csproj|solutionrelative:winformsappsingleandseparationresponsability\\formularioprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEBEBE1-3A10-436D-B64D-D509656DD106}|BibliotecaClasesEjemploLogin\\BibliotecaClasesEjemploLogin.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\bibliotecaclasesejemplologin\\loginfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FEBEBE1-3A10-436D-B64D-D509656DD106}|BibliotecaClasesEjemploLogin\\BibliotecaClasesEjemploLogin.csproj|solutionrelative:bibliotecaclasesejemplologin\\loginfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FEBEBE1-3A10-436D-B64D-D509656DD106}|BibliotecaClasesEjemploLogin\\BibliotecaClasesEjemploLogin.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasesejemplologin\\ivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FEBEBE1-3A10-436D-B64D-D509656DD106}|BibliotecaClasesEjemploLogin\\BibliotecaClasesEjemploLogin.csproj|solutionrelative:bibliotecaclasesejemplologin\\ivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56EF835B-B346-4A1E-BA0A-8E3A441804C5}|WinFormsAppPracticaLogin1\\WinFormsAppPracticaLogin1.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\winformsapppracticalogin1\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56EF835B-B346-4A1E-BA0A-8E3A441804C5}|WinFormsAppPracticaLogin1\\WinFormsAppPracticaLogin1.csproj|solutionrelative:winformsapppracticalogin1\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FEBEBE1-3A10-436D-B64D-D509656DD106}|BibliotecaClasesEjemploLogin\\BibliotecaClasesEjemploLogin.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasesejemplologin\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FEBEBE1-3A10-436D-B64D-D509656DD106}|BibliotecaClasesEjemploLogin\\BibliotecaClasesEjemploLogin.csproj|solutionrelative:bibliotecaclasesejemplologin\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FEBEBE1-3A10-436D-B64D-D509656DD106}|BibliotecaClasesEjemploLogin\\BibliotecaClasesEjemploLogin.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasesejemplologin\\inputcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FEBEBE1-3A10-436D-B64D-D509656DD106}|BibliotecaClasesEjemploLogin\\BibliotecaClasesEjemploLogin.csproj|solutionrelative:bibliotecaclasesejemplologin\\inputcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FEBEBE1-3A10-436D-B64D-D509656DD106}|BibliotecaClasesEjemploLogin\\BibliotecaClasesEjemploLogin.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasesejemplologin\\icontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FEBEBE1-3A10-436D-B64D-D509656DD106}|BibliotecaClasesEjemploLogin\\BibliotecaClasesEjemploLogin.csproj|solutionrelative:bibliotecaclasesejemplologin\\icontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FEBEBE1-3A10-436D-B64D-D509656DD106}|BibliotecaClasesEjemploLogin\\BibliotecaClasesEjemploLogin.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasesejemplologin\\estateerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FEBEBE1-3A10-436D-B64D-D509656DD106}|BibliotecaClasesEjemploLogin\\BibliotecaClasesEjemploLogin.csproj|solutionrelative:bibliotecaclasesejemplologin\\estateerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56EF835B-B346-4A1E-BA0A-8E3A441804C5}|WinFormsAppPracticaLogin1\\WinFormsAppPracticaLogin1.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\winformsapppracticalogin1\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EF835B-B346-4A1E-BA0A-8E3A441804C5}|WinFormsAppPracticaLogin1\\WinFormsAppPracticaLogin1.csproj|solutionrelative:winformsapppracticalogin1\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,149 +50,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CalculadoraPerimetro.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesSOLID\\CalculadoraPerimetro.cs",
-              "RelativeDocumentMoniker": "BibliotecaClasesSOLID\\CalculadoraPerimetro.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesSOLID\\CalculadoraPerimetro.cs",
-              "RelativeToolTip": "BibliotecaClasesSOLID\\CalculadoraPerimetro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PrincipioSolidOpen_ClosedAPP\\Program.cs",
+              "RelativeDocumentMoniker": "PrincipioSolidOpen_ClosedAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PrincipioSolidOpen_ClosedAPP\\Program.cs",
+              "RelativeToolTip": "PrincipioSolidOpen_ClosedAPP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T23:30:48.87Z",
+              "WhenOpened": "2024-05-10T17:42:43.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CalculadoraArea.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesSOLID\\CalculadoraArea.cs",
-              "RelativeDocumentMoniker": "BibliotecaClasesSOLID\\CalculadoraArea.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesSOLID\\CalculadoraArea.cs",
-              "RelativeToolTip": "BibliotecaClasesSOLID\\CalculadoraArea.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Title": "GestorAlquilerVehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\GestorAlquilerVehiculos.cs",
+              "RelativeDocumentMoniker": "BibliotecaClasesO\\GestorAlquilerVehiculos.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\GestorAlquilerVehiculos.cs",
+              "RelativeToolTip": "BibliotecaClasesO\\GestorAlquilerVehiculos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T23:24:48.881Z",
+              "WhenOpened": "2024-05-10T17:32:51.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Rectangulo.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesSOLID\\Rectangulo.cs",
-              "RelativeDocumentMoniker": "BibliotecaClasesSOLID\\Rectangulo.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesSOLID\\Rectangulo.cs",
-              "RelativeToolTip": "BibliotecaClasesSOLID\\Rectangulo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Bicicleta.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Bicicleta.cs",
+              "RelativeDocumentMoniker": "BibliotecaClasesO\\Bicicleta.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Bicicleta.cs",
+              "RelativeToolTip": "BibliotecaClasesO\\Bicicleta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T23:17:29.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PrincipioSolidSingleResponsailityAPP\\Program.cs",
-              "RelativeDocumentMoniker": "PrincipioSolidSingleResponsailityAPP\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PrincipioSolidSingleResponsailityAPP\\Program.cs",
-              "RelativeToolTip": "PrincipioSolidSingleResponsailityAPP\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T23:15:49.991Z",
+              "WhenOpened": "2024-05-10T17:31:38.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FormLogin.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppPracticaLogin1\\FormLogin.cs",
-              "RelativeDocumentMoniker": "WinFormsAppPracticaLogin1\\FormLogin.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppPracticaLogin1\\FormLogin.cs",
-              "RelativeToolTip": "WinFormsAppPracticaLogin1\\FormLogin.cs",
+              "Title": "Motocicleta.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Motocicleta.cs",
+              "RelativeDocumentMoniker": "BibliotecaClasesO\\Motocicleta.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Motocicleta.cs",
+              "RelativeToolTip": "BibliotecaClasesO\\Motocicleta.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T23:09:23.881Z",
+              "WhenOpened": "2024-05-10T17:29:59.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Validador.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesEjemploLogin\\Validador.cs",
-              "RelativeDocumentMoniker": "BibliotecaClasesEjemploLogin\\Validador.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesEjemploLogin\\Validador.cs",
-              "RelativeToolTip": "BibliotecaClasesEjemploLogin\\Validador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAbAAAA",
+              "DocumentIndex": 3,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Coche.cs",
+              "RelativeDocumentMoniker": "BibliotecaClasesO\\Coche.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Coche.cs",
+              "RelativeToolTip": "BibliotecaClasesO\\Coche.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T23:03:51.243Z",
+              "WhenOpened": "2024-05-10T17:24:08.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "LoginFields.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesEjemploLogin\\LoginFields.cs",
-              "RelativeDocumentMoniker": "BibliotecaClasesEjemploLogin\\LoginFields.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesEjemploLogin\\LoginFields.cs",
-              "RelativeToolTip": "BibliotecaClasesEjemploLogin\\LoginFields.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAYAAAA",
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "BibliotecaClasesO\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Vehiculo.cs",
+              "RelativeToolTip": "BibliotecaClasesO\\Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T23:01:45.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesEjemploLogin\\IValidator.cs",
-              "RelativeDocumentMoniker": "BibliotecaClasesEjemploLogin\\IValidator.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesEjemploLogin\\IValidator.cs",
-              "RelativeToolTip": "BibliotecaClasesEjemploLogin\\IValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T23:00:51.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "InputControl.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesEjemploLogin\\InputControl.cs",
-              "RelativeDocumentMoniker": "BibliotecaClasesEjemploLogin\\InputControl.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesEjemploLogin\\InputControl.cs",
-              "RelativeToolTip": "BibliotecaClasesEjemploLogin\\InputControl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T22:58:14.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IControl.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesEjemploLogin\\IControl.cs",
-              "RelativeDocumentMoniker": "BibliotecaClasesEjemploLogin\\IControl.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesEjemploLogin\\IControl.cs",
-              "RelativeToolTip": "BibliotecaClasesEjemploLogin\\IControl.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T22:46:20.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EStateError.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesEjemploLogin\\EStateError.cs",
-              "RelativeDocumentMoniker": "BibliotecaClasesEjemploLogin\\EStateError.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesEjemploLogin\\EStateError.cs",
-              "RelativeToolTip": "BibliotecaClasesEjemploLogin\\EStateError.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T22:44:35.969Z",
+              "WhenOpened": "2024-05-10T17:20:04.166Z",
               "EditorCaption": ""
             },
             {
@@ -226,6 +157,54 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormularioPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs",
+              "RelativeToolTip": "WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADAAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:20:24.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginFields.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesEjemploLogin\\LoginFields.cs",
+              "RelativeDocumentMoniker": "BibliotecaClasesEjemploLogin\\LoginFields.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesEjemploLogin\\LoginFields.cs",
+              "RelativeToolTip": "BibliotecaClasesEjemploLogin\\LoginFields.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:47:10.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppPracticaLogin1\\FormLogin.cs",
+              "RelativeDocumentMoniker": "WinFormsAppPracticaLogin1\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppPracticaLogin1\\FormLogin.cs",
+              "RelativeToolTip": "WinFormsAppPracticaLogin1\\FormLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:43:59.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppPracticaLogin1\\FormLogin.cs",
+              "RelativeDocumentMoniker": "WinFormsAppPracticaLogin1\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppPracticaLogin1\\FormLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsAppPracticaLogin1\\FormLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:42:41.595Z"
             }
           ]
         }

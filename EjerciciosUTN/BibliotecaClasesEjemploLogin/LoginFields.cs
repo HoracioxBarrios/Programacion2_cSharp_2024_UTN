@@ -12,7 +12,7 @@
         public IValidator _validador;
 
         private LoginFields()
-        {
+        {           
             _isValidLoginFields = false;
         }
         public LoginFields(IValidator validador, IControl user, IControl password) : this()
