@@ -6,5 +6,6 @@
         {
             Console.WriteLine("Calculando el salario del empleado.");
         }
+        public void SoyEmpleadoPadre() { }
     }
 }

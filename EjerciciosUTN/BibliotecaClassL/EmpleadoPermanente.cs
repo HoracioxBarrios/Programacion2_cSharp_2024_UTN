@@ -13,5 +13,9 @@ namespace BibliotecaClassL
         {
             Console.WriteLine("Calculando el salario del empleado permanente.");
         }
+        public void SoyEmpleadoPermanente() 
+        {             
+            Console.WriteLine("Soy empleadoPermanete"); 
+        }
     }
 }

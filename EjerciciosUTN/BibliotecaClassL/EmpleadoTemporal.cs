@@ -13,5 +13,10 @@ namespace BibliotecaClassL
         {
             Console.WriteLine("Calculando el salario del empleado temporal.");
         }
+
+        public void SoyEmpledoTemporario() 
+        { 
+            Console.WriteLine("Soy empleado temporario"); 
+        }
     }
 }
