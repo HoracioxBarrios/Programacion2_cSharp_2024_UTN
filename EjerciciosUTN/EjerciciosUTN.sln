@@ -100,19 +100,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Z- Practica implementacion 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClasesEjemploLogin", "BibliotecaClasesEjemploLogin\BibliotecaClasesEjemploLogin.csproj", "{2FEBEBE1-3A10-436D-B64D-D509656DD106}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppPracticaLogin1", "WinFormsAppPracticaLogin1\WinFormsAppPracticaLogin1.csproj", "{56EF835B-B346-4A1E-BA0A-8E3A441804C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppPracticaLogin1", "WinFormsAppPracticaLogin1\WinFormsAppPracticaLogin1.csproj", "{56EF835B-B346-4A1E-BA0A-8E3A441804C5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1- Single Responsibility Principle ( SRP )", "1- Single Responsibility Principle ( SRP )", "{0AE92237-470F-494F-B8B2-097B100359DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrincipioSolidSingleResponsailityAPP", "PrincipioSolidSingleResponsailityAPP\PrincipioSolidSingleResponsailityAPP.csproj", "{E5FECB9C-3789-4DDC-878C-C4FD4F876E56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrincipioSolidSingleResponsailityAPP", "PrincipioSolidSingleResponsailityAPP\PrincipioSolidSingleResponsailityAPP.csproj", "{E5FECB9C-3789-4DDC-878C-C4FD4F876E56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClasesS", "BibliotecaClasesSOLID\BibliotecaClasesS.csproj", "{A341BDBD-079C-4462-AFF9-649D36BEA61A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClasesS", "BibliotecaClasesSOLID\BibliotecaClasesS.csproj", "{A341BDBD-079C-4462-AFF9-649D36BEA61A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2- Open - Closed Principle (OCP)", "2- Open - Closed Principle (OCP)", "{4E8A23E5-181A-4D80-B968-CCDBB4E5A24C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClasesO", "BibliotecaClasesO\BibliotecaClasesO.csproj", "{EB99061B-04B8-4181-B396-0BA1BD249A4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClasesO", "BibliotecaClasesO\BibliotecaClasesO.csproj", "{EB99061B-04B8-4181-B396-0BA1BD249A4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrincipioSolidOpen_ClosedAPP", "PrincipioSolidOpen_ClosedAPP\PrincipioSolidOpen_ClosedAPP.csproj", "{6ABF89E3-79C1-4F68-8844-3A2C9C632743}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrincipioSolidOpen_ClosedAPP", "PrincipioSolidOpen_ClosedAPP\PrincipioSolidOpen_ClosedAPP.csproj", "{6ABF89E3-79C1-4F68-8844-3A2C9C632743}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3- Liskov Substitution Principle (LSP)", "3- Liskov Substitution Principle (LSP)", "{A59940A1-538E-4A83-A696-36A5B25494A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrincipioSolidLiskovSubstitutionPrincipleAPP", "PrincipioSolidLiskovSubstitutionPrincipleAPP\PrincipioSolidLiskovSubstitutionPrincipleAPP.csproj", "{BA94807B-50FB-4647-B7AD-D8B8D86EC13E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClassL", "BibliotecaClassL\BibliotecaClassL.csproj", "{226DC83D-B005-4AC3-B3BD-5AC589E59225}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -280,6 +286,14 @@ Global
 		{6ABF89E3-79C1-4F68-8844-3A2C9C632743}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ABF89E3-79C1-4F68-8844-3A2C9C632743}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ABF89E3-79C1-4F68-8844-3A2C9C632743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA94807B-50FB-4647-B7AD-D8B8D86EC13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA94807B-50FB-4647-B7AD-D8B8D86EC13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA94807B-50FB-4647-B7AD-D8B8D86EC13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA94807B-50FB-4647-B7AD-D8B8D86EC13E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{226DC83D-B005-4AC3-B3BD-5AC589E59225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226DC83D-B005-4AC3-B3BD-5AC589E59225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226DC83D-B005-4AC3-B3BD-5AC589E59225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226DC83D-B005-4AC3-B3BD-5AC589E59225}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -324,6 +338,9 @@ Global
 		{4E8A23E5-181A-4D80-B968-CCDBB4E5A24C} = {FBD92D53-1F9F-40D6-885A-020741A3E9E4}
 		{EB99061B-04B8-4181-B396-0BA1BD249A4A} = {4E8A23E5-181A-4D80-B968-CCDBB4E5A24C}
 		{6ABF89E3-79C1-4F68-8844-3A2C9C632743} = {4E8A23E5-181A-4D80-B968-CCDBB4E5A24C}
+		{A59940A1-538E-4A83-A696-36A5B25494A7} = {FBD92D53-1F9F-40D6-885A-020741A3E9E4}
+		{BA94807B-50FB-4647-B7AD-D8B8D86EC13E} = {A59940A1-538E-4A83-A696-36A5B25494A7}
+		{226DC83D-B005-4AC3-B3BD-5AC589E59225} = {A59940A1-538E-4A83-A696-36A5B25494A7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56A756F6-2467-43C0-90D6-FBEC92801C43}
