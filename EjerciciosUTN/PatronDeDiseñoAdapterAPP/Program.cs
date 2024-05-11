@@ -4,6 +4,10 @@ namespace PatronDeDiseñoAdapterAPP
 {
     internal class Program
     {
+        /*  Patron de Diseño Adapter:
+            Adapter es un patrón de diseño estructural que permite 
+            la colaboración entre objetos con interfaces incompatibles.
+         */
         static void Main(string[] args)
         {
             CD cd = new CD();

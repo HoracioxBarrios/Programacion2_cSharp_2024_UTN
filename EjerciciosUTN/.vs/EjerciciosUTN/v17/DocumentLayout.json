@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0CBE9B01-F108-42C5-A649-D9998464C84D}|PatronDeDise\u00F1oAdapterAPP\\PatronDeDise\u00F1oAdapterAPP.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\patrondedise\u00F1oadapterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CBE9B01-F108-42C5-A649-D9998464C84D}|PatronDeDise\u00F1oAdapterAPP\\PatronDeDise\u00F1oAdapterAPP.csproj|solutionrelative:patrondedise\u00F1oadapterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2958EEE-7E25-4566-A72E-2E49B58DDEF3}|PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\patrondedise\u00F1osingletonapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2958EEE-7E25-4566-A72E-2E49B58DDEF3}|PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj|solutionrelative:patrondedise\u00F1osingletonapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D2958EEE-7E25-4566-A72E-2E49B58DDEF3}|PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\patrondedise\u00F1osingletonapp\\patrondedise\u00F1osingletonapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D2958EEE-7E25-4566-A72E-2E49B58DDEF3}|PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj|solutionrelative:patrondedise\u00F1osingletonapp\\patrondedise\u00F1osingletonapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CBE9B01-F108-42C5-A649-D9998464C84D}|PatronDeDise\u00F1oAdapterAPP\\PatronDeDise\u00F1oAdapterAPP.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\patrondedise\u00F1oadapterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CBE9B01-F108-42C5-A649-D9998464C84D}|PatronDeDise\u00F1oAdapterAPP\\PatronDeDise\u00F1oAdapterAPP.csproj|solutionrelative:patrondedise\u00F1oadapterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFE71602-598C-41BE-91BF-232C1F00B010}|BibliotecaClaseAdapter\\BibliotecaClaseAdapter.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\bibliotecaclaseadapter\\reproductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,11 +122,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PatronDeDise\u00F1oSingletonApp",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj",
               "RelativeDocumentMoniker": "PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj",
@@ -139,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClasesSingleton\\Usuario.cs",
               "RelativeDocumentMoniker": "BibliotecaClasesSingleton\\Usuario.cs",
@@ -152,13 +152,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oSingletonApp\\Program.cs",
               "RelativeDocumentMoniker": "PatronDeDise\u00F1oSingletonApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oSingletonApp\\Program.cs*",
-              "RelativeToolTip": "PatronDeDise\u00F1oSingletonApp\\Program.cs*",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAowBIAAAAlAAAA",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oSingletonApp\\Program.cs",
+              "RelativeToolTip": "PatronDeDise\u00F1oSingletonApp\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T01:36:24.598Z",
               "EditorCaption": ""
@@ -191,13 +191,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oAdapterAPP\\Program.cs",
               "RelativeDocumentMoniker": "PatronDeDise\u00F1oAdapterAPP\\Program.cs",
               "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oAdapterAPP\\Program.cs",
               "RelativeToolTip": "PatronDeDise\u00F1oAdapterAPP\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAwAAABBAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T00:41:08.71Z",
               "EditorCaption": ""
