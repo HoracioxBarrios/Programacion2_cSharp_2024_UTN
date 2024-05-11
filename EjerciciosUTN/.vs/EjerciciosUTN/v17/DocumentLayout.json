@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2958EEE-7E25-4566-A72E-2E49B58DDEF3}|PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\patrondedise\u00F1osingletonapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2958EEE-7E25-4566-A72E-2E49B58DDEF3}|PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj|solutionrelative:patrondedise\u00F1osingletonapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77805096-AD77-4EEE-B689-FF1381274BF9}|BibliotecaClasesSingleton\\BibliotecaClasesSingleton.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\bibliotecaclasessingleton\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77805096-AD77-4EEE-B689-FF1381274BF9}|BibliotecaClasesSingleton\\BibliotecaClasesSingleton.csproj|solutionrelative:bibliotecaclasessingleton\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2958EEE-7E25-4566-A72E-2E49B58DDEF3}|PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\patrondedise\u00F1osingletonapp\\patrondedise\u00F1osingletonapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2958EEE-7E25-4566-A72E-2E49B58DDEF3}|PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj|solutionrelative:patrondedise\u00F1osingletonapp\\patrondedise\u00F1osingletonapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0CBE9B01-F108-42C5-A649-D9998464C84D}|PatronDeDise\u00F1oAdapterAPP\\PatronDeDise\u00F1oAdapterAPP.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\patrondedise\u00F1oadapterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CBE9B01-F108-42C5-A649-D9998464C84D}|PatronDeDise\u00F1oAdapterAPP\\PatronDeDise\u00F1oAdapterAPP.csproj|solutionrelative:patrondedise\u00F1oadapterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -114,7 +126,46 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "PatronDeDise\u00F1oSingletonApp",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj",
+              "RelativeDocumentMoniker": "PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj",
+              "RelativeToolTip": "PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-11T01:37:19.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClasesSingleton\\Usuario.cs",
+              "RelativeDocumentMoniker": "BibliotecaClasesSingleton\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClasesSingleton\\Usuario.cs",
+              "RelativeToolTip": "BibliotecaClasesSingleton\\Usuario.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T01:37:15.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oSingletonApp\\Program.cs",
+              "RelativeDocumentMoniker": "PatronDeDise\u00F1oSingletonApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oSingletonApp\\Program.cs*",
+              "RelativeToolTip": "PatronDeDise\u00F1oSingletonApp\\Program.cs*",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T01:36:24.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DiscoVinilo.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\DiscoVinilo.cs",
               "RelativeDocumentMoniker": "BibliotecaClaseAdapter\\DiscoVinilo.cs",
@@ -127,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AdapterViniloACD.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\AdapterViniloACD.cs",
               "RelativeDocumentMoniker": "BibliotecaClaseAdapter\\AdapterViniloACD.cs",
@@ -140,20 +191,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oAdapterAPP\\Program.cs",
               "RelativeDocumentMoniker": "PatronDeDise\u00F1oAdapterAPP\\Program.cs",
               "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oAdapterAPP\\Program.cs",
               "RelativeToolTip": "PatronDeDise\u00F1oAdapterAPP\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAwAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T00:41:08.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Reproductor.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\Reproductor.cs",
               "RelativeDocumentMoniker": "BibliotecaClaseAdapter\\Reproductor.cs",
@@ -166,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IReproducirVinilo.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\IReproducirVinilo.cs",
               "RelativeDocumentMoniker": "BibliotecaClaseAdapter\\IReproducirVinilo.cs",
@@ -179,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IReprodirCD.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\IReprodirCD.cs",
               "RelativeDocumentMoniker": "BibliotecaClaseAdapter\\IReprodirCD.cs",
@@ -192,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "CD.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\CD.cs",
               "RelativeDocumentMoniker": "BibliotecaClaseAdapter\\CD.cs",
@@ -205,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "PatronDeDise\u00F1oAdapterAPP",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oAdapterAPP\\PatronDeDise\u00F1oAdapterAPP.csproj",
               "RelativeDocumentMoniker": "PatronDeDise\u00F1oAdapterAPP\\PatronDeDise\u00F1oAdapterAPP.csproj",
@@ -218,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Coche.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\LibreriaClasesIndexadores\\Coche.cs",
               "RelativeDocumentMoniker": "LibreriaClasesIndexadores\\Coche.cs",
@@ -231,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Consecionaria.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\LibreriaClasesIndexadores\\Consecionaria.cs",
               "RelativeDocumentMoniker": "LibreriaClasesIndexadores\\Consecionaria.cs",
@@ -244,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PracticaIndexadoresApp\\Program.cs",
               "RelativeDocumentMoniker": "PracticaIndexadoresApp\\Program.cs",
@@ -257,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "HijoMarciano.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\HijoMarciano.cs",
               "RelativeDocumentMoniker": "BibliotecaClassPolimorfismo\\HijoMarciano.cs",
@@ -270,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Gestor.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\Gestor.cs",
               "RelativeDocumentMoniker": "BibliotecaClassPolimorfismo\\Gestor.cs",
@@ -283,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Hijo.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\Hijo.cs",
               "RelativeDocumentMoniker": "BibliotecaClassPolimorfismo\\Hijo.cs",
@@ -296,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "IPadreMethods.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\IPadreMethods.cs",
               "RelativeDocumentMoniker": "BibliotecaClassPolimorfismo\\IPadreMethods.cs",
@@ -309,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "PolimorfismoDudasAPP",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PolimorfismoDudasAPP\\PolimorfismoDudasAPP.csproj",
               "RelativeDocumentMoniker": "PolimorfismoDudasAPP\\PolimorfismoDudasAPP.csproj",
@@ -322,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Padre.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\Padre.cs",
               "RelativeDocumentMoniker": "BibliotecaClassPolimorfismo\\Padre.cs",
@@ -335,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PolimorfismoDudasAPP\\Program.cs",
               "RelativeDocumentMoniker": "PolimorfismoDudasAPP\\Program.cs",
@@ -348,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "EmpleadoTemporal.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassL\\EmpleadoTemporal.cs",
               "RelativeDocumentMoniker": "BibliotecaClassL\\EmpleadoTemporal.cs",
@@ -361,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "EmpleadoPermanente.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassL\\EmpleadoPermanente.cs",
               "RelativeDocumentMoniker": "BibliotecaClassL\\EmpleadoPermanente.cs",
@@ -374,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassL\\Empleado.cs",
               "RelativeDocumentMoniker": "BibliotecaClassL\\Empleado.cs",
@@ -387,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PrincipioSolidLiskovSubstitutionPrincipleAPP\\Program.cs",
               "RelativeDocumentMoniker": "PrincipioSolidLiskovSubstitutionPrincipleAPP\\Program.cs",
@@ -400,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "FormularioRegistro.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Registro\\FormularioRegistro.cs",
               "RelativeDocumentMoniker": "Registro\\FormularioRegistro.cs",
@@ -412,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "FormularioRegistro.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Registro\\FormularioRegistro.Designer.cs",
               "RelativeDocumentMoniker": "Registro\\FormularioRegistro.Designer.cs",
@@ -424,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "FormularioRegistro.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Registro\\FormularioRegistro.cs",
               "RelativeDocumentMoniker": "Registro\\FormularioRegistro.cs",
