@@ -26,17 +26,17 @@ namespace PrincipioSolidLiskovSubstitutionPrincipleAPP
             Console.WriteLine(empleado1.GetType());
             Console.WriteLine(empleado2.GetType());
 
-            foreach(Empleado empleado in empleadoList)
-            {
-                Console.WriteLine($"Empledado de la lista {empleado.GetType()}");
-            }
-            
+            //foreach (Empleado empleado in empleadoList)
+            //{
+            //    Console.WriteLine($"Empledado de la lista {empleado.GetType()}");
+            //}
+            EmpleadoPermanente empleado3 = empleado1 as EmpleadoPermanente;
+            empleado3.SoyEmpleadoPermanente();
+            empleado3.SoyEmpleadoPadre();
 
 
-            //Casteamos al tipo hijo:
-            //El casting excesivo No es recomendable pero se puede.
-            EmpleadoPermanente empleadoCasteado = empleado1 as EmpleadoPermanente;
-            empleadoCasteado.SoyEmpleadoPermanente();
+
+
 
 
         }

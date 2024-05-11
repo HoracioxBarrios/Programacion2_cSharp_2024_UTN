@@ -20,7 +20,7 @@ namespace BibliotecaClases1
         public Sumador() :this(0)
         { 
         }
-        public Sumador(int cantidadSumas) 
+        private Sumador(int cantidadSumas) 
         {
             _cantidadSumas = cantidadSumas;
         }

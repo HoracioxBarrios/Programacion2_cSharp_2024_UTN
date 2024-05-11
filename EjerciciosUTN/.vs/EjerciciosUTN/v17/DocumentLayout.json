@@ -1,166 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\",
+  "WorkspaceRootPath": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61EC55B5-4AD8-41D2-8D89-09B0AD0DE37A}|PatronDeDise\u00F1oFactoryMethods\\PatronDeDise\u00F1oFactoryMethods.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\patrondedise\u00F1ofactorymethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61EC55B5-4AD8-41D2-8D89-09B0AD0DE37A}|PatronDeDise\u00F1oFactoryMethods\\PatronDeDise\u00F1oFactoryMethods.csproj|solutionrelative:patrondedise\u00F1ofactorymethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{028732B7-1776-47AA-BE67-FEF1F1E55D5E}|BibliotecaDeClasesFactoryMethodsMejorado\\BibliotecaDeClasesFactoryMethodsMejorado.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\bibliotecadeclasesfactorymethodsmejorado\\fabricadevehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{028732B7-1776-47AA-BE67-FEF1F1E55D5E}|BibliotecaDeClasesFactoryMethodsMejorado\\BibliotecaDeClasesFactoryMethodsMejorado.csproj|solutionrelative:bibliotecadeclasesfactorymethodsmejorado\\fabricadevehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{028732B7-1776-47AA-BE67-FEF1F1E55D5E}|BibliotecaDeClasesFactoryMethodsMejorado\\BibliotecaDeClasesFactoryMethodsMejorado.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\bibliotecadeclasesfactorymethodsmejorado\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{028732B7-1776-47AA-BE67-FEF1F1E55D5E}|BibliotecaDeClasesFactoryMethodsMejorado\\BibliotecaDeClasesFactoryMethodsMejorado.csproj|solutionrelative:bibliotecadeclasesfactorymethodsmejorado\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{028732B7-1776-47AA-BE67-FEF1F1E55D5E}|BibliotecaDeClasesFactoryMethodsMejorado\\BibliotecaDeClasesFactoryMethodsMejorado.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\bibliotecadeclasesfactorymethodsmejorado\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{028732B7-1776-47AA-BE67-FEF1F1E55D5E}|BibliotecaDeClasesFactoryMethodsMejorado\\BibliotecaDeClasesFactoryMethodsMejorado.csproj|solutionrelative:bibliotecadeclasesfactorymethodsmejorado\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{528BAC4C-AC58-47D3-9701-71E184052651}|PatronDeDise\u00F1oFactoryMethodAPP\\PatronDeDise\u00F1oFactoryMethodAPP.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\patrondedise\u00F1ofactorymethodapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{528BAC4C-AC58-47D3-9701-71E184052651}|PatronDeDise\u00F1oFactoryMethodAPP\\PatronDeDise\u00F1oFactoryMethodAPP.csproj|solutionrelative:patrondedise\u00F1ofactorymethodapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8506CFCE-68A5-4AB1-9AAE-F7BCE9BB3548}|BibliotecaClassFactoryMethod\\BibliotecaClassFactoryMethod.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\bibliotecaclassfactorymethod\\tipocarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8506CFCE-68A5-4AB1-9AAE-F7BCE9BB3548}|BibliotecaClassFactoryMethod\\BibliotecaClassFactoryMethod.csproj|solutionrelative:bibliotecaclassfactorymethod\\tipocarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8506CFCE-68A5-4AB1-9AAE-F7BCE9BB3548}|BibliotecaClassFactoryMethod\\BibliotecaClassFactoryMethod.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclassfactorymethod\\fabricadevehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8506CFCE-68A5-4AB1-9AAE-F7BCE9BB3548}|BibliotecaClassFactoryMethod\\BibliotecaClassFactoryMethod.csproj|solutionrelative:bibliotecaclassfactorymethod\\fabricadevehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8506CFCE-68A5-4AB1-9AAE-F7BCE9BB3548}|BibliotecaClassFactoryMethod\\BibliotecaClassFactoryMethod.csproj|c:\\users\\migue\\desktop\\c#\\utn programacion 2\\ejerciciosutn\\bibliotecaclassfactorymethod\\icrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8506CFCE-68A5-4AB1-9AAE-F7BCE9BB3548}|BibliotecaClassFactoryMethod\\BibliotecaClassFactoryMethod.csproj|solutionrelative:bibliotecaclassfactorymethod\\icrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8506CFCE-68A5-4AB1-9AAE-F7BCE9BB3548}|BibliotecaClassFactoryMethod\\BibliotecaClassFactoryMethod.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclassfactorymethod\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8506CFCE-68A5-4AB1-9AAE-F7BCE9BB3548}|BibliotecaClassFactoryMethod\\BibliotecaClassFactoryMethod.csproj|solutionrelative:bibliotecaclassfactorymethod\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8506CFCE-68A5-4AB1-9AAE-F7BCE9BB3548}|BibliotecaClassFactoryMethod\\BibliotecaClassFactoryMethod.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclassfactorymethod\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8506CFCE-68A5-4AB1-9AAE-F7BCE9BB3548}|BibliotecaClassFactoryMethod\\BibliotecaClassFactoryMethod.csproj|solutionrelative:bibliotecaclassfactorymethod\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8506CFCE-68A5-4AB1-9AAE-F7BCE9BB3548}|BibliotecaClassFactoryMethod\\BibliotecaClassFactoryMethod.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclassfactorymethod\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8506CFCE-68A5-4AB1-9AAE-F7BCE9BB3548}|BibliotecaClassFactoryMethod\\BibliotecaClassFactoryMethod.csproj|solutionrelative:bibliotecaclassfactorymethod\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{528BAC4C-AC58-47D3-9701-71E184052651}|PatronDeDise\u00F1oFactoryMethodAPP\\PatronDeDise\u00F1oFactoryMethodAPP.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\patrondedise\u00F1ofactorymethodapp\\patrondedise\u00F1ofactorymethodapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{528BAC4C-AC58-47D3-9701-71E184052651}|PatronDeDise\u00F1oFactoryMethodAPP\\PatronDeDise\u00F1oFactoryMethodAPP.csproj|solutionrelative:patrondedise\u00F1ofactorymethodapp\\patrondedise\u00F1ofactorymethodapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CBE9B01-F108-42C5-A649-D9998464C84D}|PatronDeDise\u00F1oAdapterAPP\\PatronDeDise\u00F1oAdapterAPP.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\patrondedise\u00F1oadapterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CBE9B01-F108-42C5-A649-D9998464C84D}|PatronDeDise\u00F1oAdapterAPP\\PatronDeDise\u00F1oAdapterAPP.csproj|solutionrelative:patrondedise\u00F1oadapterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2958EEE-7E25-4566-A72E-2E49B58DDEF3}|PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\patrondedise\u00F1osingletonapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2958EEE-7E25-4566-A72E-2E49B58DDEF3}|PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj|solutionrelative:patrondedise\u00F1osingletonapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77805096-AD77-4EEE-B689-FF1381274BF9}|BibliotecaClasesSingleton\\BibliotecaClasesSingleton.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclasessingleton\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77805096-AD77-4EEE-B689-FF1381274BF9}|BibliotecaClasesSingleton\\BibliotecaClasesSingleton.csproj|solutionrelative:bibliotecaclasessingleton\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2958EEE-7E25-4566-A72E-2E49B58DDEF3}|PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\patrondedise\u00F1osingletonapp\\patrondedise\u00F1osingletonapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D2958EEE-7E25-4566-A72E-2E49B58DDEF3}|PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj|solutionrelative:patrondedise\u00F1osingletonapp\\patrondedise\u00F1osingletonapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFE71602-598C-41BE-91BF-232C1F00B010}|BibliotecaClaseAdapter\\BibliotecaClaseAdapter.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclaseadapter\\reproductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFE71602-598C-41BE-91BF-232C1F00B010}|BibliotecaClaseAdapter\\BibliotecaClaseAdapter.csproj|solutionrelative:bibliotecaclaseadapter\\reproductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFE71602-598C-41BE-91BF-232C1F00B010}|BibliotecaClaseAdapter\\BibliotecaClaseAdapter.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclaseadapter\\adapterviniloacd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFE71602-598C-41BE-91BF-232C1F00B010}|BibliotecaClaseAdapter\\BibliotecaClaseAdapter.csproj|solutionrelative:bibliotecaclaseadapter\\adapterviniloacd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFE71602-598C-41BE-91BF-232C1F00B010}|BibliotecaClaseAdapter\\BibliotecaClaseAdapter.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclaseadapter\\ireprodircd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFE71602-598C-41BE-91BF-232C1F00B010}|BibliotecaClaseAdapter\\BibliotecaClaseAdapter.csproj|solutionrelative:bibliotecaclaseadapter\\ireprodircd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFE71602-598C-41BE-91BF-232C1F00B010}|BibliotecaClaseAdapter\\BibliotecaClaseAdapter.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclaseadapter\\ireproducirvinilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFE71602-598C-41BE-91BF-232C1F00B010}|BibliotecaClaseAdapter\\BibliotecaClaseAdapter.csproj|solutionrelative:bibliotecaclaseadapter\\ireproducirvinilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFE71602-598C-41BE-91BF-232C1F00B010}|BibliotecaClaseAdapter\\BibliotecaClaseAdapter.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclaseadapter\\discovinilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFE71602-598C-41BE-91BF-232C1F00B010}|BibliotecaClaseAdapter\\BibliotecaClaseAdapter.csproj|solutionrelative:bibliotecaclaseadapter\\discovinilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFE71602-598C-41BE-91BF-232C1F00B010}|BibliotecaClaseAdapter\\BibliotecaClaseAdapter.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclaseadapter\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFE71602-598C-41BE-91BF-232C1F00B010}|BibliotecaClaseAdapter\\BibliotecaClaseAdapter.csproj|solutionrelative:bibliotecaclaseadapter\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CBE9B01-F108-42C5-A649-D9998464C84D}|PatronDeDise\u00F1oAdapterAPP\\PatronDeDise\u00F1oAdapterAPP.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\patrondedise\u00F1oadapterapp\\patrondedise\u00F1oadapterapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0CBE9B01-F108-42C5-A649-D9998464C84D}|PatronDeDise\u00F1oAdapterAPP\\PatronDeDise\u00F1oAdapterAPP.csproj|solutionrelative:patrondedise\u00F1oadapterapp\\patrondedise\u00F1oadapterapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A003FCB9-8D9A-4ADA-B538-7A41288C6BD5}|PracticaIndexadoresApp\\PracticaIndexadoresApp.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\practicaindexadoresapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A003FCB9-8D9A-4ADA-B538-7A41288C6BD5}|PracticaIndexadoresApp\\PracticaIndexadoresApp.csproj|solutionrelative:practicaindexadoresapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB408C2E-8F22-400C-A1E0-67BD5A8123B1}|LibreriaClasesIndexadores\\LibreriaClasesIndexadores.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\libreriaclasesindexadores\\consecionaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB408C2E-8F22-400C-A1E0-67BD5A8123B1}|LibreriaClasesIndexadores\\LibreriaClasesIndexadores.csproj|solutionrelative:libreriaclasesindexadores\\consecionaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB408C2E-8F22-400C-A1E0-67BD5A8123B1}|LibreriaClasesIndexadores\\LibreriaClasesIndexadores.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\libreriaclasesindexadores\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB408C2E-8F22-400C-A1E0-67BD5A8123B1}|LibreriaClasesIndexadores\\LibreriaClasesIndexadores.csproj|solutionrelative:libreriaclasesindexadores\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC28458-DD01-4511-8389-BEFFD960AB8B}|BibliotecaClassPolimorfismo\\BibliotecaClassPolimorfismo.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclasspolimorfismo\\gestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC28458-DD01-4511-8389-BEFFD960AB8B}|BibliotecaClassPolimorfismo\\BibliotecaClassPolimorfismo.csproj|solutionrelative:bibliotecaclasspolimorfismo\\gestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF0CD8CF-FBAA-4F39-B9F9-FDE258A1AD03}|PolimorfismoDudasAPP\\PolimorfismoDudasAPP.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\polimorfismodudasapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF0CD8CF-FBAA-4F39-B9F9-FDE258A1AD03}|PolimorfismoDudasAPP\\PolimorfismoDudasAPP.csproj|solutionrelative:polimorfismodudasapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC28458-DD01-4511-8389-BEFFD960AB8B}|BibliotecaClassPolimorfismo\\BibliotecaClassPolimorfismo.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclasspolimorfismo\\hijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC28458-DD01-4511-8389-BEFFD960AB8B}|BibliotecaClassPolimorfismo\\BibliotecaClassPolimorfismo.csproj|solutionrelative:bibliotecaclasspolimorfismo\\hijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC28458-DD01-4511-8389-BEFFD960AB8B}|BibliotecaClassPolimorfismo\\BibliotecaClassPolimorfismo.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclasspolimorfismo\\hijomarciano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC28458-DD01-4511-8389-BEFFD960AB8B}|BibliotecaClassPolimorfismo\\BibliotecaClassPolimorfismo.csproj|solutionrelative:bibliotecaclasspolimorfismo\\hijomarciano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC28458-DD01-4511-8389-BEFFD960AB8B}|BibliotecaClassPolimorfismo\\BibliotecaClassPolimorfismo.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclasspolimorfismo\\ipadremethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC28458-DD01-4511-8389-BEFFD960AB8B}|BibliotecaClassPolimorfismo\\BibliotecaClassPolimorfismo.csproj|solutionrelative:bibliotecaclasspolimorfismo\\ipadremethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC28458-DD01-4511-8389-BEFFD960AB8B}|BibliotecaClassPolimorfismo\\BibliotecaClassPolimorfismo.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclasspolimorfismo\\padre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC28458-DD01-4511-8389-BEFFD960AB8B}|BibliotecaClassPolimorfismo\\BibliotecaClassPolimorfismo.csproj|solutionrelative:bibliotecaclasspolimorfismo\\padre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF0CD8CF-FBAA-4F39-B9F9-FDE258A1AD03}|PolimorfismoDudasAPP\\PolimorfismoDudasAPP.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\polimorfismodudasapp\\polimorfismodudasapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EF0CD8CF-FBAA-4F39-B9F9-FDE258A1AD03}|PolimorfismoDudasAPP\\PolimorfismoDudasAPP.csproj|solutionrelative:polimorfismodudasapp\\polimorfismodudasapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA94807B-50FB-4647-B7AD-D8B8D86EC13E}|PrincipioSolidLiskovSubstitutionPrincipleAPP\\PrincipioSolidLiskovSubstitutionPrincipleAPP.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\principiosolidliskovsubstitutionprincipleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA94807B-50FB-4647-B7AD-D8B8D86EC13E}|PrincipioSolidLiskovSubstitutionPrincipleAPP\\PrincipioSolidLiskovSubstitutionPrincipleAPP.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\principiosolidliskovsubstitutionprincipleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA94807B-50FB-4647-B7AD-D8B8D86EC13E}|PrincipioSolidLiskovSubstitutionPrincipleAPP\\PrincipioSolidLiskovSubstitutionPrincipleAPP.csproj|solutionrelative:principiosolidliskovsubstitutionprincipleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{226DC83D-B005-4AC3-B3BD-5AC589E59225}|BibliotecaClassL\\BibliotecaClassL.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclassl\\empleadotemporal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{226DC83D-B005-4AC3-B3BD-5AC589E59225}|BibliotecaClassL\\BibliotecaClassL.csproj|solutionrelative:bibliotecaclassl\\empleadotemporal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{226DC83D-B005-4AC3-B3BD-5AC589E59225}|BibliotecaClassL\\BibliotecaClassL.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclassl\\empleadopermanente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{226DC83D-B005-4AC3-B3BD-5AC589E59225}|BibliotecaClassL\\BibliotecaClassL.csproj|solutionrelative:bibliotecaclassl\\empleadopermanente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{226DC83D-B005-4AC3-B3BD-5AC589E59225}|BibliotecaClassL\\BibliotecaClassL.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\bibliotecaclassl\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{226DC83D-B005-4AC3-B3BD-5AC589E59225}|BibliotecaClassL\\BibliotecaClassL.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\bibliotecaclassl\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{226DC83D-B005-4AC3-B3BD-5AC589E59225}|BibliotecaClassL\\BibliotecaClassL.csproj|solutionrelative:bibliotecaclassl\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD51DB06-4403-46AF-837D-18A34A5EF350}|Registro\\Clase6Ejercicio2FrmRegistro.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\registro\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD51DB06-4403-46AF-837D-18A34A5EF350}|Registro\\Clase6Ejercicio2FrmRegistro.csproj|solutionrelative:registro\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{226DC83D-B005-4AC3-B3BD-5AC589E59225}|BibliotecaClassL\\BibliotecaClassL.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\bibliotecaclassl\\gestorempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226DC83D-B005-4AC3-B3BD-5AC589E59225}|BibliotecaClassL\\BibliotecaClassL.csproj|solutionrelative:bibliotecaclassl\\gestorempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD51DB06-4403-46AF-837D-18A34A5EF350}|Registro\\Clase6Ejercicio2FrmRegistro.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\registro\\formularioregistro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD51DB06-4403-46AF-837D-18A34A5EF350}|Registro\\Clase6Ejercicio2FrmRegistro.csproj|solutionrelative:registro\\formularioregistro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{226DC83D-B005-4AC3-B3BD-5AC589E59225}|BibliotecaClassL\\BibliotecaClassL.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\bibliotecaclassl\\empleadotemporal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226DC83D-B005-4AC3-B3BD-5AC589E59225}|BibliotecaClassL\\BibliotecaClassL.csproj|solutionrelative:bibliotecaclassl\\empleadotemporal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD51DB06-4403-46AF-837D-18A34A5EF350}|Registro\\Clase6Ejercicio2FrmRegistro.csproj|C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\registro\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CD51DB06-4403-46AF-837D-18A34A5EF350}|Registro\\Clase6Ejercicio2FrmRegistro.csproj|solutionrelative:registro\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{226DC83D-B005-4AC3-B3BD-5AC589E59225}|BibliotecaClassL\\BibliotecaClassL.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\bibliotecaclassl\\empleadopermanente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226DC83D-B005-4AC3-B3BD-5AC589E59225}|BibliotecaClassL\\BibliotecaClassL.csproj|solutionrelative:bibliotecaclassl\\empleadopermanente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\BibliotecaClases1.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\libreriaclases\\sumador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8CD2E2-F562-4161-A427-35CDA06EBFD2}|LibreriaClases\\BibliotecaClases1.csproj|solutionrelative:libreriaclases\\sumador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0E186A-E454-40D9-8FCB-78753E249B6A}|Clase4Ejercicio1\\Clase4Ejercicio1.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\clase4ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0E186A-E454-40D9-8FCB-78753E249B6A}|Clase4Ejercicio1\\Clase4Ejercicio1.csproj|solutionrelative:clase4ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA94807B-50FB-4647-B7AD-D8B8D86EC13E}|PrincipioSolidLiskovSubstitutionPrincipleAPP\\PrincipioSolidLiskovSubstitutionPrincipleAPP.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\principiosolidliskovsubstitutionprincipleapp\\principiosolidliskovsubstitutionprincipleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA94807B-50FB-4647-B7AD-D8B8D86EC13E}|PrincipioSolidLiskovSubstitutionPrincipleAPP\\PrincipioSolidLiskovSubstitutionPrincipleAPP.csproj|solutionrelative:principiosolidliskovsubstitutionprincipleapp\\principiosolidliskovsubstitutionprincipleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABF89E3-79C1-4F68-8844-3A2C9C632743}|PrincipioSolidOpen_ClosedAPP\\PrincipioSolidOpen_ClosedAPP.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\principiosolidopen_closedapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABF89E3-79C1-4F68-8844-3A2C9C632743}|PrincipioSolidOpen_ClosedAPP\\PrincipioSolidOpen_ClosedAPP.csproj|solutionrelative:principiosolidopen_closedapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\bibliotecaclaseso\\gestoralquilervehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|solutionrelative:bibliotecaclaseso\\gestoralquilervehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\bibliotecaclaseso\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|solutionrelative:bibliotecaclaseso\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\bibliotecaclaseso\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|solutionrelative:bibliotecaclaseso\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\bibliotecaclaseso\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|solutionrelative:bibliotecaclaseso\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\bibliotecaclaseso\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB99061B-04B8-4181-B396-0BA1BD249A4A}|BibliotecaClasesO\\BibliotecaClasesO.csproj|solutionrelative:bibliotecaclaseso\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D410FD34-4404-4E26-8ECE-F5A2CD464130}|WinFormsAppSingleAndSeparationResponsability\\WinFormsAppSingleAndSeparationResponsability.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\winformsappsingleandseparationresponsability\\formularioprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D410FD34-4404-4E26-8ECE-F5A2CD464130}|WinFormsAppSingleAndSeparationResponsability\\WinFormsAppSingleAndSeparationResponsability.csproj|solutionrelative:winformsappsingleandseparationresponsability\\formularioprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEBEBE1-3A10-436D-B64D-D509656DD106}|BibliotecaClasesEjemploLogin\\BibliotecaClasesEjemploLogin.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\bibliotecaclasesejemplologin\\loginfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEBEBE1-3A10-436D-B64D-D509656DD106}|BibliotecaClasesEjemploLogin\\BibliotecaClasesEjemploLogin.csproj|solutionrelative:bibliotecaclasesejemplologin\\loginfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EF835B-B346-4A1E-BA0A-8E3A441804C5}|WinFormsAppPracticaLogin1\\WinFormsAppPracticaLogin1.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\winformsapppracticalogin1\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56EF835B-B346-4A1E-BA0A-8E3A441804C5}|WinFormsAppPracticaLogin1\\WinFormsAppPracticaLogin1.csproj|solutionrelative:winformsapppracticalogin1\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EF835B-B346-4A1E-BA0A-8E3A441804C5}|WinFormsAppPracticaLogin1\\WinFormsAppPracticaLogin1.csproj|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\winformsapppracticalogin1\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EF835B-B346-4A1E-BA0A-8E3A441804C5}|WinFormsAppPracticaLogin1\\WinFormsAppPracticaLogin1.csproj|solutionrelative:winformsapppracticalogin1\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -170,495 +82,258 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IVehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaDeClasesFactoryMethodsMejorado\\IVehiculo.cs",
-              "RelativeDocumentMoniker": "BibliotecaDeClasesFactoryMethodsMejorado\\IVehiculo.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaDeClasesFactoryMethodsMejorado\\IVehiculo.cs",
-              "RelativeToolTip": "BibliotecaDeClasesFactoryMethodsMejorado\\IVehiculo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "Sumador.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\LibreriaClases\\Sumador.cs",
+              "RelativeDocumentMoniker": "LibreriaClases\\Sumador.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\LibreriaClases\\Sumador.cs",
+              "RelativeToolTip": "LibreriaClases\\Sumador.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAvwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T03:12:24.743Z",
+              "WhenOpened": "2024-05-11T04:35:26.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\Clase4Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Clase4Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\Clase4Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Clase4Ejercicio1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T04:36:31.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Moto.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaDeClasesFactoryMethodsMejorado\\Moto.cs",
-              "RelativeDocumentMoniker": "BibliotecaDeClasesFactoryMethodsMejorado\\Moto.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaDeClasesFactoryMethodsMejorado\\Moto.cs",
-              "RelativeToolTip": "BibliotecaDeClasesFactoryMethodsMejorado\\Moto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Title": "GestorEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassL\\GestorEmpleados.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassL\\GestorEmpleados.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassL\\GestorEmpleados.cs",
+              "RelativeToolTip": "BibliotecaClassL\\GestorEmpleados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T03:11:53.431Z",
+              "WhenOpened": "2024-05-10T18:27:08.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoTemporal.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassL\\EmpleadoTemporal.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassL\\EmpleadoTemporal.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassL\\EmpleadoTemporal.cs",
+              "RelativeToolTip": "BibliotecaClassL\\EmpleadoTemporal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:25:21.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadoPermanente.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassL\\EmpleadoPermanente.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassL\\EmpleadoPermanente.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassL\\EmpleadoPermanente.cs",
+              "RelativeToolTip": "BibliotecaClassL\\EmpleadoPermanente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:24:13.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FabricaDeVehiculos.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaDeClasesFactoryMethodsMejorado\\FabricaDeVehiculos.cs",
-              "RelativeDocumentMoniker": "BibliotecaDeClasesFactoryMethodsMejorado\\FabricaDeVehiculos.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaDeClasesFactoryMethodsMejorado\\FabricaDeVehiculos.cs",
-              "RelativeToolTip": "BibliotecaDeClasesFactoryMethodsMejorado\\FabricaDeVehiculos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassL\\Empleado.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassL\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassL\\Empleado.cs",
+              "RelativeToolTip": "BibliotecaClassL\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T03:09:57.791Z",
+              "WhenOpened": "2024-05-10T18:20:46.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oFactoryMethods\\Program.cs",
-              "RelativeDocumentMoniker": "PatronDeDise\u00F1oFactoryMethods\\Program.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oFactoryMethods\\Program.cs",
-              "RelativeToolTip": "PatronDeDise\u00F1oFactoryMethods\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PrincipioSolidLiskovSubstitutionPrincipleAPP\\Program.cs",
+              "RelativeDocumentMoniker": "PrincipioSolidLiskovSubstitutionPrincipleAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PrincipioSolidLiskovSubstitutionPrincipleAPP\\Program.cs",
+              "RelativeToolTip": "PrincipioSolidLiskovSubstitutionPrincipleAPP\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T03:08:31.637Z",
+              "WhenOpened": "2024-05-10T18:04:04.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ICrear.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassFactoryMethod\\ICrear.cs",
-              "RelativeDocumentMoniker": "BibliotecaClassFactoryMethod\\ICrear.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassFactoryMethod\\ICrear.cs",
-              "RelativeToolTip": "BibliotecaClassFactoryMethod\\ICrear.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T02:44:32.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TipoCarro.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassFactoryMethod\\TipoCarro.cs",
-              "RelativeDocumentMoniker": "BibliotecaClassFactoryMethod\\TipoCarro.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassFactoryMethod\\TipoCarro.cs",
-              "RelativeToolTip": "BibliotecaClassFactoryMethod\\TipoCarro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T02:44:07.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FabricaDeVehiculos.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassFactoryMethod\\FabricaDeVehiculos.cs",
-              "RelativeDocumentMoniker": "BibliotecaClassFactoryMethod\\FabricaDeVehiculos.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassFactoryMethod\\FabricaDeVehiculos.cs",
-              "RelativeToolTip": "BibliotecaClassFactoryMethod\\FabricaDeVehiculos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T02:31:06.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IVehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassFactoryMethod\\IVehiculo.cs",
-              "RelativeDocumentMoniker": "BibliotecaClassFactoryMethod\\IVehiculo.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassFactoryMethod\\IVehiculo.cs",
-              "RelativeToolTip": "BibliotecaClassFactoryMethod\\IVehiculo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T02:29:51.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oFactoryMethodAPP\\Program.cs",
-              "RelativeDocumentMoniker": "PatronDeDise\u00F1oFactoryMethodAPP\\Program.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oFactoryMethodAPP\\Program.cs",
-              "RelativeToolTip": "PatronDeDise\u00F1oFactoryMethodAPP\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T02:28:09.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PatronDeDise\u00F1oFactoryMethodAPP",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oFactoryMethodAPP\\PatronDeDise\u00F1oFactoryMethodAPP.csproj",
-              "RelativeDocumentMoniker": "PatronDeDise\u00F1oFactoryMethodAPP\\PatronDeDise\u00F1oFactoryMethodAPP.csproj",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oFactoryMethodAPP\\PatronDeDise\u00F1oFactoryMethodAPP.csproj",
-              "RelativeToolTip": "PatronDeDise\u00F1oFactoryMethodAPP\\PatronDeDise\u00F1oFactoryMethodAPP.csproj",
+              "Title": "PrincipioSolidLiskovSubstitutionPrincipleAPP.csproj",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PrincipioSolidLiskovSubstitutionPrincipleAPP\\PrincipioSolidLiskovSubstitutionPrincipleAPP.csproj",
+              "RelativeDocumentMoniker": "PrincipioSolidLiskovSubstitutionPrincipleAPP\\PrincipioSolidLiskovSubstitutionPrincipleAPP.csproj",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PrincipioSolidLiskovSubstitutionPrincipleAPP\\PrincipioSolidLiskovSubstitutionPrincipleAPP.csproj",
+              "RelativeToolTip": "PrincipioSolidLiskovSubstitutionPrincipleAPP\\PrincipioSolidLiskovSubstitutionPrincipleAPP.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-11T02:28:40.95Z"
+              "WhenOpened": "2024-05-10T18:30:04.162Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassFactoryMethod\\Carro.cs",
-              "RelativeDocumentMoniker": "BibliotecaClassFactoryMethod\\Carro.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassFactoryMethod\\Carro.cs",
-              "RelativeToolTip": "BibliotecaClassFactoryMethod\\Carro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PrincipioSolidOpen_ClosedAPP\\Program.cs",
+              "RelativeDocumentMoniker": "PrincipioSolidOpen_ClosedAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PrincipioSolidOpen_ClosedAPP\\Program.cs",
+              "RelativeToolTip": "PrincipioSolidOpen_ClosedAPP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T02:28:38.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T17:42:43.594Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Moto.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassFactoryMethod\\Moto.cs",
-              "RelativeDocumentMoniker": "BibliotecaClassFactoryMethod\\Moto.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassFactoryMethod\\Moto.cs",
-              "RelativeToolTip": "BibliotecaClassFactoryMethod\\Moto.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Title": "GestorAlquilerVehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\GestorAlquilerVehiculos.cs",
+              "RelativeDocumentMoniker": "BibliotecaClasesO\\GestorAlquilerVehiculos.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\GestorAlquilerVehiculos.cs",
+              "RelativeToolTip": "BibliotecaClasesO\\GestorAlquilerVehiculos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T02:30:20.893Z"
+              "WhenOpened": "2024-05-10T17:32:51.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PatronDeDise\u00F1oSingletonApp",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj",
-              "RelativeDocumentMoniker": "PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj",
-              "RelativeToolTip": "PatronDeDise\u00F1oSingletonApp\\PatronDeDise\u00F1oSingletonApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-11T01:37:19.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClasesSingleton\\Usuario.cs",
-              "RelativeDocumentMoniker": "BibliotecaClasesSingleton\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClasesSingleton\\Usuario.cs",
-              "RelativeToolTip": "BibliotecaClasesSingleton\\Usuario.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAowBEAAAAdAAAA",
+              "DocumentIndex": 10,
+              "Title": "Bicicleta.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Bicicleta.cs",
+              "RelativeDocumentMoniker": "BibliotecaClasesO\\Bicicleta.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Bicicleta.cs",
+              "RelativeToolTip": "BibliotecaClasesO\\Bicicleta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T01:37:15.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oSingletonApp\\Program.cs",
-              "RelativeDocumentMoniker": "PatronDeDise\u00F1oSingletonApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oSingletonApp\\Program.cs",
-              "RelativeToolTip": "PatronDeDise\u00F1oSingletonApp\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T01:36:24.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DiscoVinilo.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\DiscoVinilo.cs",
-              "RelativeDocumentMoniker": "BibliotecaClaseAdapter\\DiscoVinilo.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\DiscoVinilo.cs",
-              "RelativeToolTip": "BibliotecaClaseAdapter\\DiscoVinilo.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:42:22.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AdapterViniloACD.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\AdapterViniloACD.cs",
-              "RelativeDocumentMoniker": "BibliotecaClaseAdapter\\AdapterViniloACD.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\AdapterViniloACD.cs",
-              "RelativeToolTip": "BibliotecaClaseAdapter\\AdapterViniloACD.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBAAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:51:14.409Z"
+              "WhenOpened": "2024-05-10T17:31:38.858Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oAdapterAPP\\Program.cs",
-              "RelativeDocumentMoniker": "PatronDeDise\u00F1oAdapterAPP\\Program.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oAdapterAPP\\Program.cs",
-              "RelativeToolTip": "PatronDeDise\u00F1oAdapterAPP\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Title": "Motocicleta.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Motocicleta.cs",
+              "RelativeDocumentMoniker": "BibliotecaClasesO\\Motocicleta.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Motocicleta.cs",
+              "RelativeToolTip": "BibliotecaClasesO\\Motocicleta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:41:08.71Z"
+              "WhenOpened": "2024-05-10T17:29:59.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Coche.cs",
+              "RelativeDocumentMoniker": "BibliotecaClasesO\\Coche.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Coche.cs",
+              "RelativeToolTip": "BibliotecaClasesO\\Coche.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:24:08.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "BibliotecaClasesO\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Vehiculo.cs",
+              "RelativeToolTip": "BibliotecaClasesO\\Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:20:04.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormularioPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs",
+              "RelativeToolTip": "WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADAAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:20:24.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginFields.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesEjemploLogin\\LoginFields.cs",
+              "RelativeDocumentMoniker": "BibliotecaClasesEjemploLogin\\LoginFields.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesEjemploLogin\\LoginFields.cs",
+              "RelativeToolTip": "BibliotecaClasesEjemploLogin\\LoginFields.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:47:10.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppPracticaLogin1\\FormLogin.cs",
+              "RelativeDocumentMoniker": "WinFormsAppPracticaLogin1\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppPracticaLogin1\\FormLogin.cs",
+              "RelativeToolTip": "WinFormsAppPracticaLogin1\\FormLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:43:59.671Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Reproductor.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\Reproductor.cs",
-              "RelativeDocumentMoniker": "BibliotecaClaseAdapter\\Reproductor.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\Reproductor.cs",
-              "RelativeToolTip": "BibliotecaClaseAdapter\\Reproductor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Title": "FormLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppPracticaLogin1\\FormLogin.cs",
+              "RelativeDocumentMoniker": "WinFormsAppPracticaLogin1\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppPracticaLogin1\\FormLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsAppPracticaLogin1\\FormLogin.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:40:39.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IReproducirVinilo.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\IReproducirVinilo.cs",
-              "RelativeDocumentMoniker": "BibliotecaClaseAdapter\\IReproducirVinilo.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\IReproducirVinilo.cs",
-              "RelativeToolTip": "BibliotecaClaseAdapter\\IReproducirVinilo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:46:13.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IReprodirCD.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\IReprodirCD.cs",
-              "RelativeDocumentMoniker": "BibliotecaClaseAdapter\\IReprodirCD.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\IReprodirCD.cs",
-              "RelativeToolTip": "BibliotecaClaseAdapter\\IReprodirCD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:43:09.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CD.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\CD.cs",
-              "RelativeDocumentMoniker": "BibliotecaClaseAdapter\\CD.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClaseAdapter\\CD.cs",
-              "RelativeToolTip": "BibliotecaClaseAdapter\\CD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:41:53.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "PatronDeDise\u00F1oAdapterAPP",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oAdapterAPP\\PatronDeDise\u00F1oAdapterAPP.csproj",
-              "RelativeDocumentMoniker": "PatronDeDise\u00F1oAdapterAPP\\PatronDeDise\u00F1oAdapterAPP.csproj",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PatronDeDise\u00F1oAdapterAPP\\PatronDeDise\u00F1oAdapterAPP.csproj",
-              "RelativeToolTip": "PatronDeDise\u00F1oAdapterAPP\\PatronDeDise\u00F1oAdapterAPP.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-11T00:44:18.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Coche.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\LibreriaClasesIndexadores\\Coche.cs",
-              "RelativeDocumentMoniker": "LibreriaClasesIndexadores\\Coche.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\LibreriaClasesIndexadores\\Coche.cs",
-              "RelativeToolTip": "LibreriaClasesIndexadores\\Coche.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:02:49.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Consecionaria.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\LibreriaClasesIndexadores\\Consecionaria.cs",
-              "RelativeDocumentMoniker": "LibreriaClasesIndexadores\\Consecionaria.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\LibreriaClasesIndexadores\\Consecionaria.cs",
-              "RelativeToolTip": "LibreriaClasesIndexadores\\Consecionaria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:01:00.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PracticaIndexadoresApp\\Program.cs",
-              "RelativeDocumentMoniker": "PracticaIndexadoresApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PracticaIndexadoresApp\\Program.cs",
-              "RelativeToolTip": "PracticaIndexadoresApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:00:13.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "HijoMarciano.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\HijoMarciano.cs",
-              "RelativeDocumentMoniker": "BibliotecaClassPolimorfismo\\HijoMarciano.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\HijoMarciano.cs",
-              "RelativeToolTip": "BibliotecaClassPolimorfismo\\HijoMarciano.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T22:56:39.239Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Gestor.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\Gestor.cs",
-              "RelativeDocumentMoniker": "BibliotecaClassPolimorfismo\\Gestor.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\Gestor.cs",
-              "RelativeToolTip": "BibliotecaClassPolimorfismo\\Gestor.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T22:49:56.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Hijo.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\Hijo.cs",
-              "RelativeDocumentMoniker": "BibliotecaClassPolimorfismo\\Hijo.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\Hijo.cs",
-              "RelativeToolTip": "BibliotecaClassPolimorfismo\\Hijo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T22:39:41.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "IPadreMethods.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\IPadreMethods.cs",
-              "RelativeDocumentMoniker": "BibliotecaClassPolimorfismo\\IPadreMethods.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\IPadreMethods.cs",
-              "RelativeToolTip": "BibliotecaClassPolimorfismo\\IPadreMethods.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T22:34:44.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "PolimorfismoDudasAPP",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PolimorfismoDudasAPP\\PolimorfismoDudasAPP.csproj",
-              "RelativeDocumentMoniker": "PolimorfismoDudasAPP\\PolimorfismoDudasAPP.csproj",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PolimorfismoDudasAPP\\PolimorfismoDudasAPP.csproj",
-              "RelativeToolTip": "PolimorfismoDudasAPP\\PolimorfismoDudasAPP.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-10T22:32:14.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Padre.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\Padre.cs",
-              "RelativeDocumentMoniker": "BibliotecaClassPolimorfismo\\Padre.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\Padre.cs",
-              "RelativeToolTip": "BibliotecaClassPolimorfismo\\Padre.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T22:33:11.404Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PolimorfismoDudasAPP\\Program.cs",
-              "RelativeDocumentMoniker": "PolimorfismoDudasAPP\\Program.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PolimorfismoDudasAPP\\Program.cs",
-              "RelativeToolTip": "PolimorfismoDudasAPP\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T22:32:05.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "EmpleadoTemporal.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassL\\EmpleadoTemporal.cs",
-              "RelativeDocumentMoniker": "BibliotecaClassL\\EmpleadoTemporal.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassL\\EmpleadoTemporal.cs",
-              "RelativeToolTip": "BibliotecaClassL\\EmpleadoTemporal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T21:51:29.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "EmpleadoPermanente.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassL\\EmpleadoPermanente.cs",
-              "RelativeDocumentMoniker": "BibliotecaClassL\\EmpleadoPermanente.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassL\\EmpleadoPermanente.cs",
-              "RelativeToolTip": "BibliotecaClassL\\EmpleadoPermanente.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAowA8AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T21:50:30.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassL\\Empleado.cs",
-              "RelativeDocumentMoniker": "BibliotecaClassL\\Empleado.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\BibliotecaClassL\\Empleado.cs",
-              "RelativeToolTip": "BibliotecaClassL\\Empleado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T21:37:42.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PrincipioSolidLiskovSubstitutionPrincipleAPP\\Program.cs",
-              "RelativeDocumentMoniker": "PrincipioSolidLiskovSubstitutionPrincipleAPP\\Program.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\PrincipioSolidLiskovSubstitutionPrincipleAPP\\Program.cs",
-              "RelativeToolTip": "PrincipioSolidLiskovSubstitutionPrincipleAPP\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T21:32:38.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "FormularioRegistro.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Registro\\FormularioRegistro.cs",
-              "RelativeDocumentMoniker": "Registro\\FormularioRegistro.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Registro\\FormularioRegistro.cs [Design]",
-              "RelativeToolTip": "Registro\\FormularioRegistro.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T00:43:21.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "FormularioRegistro.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Registro\\FormularioRegistro.Designer.cs",
-              "RelativeDocumentMoniker": "Registro\\FormularioRegistro.Designer.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Registro\\FormularioRegistro.Designer.cs",
-              "RelativeToolTip": "Registro\\FormularioRegistro.Designer.cs",
-              "ViewState": "AQIAAOsAAAAAAAAAAAAAALsAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T00:30:39.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "FormularioRegistro.cs",
-              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Registro\\FormularioRegistro.cs",
-              "RelativeDocumentMoniker": "Registro\\FormularioRegistro.cs",
-              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\UTN programacion 2\\EjerciciosUTN\\Registro\\FormularioRegistro.cs",
-              "RelativeToolTip": "Registro\\FormularioRegistro.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwCMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T23:59:57.007Z"
+              "WhenOpened": "2024-05-09T04:42:41.595Z"
             }
           ]
         }

@@ -14,6 +14,5 @@ namespace BibliotecaClassL
             empleado.CalcularSalario();
         }
 
-
     }
 }
