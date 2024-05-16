@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EFEB0357-A603-4AD2-9C7D-C61138136AE9}|BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\biliotecaclassinterfacesegregation\\ideleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEB0357-A603-4AD2-9C7D-C61138136AE9}|BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj|solutionrelative:biliotecaclassinterfacesegregation\\ideleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEB0357-A603-4AD2-9C7D-C61138136AE9}|BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\biliotecaclassinterfacesegregation\\biliotecaclassinterfacesegregation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFEB0357-A603-4AD2-9C7D-C61138136AE9}|BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj|solutionrelative:biliotecaclassinterfacesegregation\\biliotecaclassinterfacesegregation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEB0357-A603-4AD2-9C7D-C61138136AE9}|BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\biliotecaclassinterfacesegregation\\useroperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEB0357-A603-4AD2-9C7D-C61138136AE9}|BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj|solutionrelative:biliotecaclassinterfacesegregation\\useroperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEB0357-A603-4AD2-9C7D-C61138136AE9}|BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\biliotecaclassinterfacesegregation\\iupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEB0357-A603-4AD2-9C7D-C61138136AE9}|BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj|solutionrelative:biliotecaclassinterfacesegregation\\iupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEB0357-A603-4AD2-9C7D-C61138136AE9}|BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\biliotecaclassinterfacesegregation\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEB0357-A603-4AD2-9C7D-C61138136AE9}|BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj|solutionrelative:biliotecaclassinterfacesegregation\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEB0357-A603-4AD2-9C7D-C61138136AE9}|BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\biliotecaclassinterfacesegregation\\igetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEB0357-A603-4AD2-9C7D-C61138136AE9}|BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj|solutionrelative:biliotecaclassinterfacesegregation\\igetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEB0357-A603-4AD2-9C7D-C61138136AE9}|BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\biliotecaclassinterfacesegregation\\iadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEB0357-A603-4AD2-9C7D-C61138136AE9}|BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj|solutionrelative:biliotecaclassinterfacesegregation\\iadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEB0357-A603-4AD2-9C7D-C61138136AE9}|BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\biliotecaclassinterfacesegregation\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEB0357-A603-4AD2-9C7D-C61138136AE9}|BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj|solutionrelative:biliotecaclassinterfacesegregation\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF55C18C-B193-4D08-9ABD-F785F4A978B6}|InversionDependencyPrincipleAPP\\InversionDependencyPrincipleAPP.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\inversiondependencyprincipleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF55C18C-B193-4D08-9ABD-F785F4A978B6}|InversionDependencyPrincipleAPP\\InversionDependencyPrincipleAPP.csproj|solutionrelative:inversiondependencyprincipleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -138,11 +170,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDeleteUser.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BiliotecaClassInterfaceSegregation\\IDeleteUser.cs",
+              "RelativeDocumentMoniker": "BiliotecaClassInterfaceSegregation\\IDeleteUser.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BiliotecaClassInterfaceSegregation\\IDeleteUser.cs",
+              "RelativeToolTip": "BiliotecaClassInterfaceSegregation\\IDeleteUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:15:18.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUpdateUser.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BiliotecaClassInterfaceSegregation\\IUpdateUser.cs",
+              "RelativeDocumentMoniker": "BiliotecaClassInterfaceSegregation\\IUpdateUser.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BiliotecaClassInterfaceSegregation\\IUpdateUser.cs",
+              "RelativeToolTip": "BiliotecaClassInterfaceSegregation\\IUpdateUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:14:14.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserOperator.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BiliotecaClassInterfaceSegregation\\UserOperator.cs",
+              "RelativeDocumentMoniker": "BiliotecaClassInterfaceSegregation\\UserOperator.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BiliotecaClassInterfaceSegregation\\UserOperator.cs",
+              "RelativeToolTip": "BiliotecaClassInterfaceSegregation\\UserOperator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:13:36.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGetUser.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BiliotecaClassInterfaceSegregation\\IGetUser.cs",
+              "RelativeDocumentMoniker": "BiliotecaClassInterfaceSegregation\\IGetUser.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BiliotecaClassInterfaceSegregation\\IGetUser.cs",
+              "RelativeToolTip": "BiliotecaClassInterfaceSegregation\\IGetUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:11:27.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BiliotecaClassInterfaceSegregation",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj",
+              "RelativeDocumentMoniker": "BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj",
+              "RelativeToolTip": "BiliotecaClassInterfaceSegregation\\BiliotecaClassInterfaceSegregation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T19:05:16.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAddUser.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BiliotecaClassInterfaceSegregation\\IAddUser.cs",
+              "RelativeDocumentMoniker": "BiliotecaClassInterfaceSegregation\\IAddUser.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BiliotecaClassInterfaceSegregation\\IAddUser.cs",
+              "RelativeToolTip": "BiliotecaClassInterfaceSegregation\\IAddUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:10:00.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BiliotecaClassInterfaceSegregation\\IUser.cs",
+              "RelativeDocumentMoniker": "BiliotecaClassInterfaceSegregation\\IUser.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BiliotecaClassInterfaceSegregation\\IUser.cs",
+              "RelativeToolTip": "BiliotecaClassInterfaceSegregation\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:05:32.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BiliotecaClassInterfaceSegregation\\UserManager.cs",
+              "RelativeDocumentMoniker": "BiliotecaClassInterfaceSegregation\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BiliotecaClassInterfaceSegregation\\UserManager.cs",
+              "RelativeToolTip": "BiliotecaClassInterfaceSegregation\\UserManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:05:05.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ServiceTarea.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassIversionDependency\\ServiceTarea.cs",
               "RelativeDocumentMoniker": "BibliotecaClassIversionDependency\\ServiceTarea.cs",
@@ -155,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "SMSNotificador.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassIversionDependency\\SMSNotificador.cs",
               "RelativeDocumentMoniker": "BibliotecaClassIversionDependency\\SMSNotificador.cs",
@@ -168,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "IMedioComunicacion.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassIversionDependency\\IMedioComunicacion.cs",
               "RelativeDocumentMoniker": "BibliotecaClassIversionDependency\\IMedioComunicacion.cs",
@@ -181,20 +317,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\InversionDependencyPrincipleAPP\\Program.cs",
               "RelativeDocumentMoniker": "InversionDependencyPrincipleAPP\\Program.cs",
               "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\InversionDependencyPrincipleAPP\\Program.cs",
               "RelativeToolTip": "InversionDependencyPrincipleAPP\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T18:19:18.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "CorreoElectronicoNotificador.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassIversionDependency\\CorreoElectronicoNotificador.cs",
               "RelativeDocumentMoniker": "BibliotecaClassIversionDependency\\CorreoElectronicoNotificador.cs",
@@ -207,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "HijoB.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\HijoB.cs",
               "RelativeDocumentMoniker": "BibliotecaClassPolimorfismo\\HijoB.cs",
@@ -220,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "IMostrable.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\IMostrable.cs",
               "RelativeDocumentMoniker": "BibliotecaClassPolimorfismo\\IMostrable.cs",
@@ -233,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Padre.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\Padre.cs",
               "RelativeDocumentMoniker": "BibliotecaClassPolimorfismo\\Padre.cs",
@@ -246,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "HijoA.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\HijoA.cs",
               "RelativeDocumentMoniker": "BibliotecaClassPolimorfismo\\HijoA.cs",
@@ -259,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PolimorfismoDudasAPP\\Program.cs",
               "RelativeDocumentMoniker": "PolimorfismoDudasAPP\\Program.cs",
@@ -300,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "Auto.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaParaHerencia\\Auto.cs",
               "RelativeDocumentMoniker": "BibliotecaParaHerencia\\Auto.cs",
@@ -312,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "practicaHerenciaAPP.csproj",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\practicaHerenciaAPP\\practicaHerenciaAPP.csproj",
               "RelativeDocumentMoniker": "practicaHerenciaAPP\\practicaHerenciaAPP.csproj",
@@ -325,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "Vehiculo.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaParaHerencia\\Vehiculo.cs",
               "RelativeDocumentMoniker": "BibliotecaParaHerencia\\Vehiculo.cs",
@@ -337,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\practicaHerenciaAPP\\Program.cs",
               "RelativeDocumentMoniker": "practicaHerenciaAPP\\Program.cs",
@@ -350,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "Sumador.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\LibreriaClases\\Sumador.cs",
               "RelativeDocumentMoniker": "LibreriaClases\\Sumador.cs",
@@ -362,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\Clase4Ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Clase4Ejercicio1\\Program.cs",
@@ -374,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "GestorEmpleados.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassL\\GestorEmpleados.cs",
               "RelativeDocumentMoniker": "BibliotecaClassL\\GestorEmpleados.cs",
@@ -386,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "EmpleadoTemporal.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassL\\EmpleadoTemporal.cs",
               "RelativeDocumentMoniker": "BibliotecaClassL\\EmpleadoTemporal.cs",
@@ -398,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "EmpleadoPermanente.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassL\\EmpleadoPermanente.cs",
               "RelativeDocumentMoniker": "BibliotecaClassL\\EmpleadoPermanente.cs",
@@ -410,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassL\\Empleado.cs",
               "RelativeDocumentMoniker": "BibliotecaClassL\\Empleado.cs",
@@ -422,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PrincipioSolidLiskovSubstitutionPrincipleAPP\\Program.cs",
               "RelativeDocumentMoniker": "PrincipioSolidLiskovSubstitutionPrincipleAPP\\Program.cs",
@@ -434,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "PrincipioSolidLiskovSubstitutionPrincipleAPP.csproj",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PrincipioSolidLiskovSubstitutionPrincipleAPP\\PrincipioSolidLiskovSubstitutionPrincipleAPP.csproj",
               "RelativeDocumentMoniker": "PrincipioSolidLiskovSubstitutionPrincipleAPP\\PrincipioSolidLiskovSubstitutionPrincipleAPP.csproj",
@@ -447,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PrincipioSolidOpen_ClosedAPP\\Program.cs",
               "RelativeDocumentMoniker": "PrincipioSolidOpen_ClosedAPP\\Program.cs",
@@ -459,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "GestorAlquilerVehiculos.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\GestorAlquilerVehiculos.cs",
               "RelativeDocumentMoniker": "BibliotecaClasesO\\GestorAlquilerVehiculos.cs",
@@ -471,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "Bicicleta.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Bicicleta.cs",
               "RelativeDocumentMoniker": "BibliotecaClasesO\\Bicicleta.cs",
@@ -483,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "Motocicleta.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Motocicleta.cs",
               "RelativeDocumentMoniker": "BibliotecaClasesO\\Motocicleta.cs",
@@ -495,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "Coche.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Coche.cs",
               "RelativeDocumentMoniker": "BibliotecaClasesO\\Coche.cs",
@@ -507,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "Vehiculo.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesO\\Vehiculo.cs",
               "RelativeDocumentMoniker": "BibliotecaClasesO\\Vehiculo.cs",
@@ -519,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "FormularioPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs",
               "RelativeDocumentMoniker": "WinFormsAppSingleAndSeparationResponsability\\FormularioPrincipal.cs",
@@ -531,7 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "LoginFields.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClasesEjemploLogin\\LoginFields.cs",
               "RelativeDocumentMoniker": "BibliotecaClasesEjemploLogin\\LoginFields.cs",
@@ -543,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "FormLogin.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppPracticaLogin1\\FormLogin.cs",
               "RelativeDocumentMoniker": "WinFormsAppPracticaLogin1\\FormLogin.cs",
@@ -555,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "FormLogin.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\WinFormsAppPracticaLogin1\\FormLogin.cs",
               "RelativeDocumentMoniker": "WinFormsAppPracticaLogin1\\FormLogin.cs",
