@@ -120,7 +120,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrincipioSolidLiskovSubstit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClassL", "BibliotecaClassL\BibliotecaClassL.csproj", "{226DC83D-B005-4AC3-B3BD-5AC589E59225}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4- Interface Segregacion Principle", "4- Interface Segregacion Principle", "{1345B2FD-3BC1-44E3-B270-647DF0431447}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4- Interface Segregacion Principle (ISP)", "4- Interface Segregacion Principle (ISP)", "{1345B2FD-3BC1-44E3-B270-647DF0431447}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5- Inversion de Dependencia Principle(DIP)", "5- Inversion de Dependencia Principle(DIP)", "{90FB3AA3-681C-4B66-ADCB-3F0A2637DE57}"
 EndProject
@@ -171,6 +171,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClassIversionDependency", "BibliotecaClassIversionDependency\BibliotecaClassIversionDependency.csproj", "{B201042F-553A-4F48-B3F5-5CD8AC97910D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InversionDependencyPrincipleAPP", "InversionDependencyPrincipleAPP\InversionDependencyPrincipleAPP.csproj", "{EF55C18C-B193-4D08-9ABD-F785F4A978B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiliotecaClassInterfaceSegregation", "BiliotecaClassInterfaceSegregation\BiliotecaClassInterfaceSegregation.csproj", "{EFEB0357-A603-4AD2-9C7D-C61138136AE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -410,6 +412,10 @@ Global
 		{EF55C18C-B193-4D08-9ABD-F785F4A978B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF55C18C-B193-4D08-9ABD-F785F4A978B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF55C18C-B193-4D08-9ABD-F785F4A978B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFEB0357-A603-4AD2-9C7D-C61138136AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEB0357-A603-4AD2-9C7D-C61138136AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEB0357-A603-4AD2-9C7D-C61138136AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEB0357-A603-4AD2-9C7D-C61138136AE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -476,6 +482,7 @@ Global
 		{59D90815-B97E-4420-8C7B-7DF611D01F4C} = {F4AF8B5B-0926-4FCF-9102-2E2AE12196D2}
 		{B201042F-553A-4F48-B3F5-5CD8AC97910D} = {90FB3AA3-681C-4B66-ADCB-3F0A2637DE57}
 		{EF55C18C-B193-4D08-9ABD-F785F4A978B6} = {90FB3AA3-681C-4B66-ADCB-3F0A2637DE57}
+		{EFEB0357-A603-4AD2-9C7D-C61138136AE9} = {1345B2FD-3BC1-44E3-B270-647DF0431447}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56A756F6-2467-43C0-90D6-FBEC92801C43}
