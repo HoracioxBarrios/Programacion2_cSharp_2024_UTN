@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace BibliotecaClassPolimorfismo
 {
-    public class Hijo : Padre
+    public class HijoB : Padre
     {
-        public override bool IsTrue(int n)
-        {
-            throw new NotImplementedException();
-        }
-
         public override void Mostrar()
         {
             throw new NotImplementedException();

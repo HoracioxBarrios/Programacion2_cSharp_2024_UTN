@@ -8,20 +8,20 @@ namespace BibliotecaClassPolimorfismo
 {
     public class Gestor
     {
-        private List<IPadreMethods> _listaDeHijosDeLaInterface;
+        private List<IMostrable> _listaDeHijosDeLaInterface;
 
-        public Gestor(IPadreMethods hijoDeLaInterface) 
+        public Gestor(IMostrable hijoDeLaInterface) 
         { 
-            _listaDeHijosDeLaInterface = new List<IPadreMethods>();
+            _listaDeHijosDeLaInterface = new List<IMostrable>();
             this._listaDeHijosDeLaInterface.Add( hijoDeLaInterface);            
         }
 
-        public List<IPadreMethods> GetDatoIterfaz()
+        public List<IMostrable> GetDatoIterfaz()
         {            
             return _listaDeHijosDeLaInterface;
         }
 
-        public void SetDatoInterfaz(IPadreMethods hijoDeLaInterface)
+        public void SetDatoInterfaz(IMostrable hijoDeLaInterface)
         {
             _listaDeHijosDeLaInterface.Add(hijoDeLaInterface);
         }

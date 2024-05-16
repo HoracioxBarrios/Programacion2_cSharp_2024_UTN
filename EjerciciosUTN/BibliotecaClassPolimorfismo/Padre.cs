@@ -1,11 +1,15 @@
 ﻿namespace BibliotecaClassPolimorfismo
 {
-    public abstract class Padre : IPadreMethods
+    public abstract class Padre : IMostrable
     {
-        public string Nombre { get; set; }
+        public string? Nombre { get; set; }
         public int Edad {  get; set; }
-        public  abstract void Mostrar();
-        public  abstract bool IsTrue(int n);
+
+
+
+
+        //Los Metodos Abstract no tienen implementacion o comportamiento y debe ser implementado por las clases que heredan de ella.
+        public abstract void Mostrar(); 
 
 
     }

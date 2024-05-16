@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace BibliotecaClassPolimorfismo
 {
-    public interface IPadreMethods
+    public interface IMostrable
     {
         public void Mostrar();
-        public bool IsTrue(int numero);
+        
     }
 }
