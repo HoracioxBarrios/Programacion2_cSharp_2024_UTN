@@ -26,7 +26,7 @@ namespace PolimorfismoDudasAPP
 
 
             Console.WriteLine(hijoA is IMostrable);
-            Console.WriteLine(hijoA is IMostrable);
+            Console.WriteLine(hijoB is IMostrable);
             
         }
     }
