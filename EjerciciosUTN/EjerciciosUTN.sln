@@ -184,6 +184,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClassDiseñadorUM
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EjemploUSO_UML", "EjemploUSO_UML", "{8E997E4D-4330-4D43-8DA2-2F4AF70CA4EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectEjemploBasico", "TestProjectEjemploBasico\TestProjectEjemploBasico.csproj", "{804B4C9B-E53B-4EBE-91B1-D370311D0412}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -438,6 +440,10 @@ Global
 		{654BA016-6D1A-48A0-B535-8539B8108C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{654BA016-6D1A-48A0-B535-8539B8108C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{654BA016-6D1A-48A0-B535-8539B8108C52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{804B4C9B-E53B-4EBE-91B1-D370311D0412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804B4C9B-E53B-4EBE-91B1-D370311D0412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804B4C9B-E53B-4EBE-91B1-D370311D0412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804B4C9B-E53B-4EBE-91B1-D370311D0412}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

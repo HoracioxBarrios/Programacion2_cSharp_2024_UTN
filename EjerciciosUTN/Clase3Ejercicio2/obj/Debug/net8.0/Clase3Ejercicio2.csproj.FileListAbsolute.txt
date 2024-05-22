@@ -36,3 +36,22 @@ C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN
 C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio2\obj\Debug\net8.0\Clase3Ejercicio2.pdb
 C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio2\obj\Debug\net8.0\Clase3Ejercicio2.genruntimeconfig.cache
 C:\Users\Orfhen2022\Desktop\utn 2024\Programacion2_cSharp_2024_UTN\EjerciciosUTN\Clase3Ejercicio2\obj\Debug\net8.0\ref\Clase3Ejercicio2.dll
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\bin\Debug\net8.0\Clase3Ejercicio2.exe
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\bin\Debug\net8.0\Clase3Ejercicio2.deps.json
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\bin\Debug\net8.0\Clase3Ejercicio2.runtimeconfig.json
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\bin\Debug\net8.0\Clase3Ejercicio2.dll
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\bin\Debug\net8.0\Clase3Ejercicio2.pdb
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\bin\Debug\net8.0\BibliotecaClases1.dll
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\bin\Debug\net8.0\BibliotecaClases1.pdb
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\obj\Debug\net8.0\Clase3Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\obj\Debug\net8.0\Clase3Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\obj\Debug\net8.0\Clase3Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\obj\Debug\net8.0\Clase3Ejercicio2.AssemblyInfo.cs
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\obj\Debug\net8.0\Clase3Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\obj\Debug\net8.0\Clase3Ejercicio2.sourcelink.json
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\obj\Debug\net8.0\Clase3Ej.97283DD1.Up2Date
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\obj\Debug\net8.0\Clase3Ejercicio2.dll
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\obj\Debug\net8.0\refint\Clase3Ejercicio2.dll
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\obj\Debug\net8.0\Clase3Ejercicio2.pdb
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\obj\Debug\net8.0\Clase3Ejercicio2.genruntimeconfig.cache
+C:\Users\Migue\Desktop\c#\EjerciciosUTN\Clase3Ejercicio2\obj\Debug\net8.0\ref\Clase3Ejercicio2.dll

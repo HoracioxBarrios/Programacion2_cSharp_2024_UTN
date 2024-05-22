@@ -16,9 +16,11 @@ namespace BibliotecaClassIversionDependency
         }
 
 
-        public void NotificarTarea(string tarea)
+        public string NotificarTarea(string tarea)
         {
+
             _notificador.Notificar($"Nueva Tarea: {tarea}");
+            return tarea;
         }
     }
 }

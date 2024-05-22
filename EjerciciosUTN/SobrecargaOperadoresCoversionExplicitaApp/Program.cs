@@ -1,4 +1,4 @@
-﻿using LibreriaClases;
+﻿using BibliotecaClases1;
 using System.Drawing;
 
 namespace SobrecargaOperadoresCoversionExplicitaApp

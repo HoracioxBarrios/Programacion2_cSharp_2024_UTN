@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v8.0": {
       "Clase3Ejercicio1/1.0.0": {
         "dependencies": {
-          "LibreriaClases": "1.0.0"
+          "BibliotecaClases1": "1.0.0"
         },
         "runtime": {
           "Clase3Ejercicio1.dll": {}
         }
       },
-      "LibreriaClases/1.0.0": {
+      "BibliotecaClases1/1.0.0": {
         "runtime": {
-          "LibreriaClases.dll": {}
+          "BibliotecaClases1.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "LibreriaClases/1.0.0": {
+    "BibliotecaClases1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
