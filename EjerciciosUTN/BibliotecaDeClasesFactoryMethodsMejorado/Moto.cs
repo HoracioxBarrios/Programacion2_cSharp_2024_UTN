@@ -12,5 +12,9 @@ namespace BibliotecaClassFactoryMethod
         {
             Console.WriteLine("Moto está en movimiento");
         }
+        public void PrederLuz() 
+        { 
+            Console.WriteLine("Prende la Luz la moto"); 
+        }
     }
 }

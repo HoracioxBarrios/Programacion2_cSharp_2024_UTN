@@ -6,5 +6,9 @@
         {
             Console.WriteLine("Carro está en movimiento");
         }
+        public void Estacionar()
+        {
+            Console.WriteLine("Estacionar Auto");
+        }
     }
 }
