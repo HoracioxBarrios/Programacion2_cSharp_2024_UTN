@@ -10,5 +10,7 @@ namespace BibliotecaClassEjemploDeHerenciaDeInterface
     {
         decimal Precio {  get; set; }
         string Nombre { get; set; }
+
+        string Disponible { get; set; }
     }
 }

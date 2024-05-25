@@ -41,6 +41,7 @@ namespace Tests
 
             //Assert
             Assert.IsTrue(plato is IConsumible);
+            plato.Nombre = "pepe";
         }
     }
 }
