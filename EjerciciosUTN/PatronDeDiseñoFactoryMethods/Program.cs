@@ -13,7 +13,7 @@ namespace PatronDeDiseñoFactoryMethods
             miMoto.Mover();
 
             //Aca no tengo disponible con Ivehiculo el metodo
-            //Moto moto = (Moto)miMoto;
+            Moto moto = (Moto)miMoto;
 
 
 
@@ -21,13 +21,13 @@ namespace PatronDeDiseñoFactoryMethods
             //Pattern Matching
 
             // Determina el tipo de vehículo usando Pattern Matching (moto: solo existe dentro del contexto)
-            if (miMoto is Moto moto) 
-            {
-                moto.PrederLuz();
-            }
+            //if (miMoto is Moto moto)
+            //{
+            //    moto.PrederLuz();
+            //}
 
 
-             // no existe en este contexto.
+            // no existe en este contexto.
 
 
         }
