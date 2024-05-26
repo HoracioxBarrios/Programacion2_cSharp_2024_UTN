@@ -194,7 +194,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClassEjemploDeHer
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejemplo de Herencia de Interfaces", "Ejemplo de Herencia de Interfaces", "{847F1160-3EB2-44E1-A002-0FB8CE8322EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHerenciaInterfaces", "TestProject2\TestHerenciaInterfaces.csproj", "{D5F7112D-8C52-4DCE-BD78-CA64EBB2C23C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestHerenciaInterfaces", "TestProject2\TestHerenciaInterfaces.csproj", "{D5F7112D-8C52-4DCE-BD78-CA64EBB2C23C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand", "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj", "{8F0887C4-4259-4C96-82AD-50B43FBEEA83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practica Herencia Interface Patron Diseño Command", "Practica Herencia Interface Patron Diseño Command", "{D02ECF65-B995-4220-88BE-50F6834DEBEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -466,6 +470,10 @@ Global
 		{D5F7112D-8C52-4DCE-BD78-CA64EBB2C23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5F7112D-8C52-4DCE-BD78-CA64EBB2C23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5F7112D-8C52-4DCE-BD78-CA64EBB2C23C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0887C4-4259-4C96-82AD-50B43FBEEA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0887C4-4259-4C96-82AD-50B43FBEEA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0887C4-4259-4C96-82AD-50B43FBEEA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0887C4-4259-4C96-82AD-50B43FBEEA83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -539,6 +547,7 @@ Global
 		{8634FF01-8AA7-41B5-9585-76F973A2A662} = {F8CF8B28-ED6D-4063-9C15-3805AE17A428}
 		{BD7D5187-CB5F-4998-8510-47C7F1F1E556} = {847F1160-3EB2-44E1-A002-0FB8CE8322EC}
 		{D5F7112D-8C52-4DCE-BD78-CA64EBB2C23C} = {847F1160-3EB2-44E1-A002-0FB8CE8322EC}
+		{8F0887C4-4259-4C96-82AD-50B43FBEEA83} = {D02ECF65-B995-4220-88BE-50F6834DEBEB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56A756F6-2467-43C0-90D6-FBEC92801C43}
