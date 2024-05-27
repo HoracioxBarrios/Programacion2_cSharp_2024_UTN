@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand
 {
-    public interface ICommandGeneric<T>
+    public interface ICommandGeneric<T> where T : ConsultaStockVigenteCommand
     {
 
         T EjecutarAccionCommand();
