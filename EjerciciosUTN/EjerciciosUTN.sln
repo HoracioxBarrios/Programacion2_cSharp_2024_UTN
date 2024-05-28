@@ -154,7 +154,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronDeDiseñoFactoryMetho
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClassFactoryMethod", "BibliotecaClassFactoryMethod\BibliotecaClassFactoryMethod.csproj", "{8506CFCE-68A5-4AB1-9AAE-F7BCE9BB3548}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron Creacional de Diseño Factory Method mejorado", "Patron Creacional de Diseño Factory Method mejorado", "{BDBBFCA8-7623-47C0-97F9-13E3F4560BCD}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron Creacional de Diseño Factory Method Otra manera", "Patron Creacional de Diseño Factory Method Otra manera", "{BDBBFCA8-7623-47C0-97F9-13E3F4560BCD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronDeDiseñoFactoryMethods", "PatronDeDiseñoFactoryMethods\PatronDeDiseñoFactoryMethods.csproj", "{61EC55B5-4AD8-41D2-8D89-09B0AD0DE37A}"
 EndProject
@@ -198,7 +198,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestHerenciaInterfaces", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand", "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj", "{8F0887C4-4259-4C96-82AD-50B43FBEEA83}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practica Herencia Interface Patron Diseño Command", "Practica Herencia Interface Patron Diseño Command", "{D02ECF65-B995-4220-88BE-50F6834DEBEB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron De Comportamiento de Diseño Command", "Patron De Comportamiento de Diseño Command", "{D02ECF65-B995-4220-88BE-50F6834DEBEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp4PilaresPOO", "ConsoleApp4PilaresPOO\ConsoleApp4PilaresPOO.csproj", "{976B4E95-6AAB-45B3-8DBB-9F867533CDA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test Unitarios MS test", "Test Unitarios MS test", "{B05D2376-5AFF-4900-9A53-42F40633EE10}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron de Diseño Strategy", "Patron de Diseño Strategy", "{7D581519-AF56-4147-AD73-93A737BD645C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClassPatronDiseñoStrategy", "BibliotecaClassPatronDiseñoStrategy\BibliotecaClassPatronDiseñoStrategy.csproj", "{5CB5C670-0CBD-4953-91C3-804D527C8AD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePatronDiseñoStrategyAPP", "ConsolePatronDiseñoStrategyAPP\ConsolePatronDiseñoStrategyAPP.csproj", "{039C9B9C-DAEA-4CAE-8B2B-DD7511BF9A88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -474,6 +484,18 @@ Global
 		{8F0887C4-4259-4C96-82AD-50B43FBEEA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F0887C4-4259-4C96-82AD-50B43FBEEA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F0887C4-4259-4C96-82AD-50B43FBEEA83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{976B4E95-6AAB-45B3-8DBB-9F867533CDA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976B4E95-6AAB-45B3-8DBB-9F867533CDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976B4E95-6AAB-45B3-8DBB-9F867533CDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976B4E95-6AAB-45B3-8DBB-9F867533CDA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB5C670-0CBD-4953-91C3-804D527C8AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB5C670-0CBD-4953-91C3-804D527C8AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB5C670-0CBD-4953-91C3-804D527C8AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB5C670-0CBD-4953-91C3-804D527C8AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039C9B9C-DAEA-4CAE-8B2B-DD7511BF9A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039C9B9C-DAEA-4CAE-8B2B-DD7511BF9A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039C9B9C-DAEA-4CAE-8B2B-DD7511BF9A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039C9B9C-DAEA-4CAE-8B2B-DD7511BF9A88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -544,10 +566,14 @@ Global
 		{11539539-6DF1-49DB-A38D-9CD3F973B37F} = {AD34F6EE-F5D8-4FAA-8E69-0073E7CAC4FA}
 		{9AF07785-8FD3-4B3F-AC5B-8E1914057585} = {AD34F6EE-F5D8-4FAA-8E69-0073E7CAC4FA}
 		{654BA016-6D1A-48A0-B535-8539B8108C52} = {8E997E4D-4330-4D43-8DA2-2F4AF70CA4EB}
+		{804B4C9B-E53B-4EBE-91B1-D370311D0412} = {B05D2376-5AFF-4900-9A53-42F40633EE10}
 		{8634FF01-8AA7-41B5-9585-76F973A2A662} = {F8CF8B28-ED6D-4063-9C15-3805AE17A428}
 		{BD7D5187-CB5F-4998-8510-47C7F1F1E556} = {847F1160-3EB2-44E1-A002-0FB8CE8322EC}
 		{D5F7112D-8C52-4DCE-BD78-CA64EBB2C23C} = {847F1160-3EB2-44E1-A002-0FB8CE8322EC}
 		{8F0887C4-4259-4C96-82AD-50B43FBEEA83} = {D02ECF65-B995-4220-88BE-50F6834DEBEB}
+		{976B4E95-6AAB-45B3-8DBB-9F867533CDA6} = {00ECF822-F77E-44B7-83DE-2DA0FB86ABCC}
+		{5CB5C670-0CBD-4953-91C3-804D527C8AD9} = {7D581519-AF56-4147-AD73-93A737BD645C}
+		{039C9B9C-DAEA-4CAE-8B2B-DD7511BF9A88} = {7D581519-AF56-4147-AD73-93A737BD645C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56A756F6-2467-43C0-90D6-FBEC92801C43}

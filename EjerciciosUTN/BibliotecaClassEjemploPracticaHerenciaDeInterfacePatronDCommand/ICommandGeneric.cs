@@ -12,7 +12,7 @@ namespace BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand
         T EjecutarAccionCommand();
     }
 }
-/*
+/*Quise saber si se podia heredar de esta forma. 
     No es posible heredar el Icommand <T> Generic sin definir el tipo de dato que va a 
     manejar en la interface ICommand.
 
