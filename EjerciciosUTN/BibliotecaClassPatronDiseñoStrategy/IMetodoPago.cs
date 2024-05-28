@@ -11,7 +11,7 @@ namespace BibliotecaClassPatronDiseñoStrategy
         void ProcesarPago(decimal monto);
     }
 }
-
+// STRATEGY --> SE USA PARA SOLUCIONAR UN PROBLEMA.( Las estrategias deben tener un mismo tipo retorno resuelven lo mismo de distinta manera)
 
 /*
     //----------------------------------- INTERFACE
