@@ -3,6 +3,58 @@
   "WorkspaceRootPath": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6717E60A-B778-4205-A10F-0460D9A99C6F}|BibliotecaPracticaIPlatosPatronComposite\\BibliotecaPracticaIPlatosPatronComposite.csproj|c:\\users\\migue\\desktop\\c#\\ejerciciosutn\\bibliotecapracticaiplatospatroncomposite\\menubebidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6717E60A-B778-4205-A10F-0460D9A99C6F}|BibliotecaPracticaIPlatosPatronComposite\\BibliotecaPracticaIPlatosPatronComposite.csproj|solutionrelative:bibliotecapracticaiplatospatroncomposite\\menubebidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6717E60A-B778-4205-A10F-0460D9A99C6F}|BibliotecaPracticaIPlatosPatronComposite\\BibliotecaPracticaIPlatosPatronComposite.csproj|c:\\users\\migue\\desktop\\c#\\ejerciciosutn\\bibliotecapracticaiplatospatroncomposite\\menuplatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6717E60A-B778-4205-A10F-0460D9A99C6F}|BibliotecaPracticaIPlatosPatronComposite\\BibliotecaPracticaIPlatosPatronComposite.csproj|solutionrelative:bibliotecapracticaiplatospatroncomposite\\menuplatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6717E60A-B778-4205-A10F-0460D9A99C6F}|BibliotecaPracticaIPlatosPatronComposite\\BibliotecaPracticaIPlatosPatronComposite.csproj|c:\\users\\migue\\desktop\\c#\\ejerciciosutn\\bibliotecapracticaiplatospatroncomposite\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6717E60A-B778-4205-A10F-0460D9A99C6F}|BibliotecaPracticaIPlatosPatronComposite\\BibliotecaPracticaIPlatosPatronComposite.csproj|solutionrelative:bibliotecapracticaiplatospatroncomposite\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6717E60A-B778-4205-A10F-0460D9A99C6F}|BibliotecaPracticaIPlatosPatronComposite\\BibliotecaPracticaIPlatosPatronComposite.csproj|c:\\users\\migue\\desktop\\c#\\ejerciciosutn\\bibliotecapracticaiplatospatroncomposite\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6717E60A-B778-4205-A10F-0460D9A99C6F}|BibliotecaPracticaIPlatosPatronComposite\\BibliotecaPracticaIPlatosPatronComposite.csproj|solutionrelative:bibliotecapracticaiplatospatroncomposite\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6717E60A-B778-4205-A10F-0460D9A99C6F}|BibliotecaPracticaIPlatosPatronComposite\\BibliotecaPracticaIPlatosPatronComposite.csproj|c:\\users\\migue\\desktop\\c#\\ejerciciosutn\\bibliotecapracticaiplatospatroncomposite\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6717E60A-B778-4205-A10F-0460D9A99C6F}|BibliotecaPracticaIPlatosPatronComposite\\BibliotecaPracticaIPlatosPatronComposite.csproj|solutionrelative:bibliotecapracticaiplatospatroncomposite\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6717E60A-B778-4205-A10F-0460D9A99C6F}|BibliotecaPracticaIPlatosPatronComposite\\BibliotecaPracticaIPlatosPatronComposite.csproj|c:\\users\\migue\\desktop\\c#\\ejerciciosutn\\bibliotecapracticaiplatospatroncomposite\\iplato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6717E60A-B778-4205-A10F-0460D9A99C6F}|BibliotecaPracticaIPlatosPatronComposite\\BibliotecaPracticaIPlatosPatronComposite.csproj|solutionrelative:bibliotecapracticaiplatospatroncomposite\\iplato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6717E60A-B778-4205-A10F-0460D9A99C6F}|BibliotecaPracticaIPlatosPatronComposite\\BibliotecaPracticaIPlatosPatronComposite.csproj|c:\\users\\migue\\desktop\\c#\\ejerciciosutn\\bibliotecapracticaiplatospatroncomposite\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6717E60A-B778-4205-A10F-0460D9A99C6F}|BibliotecaPracticaIPlatosPatronComposite\\BibliotecaPracticaIPlatosPatronComposite.csproj|solutionrelative:bibliotecapracticaiplatospatroncomposite\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6717E60A-B778-4205-A10F-0460D9A99C6F}|BibliotecaPracticaIPlatosPatronComposite\\BibliotecaPracticaIPlatosPatronComposite.csproj|c:\\users\\migue\\desktop\\c#\\ejerciciosutn\\bibliotecapracticaiplatospatroncomposite\\bebida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6717E60A-B778-4205-A10F-0460D9A99C6F}|BibliotecaPracticaIPlatosPatronComposite\\BibliotecaPracticaIPlatosPatronComposite.csproj|solutionrelative:bibliotecapracticaiplatospatroncomposite\\bebida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71C4E66-DCB3-4710-9ECA-C386F8FCA3BB}|AppRestorantPatronCommando\\AppRestorantPatronCommando.csproj|c:\\users\\migue\\desktop\\c#\\ejerciciosutn\\apprestorantpatroncommando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71C4E66-DCB3-4710-9ECA-C386F8FCA3BB}|AppRestorantPatronCommando\\AppRestorantPatronCommando.csproj|solutionrelative:apprestorantpatroncommando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0887C4-4259-4C96-82AD-50B43FBEEA83}|BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj|c:\\users\\migue\\desktop\\c#\\ejerciciosutn\\bibliotecaclassejemplopracticaherenciadeinterfacepatrondcommand\\icommandgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0887C4-4259-4C96-82AD-50B43FBEEA83}|BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj|solutionrelative:bibliotecaclassejemplopracticaherenciadeinterfacepatrondcommand\\icommandgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0887C4-4259-4C96-82AD-50B43FBEEA83}|BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj|c:\\users\\migue\\desktop\\c#\\ejerciciosutn\\bibliotecaclassejemplopracticaherenciadeinterfacepatrondcommand\\encargado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0887C4-4259-4C96-82AD-50B43FBEEA83}|BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj|solutionrelative:bibliotecaclassejemplopracticaherenciadeinterfacepatrondcommand\\encargado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0887C4-4259-4C96-82AD-50B43FBEEA83}|BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj|c:\\users\\migue\\desktop\\c#\\ejerciciosutn\\bibliotecaclassejemplopracticaherenciadeinterfacepatrondcommand\\consultastockvigentecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0887C4-4259-4C96-82AD-50B43FBEEA83}|BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj|solutionrelative:bibliotecaclassejemplopracticaherenciadeinterfacepatrondcommand\\consultastockvigentecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0887C4-4259-4C96-82AD-50B43FBEEA83}|BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj|c:\\users\\migue\\desktop\\c#\\ejerciciosutn\\bibliotecaclassejemplopracticaherenciadeinterfacepatrondcommand\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0887C4-4259-4C96-82AD-50B43FBEEA83}|BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj|solutionrelative:bibliotecaclassejemplopracticaherenciadeinterfacepatrondcommand\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CB5C670-0CBD-4953-91C3-804D527C8AD9}|BibliotecaClassPatronDise\u00F1oStrategy\\BibliotecaClassPatronDise\u00F1oStrategy.csproj|c:\\users\\migue\\desktop\\c#\\ejerciciosutn\\bibliotecaclasspatrondise\u00F1ostrategy\\imetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CB5C670-0CBD-4953-91C3-804D527C8AD9}|BibliotecaClassPatronDise\u00F1oStrategy\\BibliotecaClassPatronDise\u00F1oStrategy.csproj|solutionrelative:bibliotecaclasspatrondise\u00F1ostrategy\\imetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -154,7 +206,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -186,20 +238,189 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bebida.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaPracticaIPlatosPatronComposite\\Bebida.cs",
+              "RelativeDocumentMoniker": "BibliotecaPracticaIPlatosPatronComposite\\Bebida.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaPracticaIPlatosPatronComposite\\Bebida.cs",
+              "RelativeToolTip": "BibliotecaPracticaIPlatosPatronComposite\\Bebida.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:38:16.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaPracticaIPlatosPatronComposite\\Delivery.cs",
+              "RelativeDocumentMoniker": "BibliotecaPracticaIPlatosPatronComposite\\Delivery.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaPracticaIPlatosPatronComposite\\Delivery.cs",
+              "RelativeToolTip": "BibliotecaPracticaIPlatosPatronComposite\\Delivery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:34:24.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaPracticaIPlatosPatronComposite\\Pedido.cs",
+              "RelativeDocumentMoniker": "BibliotecaPracticaIPlatosPatronComposite\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaPracticaIPlatosPatronComposite\\Pedido.cs",
+              "RelativeToolTip": "BibliotecaPracticaIPlatosPatronComposite\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:27:48.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MenuBebidas.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaPracticaIPlatosPatronComposite\\MenuBebidas.cs",
+              "RelativeDocumentMoniker": "BibliotecaPracticaIPlatosPatronComposite\\MenuBebidas.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaPracticaIPlatosPatronComposite\\MenuBebidas.cs",
+              "RelativeToolTip": "BibliotecaPracticaIPlatosPatronComposite\\MenuBebidas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:18:33.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Plato.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaPracticaIPlatosPatronComposite\\Plato.cs",
+              "RelativeDocumentMoniker": "BibliotecaPracticaIPlatosPatronComposite\\Plato.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaPracticaIPlatosPatronComposite\\Plato.cs",
+              "RelativeToolTip": "BibliotecaPracticaIPlatosPatronComposite\\Plato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:08:33.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuPlatos.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaPracticaIPlatosPatronComposite\\MenuPlatos.cs",
+              "RelativeDocumentMoniker": "BibliotecaPracticaIPlatosPatronComposite\\MenuPlatos.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaPracticaIPlatosPatronComposite\\MenuPlatos.cs",
+              "RelativeToolTip": "BibliotecaPracticaIPlatosPatronComposite\\MenuPlatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:07:33.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPlato.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaPracticaIPlatosPatronComposite\\IPlato.cs",
+              "RelativeDocumentMoniker": "BibliotecaPracticaIPlatosPatronComposite\\IPlato.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaPracticaIPlatosPatronComposite\\IPlato.cs",
+              "RelativeToolTip": "BibliotecaPracticaIPlatosPatronComposite\\IPlato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:06:30.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mesa.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaPracticaIPlatosPatronComposite\\Mesa.cs",
+              "RelativeDocumentMoniker": "BibliotecaPracticaIPlatosPatronComposite\\Mesa.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaPracticaIPlatosPatronComposite\\Mesa.cs",
+              "RelativeToolTip": "BibliotecaPracticaIPlatosPatronComposite\\Mesa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:04:47.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\AppRestorantPatronCommando\\Program.cs",
+              "RelativeDocumentMoniker": "AppRestorantPatronCommando\\Program.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\AppRestorantPatronCommando\\Program.cs",
+              "RelativeToolTip": "AppRestorantPatronCommando\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:08:36.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsultaStockVigenteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ConsultaStockVigenteCommand.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ConsultaStockVigenteCommand.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ConsultaStockVigenteCommand.cs",
+              "RelativeToolTip": "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ConsultaStockVigenteCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:07:12.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICommandGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ICommandGeneric.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ICommandGeneric.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ICommandGeneric.cs",
+              "RelativeToolTip": "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ICommandGeneric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:07:11.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Encargado.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\Encargado.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\Encargado.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\Encargado.cs",
+              "RelativeToolTip": "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\Encargado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:06:57.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ICommand.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ICommand.cs",
+              "RelativeToolTip": "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:06:53.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "IMetodoPago.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassPatronDise\u00F1oStrategy\\IMetodoPago.cs",
               "RelativeDocumentMoniker": "BibliotecaClassPatronDise\u00F1oStrategy\\IMetodoPago.cs",
               "ToolTip": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassPatronDise\u00F1oStrategy\\IMetodoPago.cs",
               "RelativeToolTip": "BibliotecaClassPatronDise\u00F1oStrategy\\IMetodoPago.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T22:11:38.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "TestHerenciaInterfaces.csproj",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\TestProject2\\TestHerenciaInterfaces.csproj",
               "RelativeDocumentMoniker": "TestProject2\\TestHerenciaInterfaces.csproj",
@@ -212,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "UnitTest.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\TestProject2\\UnitTest.cs",
               "RelativeDocumentMoniker": "TestProject2\\UnitTest.cs",
@@ -224,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "Bebida.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassEjemploDeHerenciaDeInterface\\Bebida.cs",
               "RelativeDocumentMoniker": "BibliotecaClassEjemploDeHerenciaDeInterface\\Bebida.cs",
@@ -236,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "Plato.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassEjemploDeHerenciaDeInterface\\Plato.cs",
               "RelativeDocumentMoniker": "BibliotecaClassEjemploDeHerenciaDeInterface\\Plato.cs",
@@ -248,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "UnitTestPrueba.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\TestProjectEjemploBasico\\UnitTestPrueba.cs",
               "RelativeDocumentMoniker": "TestProjectEjemploBasico\\UnitTestPrueba.cs",
@@ -260,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "IConsumible.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassEjemploDeHerenciaDeInterface\\IConsumible.cs",
               "RelativeDocumentMoniker": "BibliotecaClassEjemploDeHerenciaDeInterface\\IConsumible.cs",
@@ -272,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "IProducto.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassEjemploDeHerenciaDeInterface\\IProducto.cs",
               "RelativeDocumentMoniker": "BibliotecaClassEjemploDeHerenciaDeInterface\\IProducto.cs",
@@ -284,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "TestProjectEjemploBasico.csproj",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\TestProjectEjemploBasico\\TestProjectEjemploBasico.csproj",
               "RelativeDocumentMoniker": "TestProjectEjemploBasico\\TestProjectEjemploBasico.csproj",
@@ -297,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "Provedor.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassEjemploDeHerenciaDeInterface\\Provedor.cs",
               "RelativeDocumentMoniker": "BibliotecaClassEjemploDeHerenciaDeInterface\\Provedor.cs",
@@ -309,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "TipoCarro.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassFactoryMethod\\TipoCarro.cs",
               "RelativeDocumentMoniker": "BibliotecaClassFactoryMethod\\TipoCarro.cs",
@@ -321,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "Moto.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassFactoryMethod\\Moto.cs",
               "RelativeDocumentMoniker": "BibliotecaClassFactoryMethod\\Moto.cs",
@@ -333,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "FabricaDeVehiculos.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassFactoryMethod\\FabricaDeVehiculos.cs",
               "RelativeDocumentMoniker": "BibliotecaClassFactoryMethod\\FabricaDeVehiculos.cs",
@@ -345,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 26,
               "Title": "IVehiculo.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassFactoryMethod\\IVehiculo.cs",
               "RelativeDocumentMoniker": "BibliotecaClassFactoryMethod\\IVehiculo.cs",
@@ -357,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 27,
               "Title": "ICrear.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassFactoryMethod\\ICrear.cs",
               "RelativeDocumentMoniker": "BibliotecaClassFactoryMethod\\ICrear.cs",
@@ -369,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 28,
               "Title": "Reproductor.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClaseAdapter\\Reproductor.cs",
               "RelativeDocumentMoniker": "BibliotecaClaseAdapter\\Reproductor.cs",
@@ -381,7 +602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 31,
               "Title": "ImplementacionGestor.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassPatronDRepository\\ImplementacionGestor.cs",
               "RelativeDocumentMoniker": "BibliotecaClassPatronDRepository\\ImplementacionGestor.cs",
@@ -393,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 30,
               "Title": "IGestionadorAutos.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassPatronDRepository\\IGestionadorAutos.cs",
               "RelativeDocumentMoniker": "BibliotecaClassPatronDRepository\\IGestionadorAutos.cs",
@@ -405,7 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 29,
               "Title": "GestorAutos.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassPatronDRepository\\GestorAutos.cs",
               "RelativeDocumentMoniker": "BibliotecaClassPatronDRepository\\GestorAutos.cs",
@@ -417,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 33,
               "Title": "SMSNotificador.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassIversionDependency\\SMSNotificador.cs",
               "RelativeDocumentMoniker": "BibliotecaClassIversionDependency\\SMSNotificador.cs",
@@ -429,7 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 34,
               "Title": "CorreoElectronicoNotificador.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassIversionDependency\\CorreoElectronicoNotificador.cs",
               "RelativeDocumentMoniker": "BibliotecaClassIversionDependency\\CorreoElectronicoNotificador.cs",
@@ -441,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 35,
               "Title": "IMedioComunicacion.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassIversionDependency\\IMedioComunicacion.cs",
               "RelativeDocumentMoniker": "BibliotecaClassIversionDependency\\IMedioComunicacion.cs",
@@ -453,7 +674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 32,
               "Title": "ServiceTarea.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassIversionDependency\\ServiceTarea.cs",
               "RelativeDocumentMoniker": "BibliotecaClassIversionDependency\\ServiceTarea.cs",
@@ -465,7 +686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 36,
               "Title": "BibliotecaClassIversionDependency.csproj",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassIversionDependency\\BibliotecaClassIversionDependency.csproj",
               "RelativeDocumentMoniker": "BibliotecaClassIversionDependency\\BibliotecaClassIversionDependency.csproj",
@@ -478,7 +699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 37,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\SobrecargaOperadoresCoversionExplicitaApp\\Program.cs",
               "RelativeDocumentMoniker": "SobrecargaOperadoresCoversionExplicitaApp\\Program.cs",
@@ -490,7 +711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 38,
               "Title": "Boligrafo.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\LibreriaClases\\Boligrafo.cs",
               "RelativeDocumentMoniker": "LibreriaClases\\Boligrafo.cs",
@@ -502,7 +723,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 39,
               "Title": "BibliotecaClases1.csproj",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\LibreriaClases\\BibliotecaClases1.csproj",
               "RelativeDocumentMoniker": "LibreriaClases\\BibliotecaClases1.csproj",
@@ -515,7 +736,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 40,
               "Title": "Validador.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\LibreriaClases\\Validador.cs",
               "RelativeDocumentMoniker": "LibreriaClases\\Validador.cs",
@@ -527,7 +748,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 42,
               "Title": "Clase2Ejercicio1.csproj",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
               "RelativeDocumentMoniker": "Clase2Ejercicio1\\Clase2Ejercicio1.csproj",
@@ -540,7 +761,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 41,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\Clase2Ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Clase2Ejercicio1\\Program.cs",
@@ -552,7 +773,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 43,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\Clase5Ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Clase5Ejercicio1\\Program.cs",
@@ -564,7 +785,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 44,
               "Title": "Clase5Ejercicio1.csproj",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\Clase5Ejercicio1\\Clase5Ejercicio1.csproj",
               "RelativeDocumentMoniker": "Clase5Ejercicio1\\Clase5Ejercicio1.csproj",
@@ -577,7 +798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 45,
               "Title": "Vehiculo.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaParaHerencia\\Vehiculo.cs",
               "RelativeDocumentMoniker": "BibliotecaParaHerencia\\Vehiculo.cs",
@@ -589,7 +810,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 46,
               "Title": "Auto.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaParaHerencia\\Auto.cs",
               "RelativeDocumentMoniker": "BibliotecaParaHerencia\\Auto.cs",
@@ -601,7 +822,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 47,
               "Title": "Gestor.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\BibliotecaClassPolimorfismo\\Gestor.cs",
               "RelativeDocumentMoniker": "BibliotecaClassPolimorfismo\\Gestor.cs",
@@ -613,7 +834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 48,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\c#\\EjerciciosUTN\\Clase4Ejercicio2\\Program.cs",
               "RelativeDocumentMoniker": "Clase4Ejercicio2\\Program.cs",
