@@ -48,3 +48,7 @@ buildlog.htm
 
 # TFS files
 $tf/
+
+
+# Intellicence Archives
+*.dtbcache.v2
