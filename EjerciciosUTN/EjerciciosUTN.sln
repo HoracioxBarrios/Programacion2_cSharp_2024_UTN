@@ -196,25 +196,35 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejemplo de Herencia de Inte
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestHerenciaInterfaces", "TestProject2\TestHerenciaInterfaces.csproj", "{D5F7112D-8C52-4DCE-BD78-CA64EBB2C23C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand", "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj", "{8F0887C4-4259-4C96-82AD-50B43FBEEA83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand", "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj", "{8F0887C4-4259-4C96-82AD-50B43FBEEA83}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron De Comportamiento de Diseño Command", "Patron De Comportamiento de Diseño Command", "{D02ECF65-B995-4220-88BE-50F6834DEBEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp4PilaresPOO", "ConsoleApp4PilaresPOO\ConsoleApp4PilaresPOO.csproj", "{976B4E95-6AAB-45B3-8DBB-9F867533CDA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp4PilaresPOO", "ConsoleApp4PilaresPOO\ConsoleApp4PilaresPOO.csproj", "{976B4E95-6AAB-45B3-8DBB-9F867533CDA6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test Unitarios MS test", "Test Unitarios MS test", "{B05D2376-5AFF-4900-9A53-42F40633EE10}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron de Diseño Strategy", "Patron de Diseño Strategy", "{7D581519-AF56-4147-AD73-93A737BD645C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClassPatronDiseñoStrategy", "BibliotecaClassPatronDiseñoStrategy\BibliotecaClassPatronDiseñoStrategy.csproj", "{5CB5C670-0CBD-4953-91C3-804D527C8AD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClassPatronDiseñoStrategy", "BibliotecaClassPatronDiseñoStrategy\BibliotecaClassPatronDiseñoStrategy.csproj", "{5CB5C670-0CBD-4953-91C3-804D527C8AD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePatronDiseñoStrategyAPP", "ConsolePatronDiseñoStrategyAPP\ConsolePatronDiseñoStrategyAPP.csproj", "{039C9B9C-DAEA-4CAE-8B2B-DD7511BF9A88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolePatronDiseñoStrategyAPP", "ConsolePatronDiseñoStrategyAPP\ConsolePatronDiseñoStrategyAPP.csproj", "{039C9B9C-DAEA-4CAE-8B2B-DD7511BF9A88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppRestorantPatronCommando", "AppRestorantPatronCommando\AppRestorantPatronCommando.csproj", "{A71C4E66-DCB3-4710-9ECA-C386F8FCA3BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppRestorantPatronCommando", "AppRestorantPatronCommando\AppRestorantPatronCommando.csproj", "{A71C4E66-DCB3-4710-9ECA-C386F8FCA3BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaPracticaIPlatosPatronComposite", "BibliotecaPracticaIPlatosPatronComposite\BibliotecaPracticaIPlatosPatronComposite.csproj", "{6717E60A-B778-4205-A10F-0460D9A99C6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaPracticaIPlatosPatronComposite", "BibliotecaPracticaIPlatosPatronComposite\BibliotecaPracticaIPlatosPatronComposite.csproj", "{6717E60A-B778-4205-A10F-0460D9A99C6F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pratica IPlatos y menu ejecutivo - TP", "Pratica IPlatos y menu ejecutivo - TP", "{E28C4ECD-B18E-4715-B46D-CA6B86A2BCA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppPracticaObjStatic", "ConsoleAppPracticaObjStatic\ConsoleAppPracticaObjStatic.csproj", "{8AD28110-D771-4DF4-B133-DC3939ABFE4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryPracticaObjStatic", "ClassLibraryPracticaObjStatic\ClassLibraryPracticaObjStatic.csproj", "{2BEA0930-87B7-41D7-BCED-5A917C6F5743}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practica con Objetos con atrib static", "Practica con Objetos con atrib static", "{C5A46E61-38AF-4D6C-80AB-D8DD384299C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaCompositeAPP", "PracticaCompositeAPP\PracticaCompositeAPP.csproj", "{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practica Composite", "Practica Composite", "{43E3F43A-14A9-44A9-9C9E-7A19EA1A2125}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -510,6 +520,18 @@ Global
 		{6717E60A-B778-4205-A10F-0460D9A99C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6717E60A-B778-4205-A10F-0460D9A99C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6717E60A-B778-4205-A10F-0460D9A99C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AD28110-D771-4DF4-B133-DC3939ABFE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD28110-D771-4DF4-B133-DC3939ABFE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD28110-D771-4DF4-B133-DC3939ABFE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD28110-D771-4DF4-B133-DC3939ABFE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BEA0930-87B7-41D7-BCED-5A917C6F5743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BEA0930-87B7-41D7-BCED-5A917C6F5743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BEA0930-87B7-41D7-BCED-5A917C6F5743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BEA0930-87B7-41D7-BCED-5A917C6F5743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -590,6 +612,9 @@ Global
 		{039C9B9C-DAEA-4CAE-8B2B-DD7511BF9A88} = {7D581519-AF56-4147-AD73-93A737BD645C}
 		{A71C4E66-DCB3-4710-9ECA-C386F8FCA3BB} = {D02ECF65-B995-4220-88BE-50F6834DEBEB}
 		{6717E60A-B778-4205-A10F-0460D9A99C6F} = {E28C4ECD-B18E-4715-B46D-CA6B86A2BCA0}
+		{8AD28110-D771-4DF4-B133-DC3939ABFE4F} = {C5A46E61-38AF-4D6C-80AB-D8DD384299C8}
+		{2BEA0930-87B7-41D7-BCED-5A917C6F5743} = {C5A46E61-38AF-4D6C-80AB-D8DD384299C8}
+		{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00} = {43E3F43A-14A9-44A9-9C9E-7A19EA1A2125}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56A756F6-2467-43C0-90D6-FBEC92801C43}
