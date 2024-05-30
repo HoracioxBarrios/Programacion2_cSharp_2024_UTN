@@ -1,3 +1,15 @@
+# General
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -11,152 +23,28 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
-
-# Uncomment if you have tasks that create the project's static files in wwwroot
-#wwwroot/
-
-# Add the publish folder when using web/deployment projects
-[Pp]ublish/
-[Pp]ublished[Pp]rojects/
-
-# Store stylecop configs in the stylecop directory
-[Ss]tylecop/
-
-# User-specific files
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.userprefs
-
-# Mono Auto Generated Files
-mono_crash.*
-
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# VS Code directories
-.vscode/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# JetBrains Rider
-.idea/
-*.sln.iml
-
-# Rider settings directory
-.idea/
-
-# Rider project settings files
-*.sln.iml
-
-# Rider module files
-*.sln.iml
-
-# Code coverage
-*.coverage
-*.coveragexml
-
-# Transient and temp files
-*.tmp
-*.temp
-*.tmp
-*.temp
-
-# Web projects
-project.lock.json
-project.fragment.lock.json
-artifacts/
-
-# ASP.NET Scaffolding
-ScaffoldingReadMe.txt
-
-# Files built by Visual Studio
-*_i.c
-*_p.c
-*_h.h
-*.ilk
-*.meta
-*.obj
-*.pch
-*.pdb
-*.pgc
-*.pgd
-*.rsp
-*.sbr
-*.tlb
-*.tli
-*.tlh
-*.tmp
-*.tmp_proj
-*.log
-*.vspscc
-*.vssscc
-.builds
-*.pidb
-*.svclog
-*.scc
-
-# Chutzpah Test files
-_Chutzpah*
-
-# SQL Server files
-*.mdf
-*.ldf
-*.ndf
-
-# LocalDB files
-*.mdf
-*.ldf
-
-# Business Intelligence projects
-*.rdl.data
-*.bim.layout
-*.bim_*.settings
-
-# Microsoft Fakes
-FakesAssemblies/
-
-# Node.js directories
-node_modules/
-npm-debug.log
-
-# Coverage Results
-coverage/
-
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Build directory
-[Dd]ebug/
-[Rr]elease/
-x64/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
 [Ll]ogs/
-.vs/
+
+# Visual Studio files
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.bak
+*.deployment
+*.psess
+*.vsp
+*.vspx
+*.log
+*.vsix
+buildlog.htm
+*.userprefs
+*.map
+*.vsixmanifest
+*.dll
+*.pdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# TFS files
+$tf/

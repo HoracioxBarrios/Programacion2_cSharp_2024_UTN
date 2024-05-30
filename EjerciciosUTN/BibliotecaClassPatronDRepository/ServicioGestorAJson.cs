@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BibliotecaClassPatronDRepository
 {
-    public class ImplementacionGestor : IGestionadorAutos
+    public class ServicioGestorAJson : IGestionadorAutos
     {
         public void GuardarAuto(string nombreAuto)
         {
@@ -15,7 +15,7 @@ namespace BibliotecaClassPatronDRepository
 
         public void SacarAuto(string nombreAuto)
         {
-            Console.WriteLine();
+            Console.WriteLine("Sacando del JSon");
         }
     }
 }

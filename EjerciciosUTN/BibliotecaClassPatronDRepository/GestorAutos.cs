@@ -1,11 +1,13 @@
-﻿namespace BibliotecaClassPatronDRepository
+﻿
+
+namespace BibliotecaClassPatronDRepository
 {
     public class GestorAutos : IGestionadorAutos
     {
         private IGestionadorAutos _gestionadorAutos;
-        public GestorAutos( IGestionadorAutos gestionadorAuto) 
+        public GestorAutos( IGestionadorAutos servicioGestionadorAuto) 
         {
-            _gestionadorAutos = gestionadorAuto;
+            _gestionadorAutos = servicioGestionadorAuto;
         }
 
         public void GuardarAuto(string dato)
@@ -15,7 +17,7 @@
 
         public void SacarAuto(string dato)
         {
-            _gestionadorAutos.GuardarAuto("Auto");
+            _gestionadorAutos.SacarAuto("Auto");
         }
     }
 }

@@ -3,12 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00}|PracticaCompositeAPP\\PracticaCompositeAPP.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\practicacompositeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00}|PracticaCompositeAPP\\PracticaCompositeAPP.csproj|solutionrelative:practicacompositeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80289A44-B842-480E-AA25-425AB6CF099A}|Elementos de la soluci\u00F3n{80289A44-B842-480E-AA25-425AB6CF099A}|C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{80289A44-B842-480E-AA25-425AB6CF099A}|Elementos de la soluci\u00F3n{80289A44-B842-480E-AA25-425AB6CF099A}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7130A12-AEEE-4AFC-89E7-05B5E4584433}|PatronCompositeAPP\\PatronCompositeAPP.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\patroncompositeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7130A12-AEEE-4AFC-89E7-05B5E4584433}|PatronCompositeAPP\\PatronCompositeAPP.csproj|solutionrelative:patroncompositeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}|BibliotecaClassPatronComposite\\BibliotecaClassPatronComposite.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasspatroncomposite\\combinacionbebidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}|BibliotecaClassPatronComposite\\BibliotecaClassPatronComposite.csproj|solutionrelative:bibliotecaclasspatroncomposite\\combinacionbebidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7130A12-AEEE-4AFC-89E7-05B5E4584433}|PatronCompositeAPP\\PatronCompositeAPP.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\patroncompositeapp\\patroncompositeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7130A12-AEEE-4AFC-89E7-05B5E4584433}|PatronCompositeAPP\\PatronCompositeAPP.csproj|solutionrelative:patroncompositeapp\\patroncompositeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}|BibliotecaClassPatronComposite\\BibliotecaClassPatronComposite.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasspatroncomposite\\te.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}|BibliotecaClassPatronComposite\\BibliotecaClassPatronComposite.csproj|solutionrelative:bibliotecaclasspatroncomposite\\te.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}|BibliotecaClassPatronComposite\\BibliotecaClassPatronComposite.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasspatroncomposite\\jugo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}|BibliotecaClassPatronComposite\\BibliotecaClassPatronComposite.csproj|solutionrelative:bibliotecaclasspatroncomposite\\jugo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}|BibliotecaClassPatronComposite\\BibliotecaClassPatronComposite.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasspatroncomposite\\ibebida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}|BibliotecaClassPatronComposite\\BibliotecaClassPatronComposite.csproj|solutionrelative:bibliotecaclasspatroncomposite\\ibebida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}|BibliotecaClassPatronComposite\\BibliotecaClassPatronComposite.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasspatroncomposite\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}|BibliotecaClassPatronComposite\\BibliotecaClassPatronComposite.csproj|solutionrelative:bibliotecaclasspatroncomposite\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}|BibliotecaClassPatronComposite\\BibliotecaClassPatronComposite.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasspatroncomposite\\bibliotecaclasspatroncomposite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}|BibliotecaClassPatronComposite\\BibliotecaClassPatronComposite.csproj|solutionrelative:bibliotecaclasspatroncomposite\\bibliotecaclasspatroncomposite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AD28110-D771-4DF4-B133-DC3939ABFE4F}|ConsoleAppPracticaObjStatic\\ConsoleAppPracticaObjStatic.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\consoleapppracticaobjstatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AD28110-D771-4DF4-B133-DC3939ABFE4F}|ConsoleAppPracticaObjStatic\\ConsoleAppPracticaObjStatic.csproj|solutionrelative:consoleapppracticaobjstatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00}|PracticaCompositeAPP\\PracticaCompositeAPP.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\practicacompositeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00}|PracticaCompositeAPP\\PracticaCompositeAPP.csproj|solutionrelative:practicacompositeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00}|PracticaCompositeAPP\\PracticaCompositeAPP.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\practicacompositeapp\\practicacompositeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00}|PracticaCompositeAPP\\PracticaCompositeAPP.csproj|solutionrelative:practicacompositeapp\\practicacompositeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0887C4-4259-4C96-82AD-50B43FBEEA83}|BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclassejemplopracticaherenciadeinterfacepatrondcommand\\encargado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0887C4-4259-4C96-82AD-50B43FBEEA83}|BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj|solutionrelative:bibliotecaclassejemplopracticaherenciadeinterfacepatrondcommand\\encargado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0887C4-4259-4C96-82AD-50B43FBEEA83}|BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclassejemplopracticaherenciadeinterfacepatrondcommand\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0887C4-4259-4C96-82AD-50B43FBEEA83}|BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj|solutionrelative:bibliotecaclassejemplopracticaherenciadeinterfacepatrondcommand\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0887C4-4259-4C96-82AD-50B43FBEEA83}|BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclassejemplopracticaherenciadeinterfacepatrondcommand\\icommandgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0887C4-4259-4C96-82AD-50B43FBEEA83}|BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj|solutionrelative:bibliotecaclassejemplopracticaherenciadeinterfacepatrondcommand\\icommandgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0887C4-4259-4C96-82AD-50B43FBEEA83}|BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclassejemplopracticaherenciadeinterfacepatrondcommand\\consultastockvigentecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0887C4-4259-4C96-82AD-50B43FBEEA83}|BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj|solutionrelative:bibliotecaclassejemplopracticaherenciadeinterfacepatrondcommand\\consultastockvigentecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB5C670-0CBD-4953-91C3-804D527C8AD9}|BibliotecaClassPatronDise\u00F1oStrategy\\BibliotecaClassPatronDise\u00F1oStrategy.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasspatrondise\u00F1ostrategy\\tiendaenlinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB5C670-0CBD-4953-91C3-804D527C8AD9}|BibliotecaClassPatronDise\u00F1oStrategy\\BibliotecaClassPatronDise\u00F1oStrategy.csproj|solutionrelative:bibliotecaclasspatrondise\u00F1ostrategy\\tiendaenlinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB5C670-0CBD-4953-91C3-804D527C8AD9}|BibliotecaClassPatronDise\u00F1oStrategy\\BibliotecaClassPatronDise\u00F1oStrategy.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasspatrondise\u00F1ostrategy\\pagocontarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB5C670-0CBD-4953-91C3-804D527C8AD9}|BibliotecaClassPatronDise\u00F1oStrategy\\BibliotecaClassPatronDise\u00F1oStrategy.csproj|solutionrelative:bibliotecaclasspatrondise\u00F1ostrategy\\pagocontarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB5C670-0CBD-4953-91C3-804D527C8AD9}|BibliotecaClassPatronDise\u00F1oStrategy\\BibliotecaClassPatronDise\u00F1oStrategy.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasspatrondise\u00F1ostrategy\\pagoconpaypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB5C670-0CBD-4953-91C3-804D527C8AD9}|BibliotecaClassPatronDise\u00F1oStrategy\\BibliotecaClassPatronDise\u00F1oStrategy.csproj|solutionrelative:bibliotecaclasspatrondise\u00F1ostrategy\\pagoconpaypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB5C670-0CBD-4953-91C3-804D527C8AD9}|BibliotecaClassPatronDise\u00F1oStrategy\\BibliotecaClassPatronDise\u00F1oStrategy.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasspatrondise\u00F1ostrategy\\pagoconcriptomonedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB5C670-0CBD-4953-91C3-804D527C8AD9}|BibliotecaClassPatronDise\u00F1oStrategy\\BibliotecaClassPatronDise\u00F1oStrategy.csproj|solutionrelative:bibliotecaclasspatrondise\u00F1ostrategy\\pagoconcriptomonedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8634FF01-8AA7-41B5-9585-76F973A2A662}|BibliotecaClassPatronDRepository\\BibliotecaClassPatronDRepository.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasspatrondrepository\\gestorautos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8634FF01-8AA7-41B5-9585-76F973A2A662}|BibliotecaClassPatronDRepository\\BibliotecaClassPatronDRepository.csproj|solutionrelative:bibliotecaclasspatrondrepository\\gestorautos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8634FF01-8AA7-41B5-9585-76F973A2A662}|BibliotecaClassPatronDRepository\\BibliotecaClassPatronDRepository.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasspatrondrepository\\serviciogestoraxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8634FF01-8AA7-41B5-9585-76F973A2A662}|BibliotecaClassPatronDRepository\\BibliotecaClassPatronDRepository.csproj|solutionrelative:bibliotecaclasspatrondrepository\\serviciogestoraxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8634FF01-8AA7-41B5-9585-76F973A2A662}|BibliotecaClassPatronDRepository\\BibliotecaClassPatronDRepository.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasspatrondrepository\\serviciogestorajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8634FF01-8AA7-41B5-9585-76F973A2A662}|BibliotecaClassPatronDRepository\\BibliotecaClassPatronDRepository.csproj|solutionrelative:bibliotecaclasspatrondrepository\\serviciogestorajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8634FF01-8AA7-41B5-9585-76F973A2A662}|BibliotecaClassPatronDRepository\\BibliotecaClassPatronDRepository.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\bibliotecaclasspatrondrepository\\igestionadorautos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8634FF01-8AA7-41B5-9585-76F973A2A662}|BibliotecaClassPatronDRepository\\BibliotecaClassPatronDRepository.csproj|solutionrelative:bibliotecaclasspatrondrepository\\igestionadorautos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BEA0930-87B7-41D7-BCED-5A917C6F5743}|ClassLibraryPracticaObjStatic\\ClassLibraryPracticaObjStatic.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\classlibrarypracticaobjstatic\\bebida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,34 +114,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PracticaCompositeAPP\\Program.cs",
-              "RelativeDocumentMoniker": "PracticaCompositeAPP\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PracticaCompositeAPP\\Program.cs",
-              "RelativeToolTip": "PracticaCompositeAPP\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T00:17:03.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConsoleAppPracticaObjStatic",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\ConsoleAppPracticaObjStatic\\ConsoleAppPracticaObjStatic.csproj",
-              "RelativeDocumentMoniker": "ConsoleAppPracticaObjStatic\\ConsoleAppPracticaObjStatic.csproj",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\ConsoleAppPracticaObjStatic\\ConsoleAppPracticaObjStatic.csproj",
-              "RelativeToolTip": "ConsoleAppPracticaObjStatic\\ConsoleAppPracticaObjStatic.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-29T22:23:26.406Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -84,7 +146,308 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBoAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-30T19:02:12.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatronCompositeAPP.csproj",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PatronCompositeAPP\\PatronCompositeAPP.csproj",
+              "RelativeDocumentMoniker": "PatronCompositeAPP\\PatronCompositeAPP.csproj",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PatronCompositeAPP\\PatronCompositeAPP.csproj",
+              "RelativeToolTip": "PatronCompositeAPP\\PatronCompositeAPP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T18:43:46.747Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CombinacionBebidas.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronComposite\\CombinacionBebidas.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassPatronComposite\\CombinacionBebidas.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronComposite\\CombinacionBebidas.cs",
+              "RelativeToolTip": "BibliotecaClassPatronComposite\\CombinacionBebidas.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:27:13.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "jugo.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronComposite\\jugo.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassPatronComposite\\jugo.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronComposite\\jugo.cs",
+              "RelativeToolTip": "BibliotecaClassPatronComposite\\jugo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:24:40.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Te.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronComposite\\Te.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassPatronComposite\\Te.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronComposite\\Te.cs",
+              "RelativeToolTip": "BibliotecaClassPatronComposite\\Te.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:23:07.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cafe.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronComposite\\Cafe.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassPatronComposite\\Cafe.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronComposite\\Cafe.cs",
+              "RelativeToolTip": "BibliotecaClassPatronComposite\\Cafe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:19:07.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBebida.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronComposite\\IBebida.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassPatronComposite\\IBebida.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronComposite\\IBebida.cs",
+              "RelativeToolTip": "BibliotecaClassPatronComposite\\IBebida.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:14:42.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BibliotecaClassPatronComposite.csproj",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronComposite\\BibliotecaClassPatronComposite.csproj",
+              "RelativeDocumentMoniker": "BibliotecaClassPatronComposite\\BibliotecaClassPatronComposite.csproj",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronComposite\\BibliotecaClassPatronComposite.csproj",
+              "RelativeToolTip": "BibliotecaClassPatronComposite\\BibliotecaClassPatronComposite.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T18:14:15.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PatronCompositeAPP\\Program.cs",
+              "RelativeDocumentMoniker": "PatronCompositeAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PatronCompositeAPP\\Program.cs",
+              "RelativeToolTip": "PatronCompositeAPP\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:06:10.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PracticaCompositeAPP.csproj",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PracticaCompositeAPP\\PracticaCompositeAPP.csproj",
+              "RelativeDocumentMoniker": "PracticaCompositeAPP\\PracticaCompositeAPP.csproj",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PracticaCompositeAPP\\PracticaCompositeAPP.csproj",
+              "RelativeToolTip": "PracticaCompositeAPP\\PracticaCompositeAPP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T18:01:03.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Encargado.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\Encargado.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\Encargado.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\Encargado.cs",
+              "RelativeToolTip": "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\Encargado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:55:15.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICommandGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ICommandGeneric.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ICommandGeneric.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ICommandGeneric.cs",
+              "RelativeToolTip": "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ICommandGeneric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:55:10.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ICommand.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ICommand.cs",
+              "RelativeToolTip": "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:55:08.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConsultaStockVigenteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ConsultaStockVigenteCommand.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ConsultaStockVigenteCommand.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ConsultaStockVigenteCommand.cs",
+              "RelativeToolTip": "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\\ConsultaStockVigenteCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:54:58.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\ConsoleAppPracticaObjStatic\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppPracticaObjStatic\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\ConsoleAppPracticaObjStatic\\Program.cs",
+              "RelativeToolTip": "ConsoleAppPracticaObjStatic\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwIkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:21:08.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TiendaEnLinea.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronDise\u00F1oStrategy\\TiendaEnLinea.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassPatronDise\u00F1oStrategy\\TiendaEnLinea.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronDise\u00F1oStrategy\\TiendaEnLinea.cs",
+              "RelativeToolTip": "BibliotecaClassPatronDise\u00F1oStrategy\\TiendaEnLinea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:53:23.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PracticaCompositeAPP\\Program.cs",
+              "RelativeDocumentMoniker": "PracticaCompositeAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\PracticaCompositeAPP\\Program.cs",
+              "RelativeToolTip": "PracticaCompositeAPP\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAuwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:17:03.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PagoConTarjeta.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronDise\u00F1oStrategy\\PagoConTarjeta.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassPatronDise\u00F1oStrategy\\PagoConTarjeta.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronDise\u00F1oStrategy\\PagoConTarjeta.cs",
+              "RelativeToolTip": "BibliotecaClassPatronDise\u00F1oStrategy\\PagoConTarjeta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:53:22.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PagoConPayPal.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronDise\u00F1oStrategy\\PagoConPayPal.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassPatronDise\u00F1oStrategy\\PagoConPayPal.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronDise\u00F1oStrategy\\PagoConPayPal.cs",
+              "RelativeToolTip": "BibliotecaClassPatronDise\u00F1oStrategy\\PagoConPayPal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:53:20.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PagoConCriptomonedas.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronDise\u00F1oStrategy\\PagoConCriptomonedas.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassPatronDise\u00F1oStrategy\\PagoConCriptomonedas.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronDise\u00F1oStrategy\\PagoConCriptomonedas.cs",
+              "RelativeToolTip": "BibliotecaClassPatronDise\u00F1oStrategy\\PagoConCriptomonedas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:53:17.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServicioGestorAXml.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronDRepository\\ServicioGestorAXml.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassPatronDRepository\\ServicioGestorAXml.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronDRepository\\ServicioGestorAXml.cs",
+              "RelativeToolTip": "BibliotecaClassPatronDRepository\\ServicioGestorAXml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:38:07.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServicioGestorAJson.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronDRepository\\ServicioGestorAJson.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassPatronDRepository\\ServicioGestorAJson.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronDRepository\\ServicioGestorAJson.cs",
+              "RelativeToolTip": "BibliotecaClassPatronDRepository\\ServicioGestorAJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:00:55.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IGestionadorAutos.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronDRepository\\IGestionadorAutos.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassPatronDRepository\\IGestionadorAutos.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronDRepository\\IGestionadorAutos.cs",
+              "RelativeToolTip": "BibliotecaClassPatronDRepository\\IGestionadorAutos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:00:50.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GestorAutos.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronDRepository\\GestorAutos.cs",
+              "RelativeDocumentMoniker": "BibliotecaClassPatronDRepository\\GestorAutos.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronDRepository\\GestorAutos.cs",
+              "RelativeToolTip": "BibliotecaClassPatronDRepository\\GestorAutos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:59:40.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ConsoleAppPracticaObjStatic.csproj",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\ConsoleAppPracticaObjStatic\\ConsoleAppPracticaObjStatic.csproj",
+              "RelativeDocumentMoniker": "ConsoleAppPracticaObjStatic\\ConsoleAppPracticaObjStatic.csproj",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\ConsoleAppPracticaObjStatic\\ConsoleAppPracticaObjStatic.csproj",
+              "RelativeToolTip": "ConsoleAppPracticaObjStatic\\ConsoleAppPracticaObjStatic.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T22:23:26.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "Bebida.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\ClassLibraryPracticaObjStatic\\Bebida.cs",
               "RelativeDocumentMoniker": "ClassLibraryPracticaObjStatic\\Bebida.cs",
@@ -92,21 +455,7 @@
               "RelativeToolTip": "ClassLibraryPracticaObjStatic\\Bebida.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T22:21:58.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\ConsoleAppPracticaObjStatic\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleAppPracticaObjStatic\\Program.cs",
-              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\ConsoleAppPracticaObjStatic\\Program.cs",
-              "RelativeToolTip": "ConsoleAppPracticaObjStatic\\Program.cs",
-              "ViewState": "AQIAAG8AAAAAAAAAAAAiwEEAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T22:21:08.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T22:21:58.726Z"
             }
           ]
         }

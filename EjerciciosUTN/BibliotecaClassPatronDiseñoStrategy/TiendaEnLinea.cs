@@ -11,7 +11,7 @@ namespace BibliotecaClassPatronDiseñoStrategy
         private IMetodoPago _metodoPago;
 
         // Constructor que permite inyectar una estrategia
-        public TiendaEnLinea(IMetodoPago metodoPago)
+        public TiendaEnLinea(IMetodoPago metodoPago )  //se inyecta la dependencia por contructor de tipo IMetodoPago
         {
             _metodoPago = metodoPago;
         }

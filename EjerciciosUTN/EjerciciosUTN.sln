@@ -96,7 +96,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "B- Principio Dry", "B- Prin
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C- Principios SOLID", "C- Principios SOLID", "{FBD92D53-1F9F-40D6-885A-020741A3E9E4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Z- Practica implementacion login ejemplo 1", "Z- Practica implementacion login ejemplo 1", "{1A83D562-C515-4452-B4CF-3E262140068A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practica implementacion login ejemplo 1", "Practica implementacion login ejemplo 1", "{1A83D562-C515-4452-B4CF-3E262140068A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClasesEjemploLogin", "BibliotecaClasesEjemploLogin\BibliotecaClasesEjemploLogin.csproj", "{2FEBEBE1-3A10-436D-B64D-D509656DD106}"
 EndProject
@@ -124,7 +124,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4- Interface Segregacion Pr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5- Inversion de Dependencia Principle(DIP)", "5- Inversion de Dependencia Principle(DIP)", "{90FB3AA3-681C-4B66-ADCB-3F0A2637DE57}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PracticasVarias", "PracticasVarias", "{F4AF8B5B-0926-4FCF-9102-2E2AE12196D2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practicas Varias", "Practicas Varias", "{F4AF8B5B-0926-4FCF-9102-2E2AE12196D2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolimorfismoDudasAPP", "PolimorfismoDudasAPP\PolimorfismoDudasAPP.csproj", "{EF0CD8CF-FBAA-4F39-B9F9-FDE258A1AD03}"
 EndProject
@@ -136,25 +136,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticaIndexadoresApp", "P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaClasesIndexadores", "LibreriaClasesIndexadores\LibreriaClasesIndexadores.csproj", "{CB408C2E-8F22-400C-A1E0-67BD5A8123B1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron Estructural  de diseño Adapter", "Patron Estructural  de diseño Adapter", "{DA0CF598-E52A-4EDE-8438-41F941621C03}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron de diseño Adapter - Patron Estructural", "Patron de diseño Adapter - Patron Estructural", "{DA0CF598-E52A-4EDE-8438-41F941621C03}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClaseAdapter", "BibliotecaClaseAdapter\BibliotecaClaseAdapter.csproj", "{CFE71602-598C-41BE-91BF-232C1F00B010}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronDeDiseñoAdapterAPP", "PatronDeDiseñoAdapterAPP\PatronDeDiseñoAdapterAPP.csproj", "{0CBE9B01-F108-42C5-A649-D9998464C84D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron Creacional de diseño Singleton", "Patron Creacional de diseño Singleton", "{1746DAB5-913B-4E6B-8D22-E70291C4642F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron de diseño Singleton - Patron Creacional", "Patron de diseño Singleton - Patron Creacional", "{1746DAB5-913B-4E6B-8D22-E70291C4642F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronDeDiseñoSingletonApp", "PatronDeDiseñoSingletonApp\PatronDeDiseñoSingletonApp.csproj", "{D2958EEE-7E25-4566-A72E-2E49B58DDEF3}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClasesSingleton", "BibliotecaClasesSingleton\BibliotecaClasesSingleton.csproj", "{77805096-AD77-4EEE-B689-FF1381274BF9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron Creacional de Diseño Factory Method", "Patron Creacional de Diseño Factory Method", "{0FD3E55B-A6D9-4D29-B22E-B5F083593762}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron de Diseño Factory Method - Patron Creacional", "Patron de Diseño Factory Method - Patron Creacional", "{0FD3E55B-A6D9-4D29-B22E-B5F083593762}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronDeDiseñoFactoryMethodAPP", "PatronDeDiseñoFactoryMethodAPP\PatronDeDiseñoFactoryMethodAPP.csproj", "{528BAC4C-AC58-47D3-9701-71E184052651}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClassFactoryMethod", "BibliotecaClassFactoryMethod\BibliotecaClassFactoryMethod.csproj", "{8506CFCE-68A5-4AB1-9AAE-F7BCE9BB3548}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron Creacional de Diseño Factory Method Otra manera", "Patron Creacional de Diseño Factory Method Otra manera", "{BDBBFCA8-7623-47C0-97F9-13E3F4560BCD}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron Diseño Factory Method - Patron Creacional -Otra manera", "Patron Diseño Factory Method - Patron Creacional -Otra manera", "{BDBBFCA8-7623-47C0-97F9-13E3F4560BCD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronDeDiseñoFactoryMethods", "PatronDeDiseñoFactoryMethods\PatronDeDiseñoFactoryMethods.csproj", "{61EC55B5-4AD8-41D2-8D89-09B0AD0DE37A}"
 EndProject
@@ -188,7 +188,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProjectEjemploBasico", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClassPatronDRepository", "BibliotecaClassPatronDRepository\BibliotecaClassPatronDRepository.csproj", "{8634FF01-8AA7-41B5-9585-76F973A2A662}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron Respository", "Patron Respository", "{F8CF8B28-ED6D-4063-9C15-3805AE17A428}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron de Diseño  Strategy - Inyeccion de Dependencia - ejemplo simple", "Patron de Diseño  Strategy - Inyeccion de Dependencia - ejemplo simple", "{F8CF8B28-ED6D-4063-9C15-3805AE17A428}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClassEjemploDeHerenciaDeInterface", "BibliotecaClassEjemploDeHerenciaDeInterface\BibliotecaClassEjemploDeHerenciaDeInterface.csproj", "{BD7D5187-CB5F-4998-8510-47C7F1F1E556}"
 EndProject
@@ -198,13 +198,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestHerenciaInterfaces", "T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand", "BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand\BibliotecaClassEjemploPracticaHerenciaDeInterfacePatronDCommand.csproj", "{8F0887C4-4259-4C96-82AD-50B43FBEEA83}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron De Comportamiento de Diseño Command", "Patron De Comportamiento de Diseño Command", "{D02ECF65-B995-4220-88BE-50F6834DEBEB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron de Diseño Command - Patron de comportamiento", "Patron de Diseño Command - Patron de comportamiento", "{D02ECF65-B995-4220-88BE-50F6834DEBEB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp4PilaresPOO", "ConsoleApp4PilaresPOO\ConsoleApp4PilaresPOO.csproj", "{976B4E95-6AAB-45B3-8DBB-9F867533CDA6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test Unitarios MS test", "Test Unitarios MS test", "{B05D2376-5AFF-4900-9A53-42F40633EE10}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron de Diseño Strategy", "Patron de Diseño Strategy", "{7D581519-AF56-4147-AD73-93A737BD645C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron de Diseño Strategy - Patron de comportamiento", "Patron de Diseño Strategy - Patron de comportamiento", "{7D581519-AF56-4147-AD73-93A737BD645C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClassPatronDiseñoStrategy", "BibliotecaClassPatronDiseñoStrategy\BibliotecaClassPatronDiseñoStrategy.csproj", "{5CB5C670-0CBD-4953-91C3-804D527C8AD9}"
 EndProject
@@ -224,7 +224,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practica con Objetos con at
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaCompositeAPP", "PracticaCompositeAPP\PracticaCompositeAPP.csproj", "{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practica Composite", "Practica Composite", "{43E3F43A-14A9-44A9-9C9E-7A19EA1A2125}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practica Patron Composite", "Practica Patron Composite", "{43E3F43A-14A9-44A9-9C9E-7A19EA1A2125}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClassPatronComposite", "BibliotecaClassPatronComposite\BibliotecaClassPatronComposite.csproj", "{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BibliotecaClassEjerciciosUTN", "BibliotecaClassEjerciciosUTN", "{F36F207F-F7CD-4923-B147-795AF86E6A98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronCompositeAPP", "PatronCompositeAPP\PatronCompositeAPP.csproj", "{F7130A12-AEEE-4AFC-89E7-05B5E4584433}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron de Diseño Composite - Patron Estructural", "Patron de Diseño Composite - Patron Estructural", "{2A2A535A-4FF6-44B5-AC5E-1D91DEAC0B6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -532,6 +540,14 @@ Global
 		{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7130A12-AEEE-4AFC-89E7-05B5E4584433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7130A12-AEEE-4AFC-89E7-05B5E4584433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7130A12-AEEE-4AFC-89E7-05B5E4584433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7130A12-AEEE-4AFC-89E7-05B5E4584433}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -540,6 +556,7 @@ Global
 		{51C6908F-9712-4476-8C96-296DFDA1F5AF} = {725C78E1-AFED-494D-9CB1-3ACDAC96BC82}
 		{78190B76-FDB6-467C-BAD0-F4626F541CA7} = {725C78E1-AFED-494D-9CB1-3ACDAC96BC82}
 		{B5C2B10B-EFD2-401A-BD7D-9C2D6A2D3D96} = {338796E9-3A72-417E-9F29-6A0CC30C4676}
+		{8F8CD2E2-F562-4161-A427-35CDA06EBFD2} = {F36F207F-F7CD-4923-B147-795AF86E6A98}
 		{EB6F38FF-F06D-400F-8854-8B617A84518F} = {725C78E1-AFED-494D-9CB1-3ACDAC96BC82}
 		{9D4DA2F8-BFE4-4896-94C4-4F955139D198} = {725C78E1-AFED-494D-9CB1-3ACDAC96BC82}
 		{9F298B9A-09B1-45E2-8F40-0DABD37AEE38} = {338796E9-3A72-417E-9F29-6A0CC30C4676}
@@ -555,6 +572,7 @@ Global
 		{C4797108-F6E1-442E-B6E0-BBCE706DDC37} = {44D219F0-C35B-4A50-9985-7BB32EDC9B53}
 		{2DC37502-F452-44F0-90F5-56B87517BB76} = {44D219F0-C35B-4A50-9985-7BB32EDC9B53}
 		{8F0E186A-E454-40D9-8FCB-78753E249B6A} = {44D219F0-C35B-4A50-9985-7BB32EDC9B53}
+		{9CC76301-1A64-41D0-98DE-E98682B4E429} = {F36F207F-F7CD-4923-B147-795AF86E6A98}
 		{1216301A-08D5-4C7B-9F9E-5A90B54D5901} = {44D219F0-C35B-4A50-9985-7BB32EDC9B53}
 		{2DAAD2F8-FC0A-4459-9108-BECE06227E8F} = {725C78E1-AFED-494D-9CB1-3ACDAC96BC82}
 		{CCB58B55-0886-48A7-9BB9-7E0D07B05C3F} = {725C78E1-AFED-494D-9CB1-3ACDAC96BC82}
@@ -565,6 +583,7 @@ Global
 		{AF444144-77DC-4739-AAB8-19325B2D09AD} = {B81BBCFE-E3C0-49B8-A1B9-8DC2B63D98B5}
 		{CD2615C3-2621-489D-8C82-8B6225E5C794} = {0F97DB8E-0A79-4158-932D-EB22FB2AC038}
 		{D1FA7F4D-187D-4B86-9055-F82D4FE0F50D} = {0F97DB8E-0A79-4158-932D-EB22FB2AC038}
+		{51D2C779-7772-4109-B4CE-D5AC57881E93} = {F36F207F-F7CD-4923-B147-795AF86E6A98}
 		{CD51DB06-4403-46AF-837D-18A34A5EF350} = {B81BBCFE-E3C0-49B8-A1B9-8DC2B63D98B5}
 		{D410FD34-4404-4E26-8ECE-F5A2CD464130} = {65073378-EE81-4DD2-AD63-B50479590454}
 		{26452553-52E3-4383-898B-0292802A03D9} = {65073378-EE81-4DD2-AD63-B50479590454}
@@ -615,6 +634,8 @@ Global
 		{8AD28110-D771-4DF4-B133-DC3939ABFE4F} = {C5A46E61-38AF-4D6C-80AB-D8DD384299C8}
 		{2BEA0930-87B7-41D7-BCED-5A917C6F5743} = {C5A46E61-38AF-4D6C-80AB-D8DD384299C8}
 		{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00} = {43E3F43A-14A9-44A9-9C9E-7A19EA1A2125}
+		{77C27597-5DBE-4FAD-8B60-FA3059E7D40F} = {2A2A535A-4FF6-44B5-AC5E-1D91DEAC0B6D}
+		{F7130A12-AEEE-4AFC-89E7-05B5E4584433} = {2A2A535A-4FF6-44B5-AC5E-1D91DEAC0B6D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56A756F6-2467-43C0-90D6-FBEC92801C43}
