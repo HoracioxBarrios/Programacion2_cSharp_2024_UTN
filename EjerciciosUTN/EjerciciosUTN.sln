@@ -216,23 +216,61 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaPracticaIPlatosPa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pratica IPlatos y menu ejecutivo - TP", "Pratica IPlatos y menu ejecutivo - TP", "{E28C4ECD-B18E-4715-B46D-CA6B86A2BCA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppPracticaObjStatic", "ConsoleAppPracticaObjStatic\ConsoleAppPracticaObjStatic.csproj", "{8AD28110-D771-4DF4-B133-DC3939ABFE4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppPracticaObjStatic", "ConsoleAppPracticaObjStatic\ConsoleAppPracticaObjStatic.csproj", "{8AD28110-D771-4DF4-B133-DC3939ABFE4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryPracticaObjStatic", "ClassLibraryPracticaObjStatic\ClassLibraryPracticaObjStatic.csproj", "{2BEA0930-87B7-41D7-BCED-5A917C6F5743}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibraryPracticaObjStatic", "ClassLibraryPracticaObjStatic\ClassLibraryPracticaObjStatic.csproj", "{2BEA0930-87B7-41D7-BCED-5A917C6F5743}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practica con Objetos con atrib static", "Practica con Objetos con atrib static", "{C5A46E61-38AF-4D6C-80AB-D8DD384299C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaCompositeAPP", "PracticaCompositeAPP\PracticaCompositeAPP.csproj", "{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticaCompositeAPP", "PracticaCompositeAPP\PracticaCompositeAPP.csproj", "{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practica Patron Composite", "Practica Patron Composite", "{43E3F43A-14A9-44A9-9C9E-7A19EA1A2125}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClassPatronComposite", "BibliotecaClassPatronComposite\BibliotecaClassPatronComposite.csproj", "{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClassPatronComposite", "BibliotecaClassPatronComposite\BibliotecaClassPatronComposite.csproj", "{77C27597-5DBE-4FAD-8B60-FA3059E7D40F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BibliotecaClassEjerciciosUTN", "BibliotecaClassEjerciciosUTN", "{F36F207F-F7CD-4923-B147-795AF86E6A98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronCompositeAPP", "PatronCompositeAPP\PatronCompositeAPP.csproj", "{F7130A12-AEEE-4AFC-89E7-05B5E4584433}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronCompositeAPP", "PatronCompositeAPP\PatronCompositeAPP.csproj", "{F7130A12-AEEE-4AFC-89E7-05B5E4584433}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron de Diseño Composite - Patron Estructural", "Patron de Diseño Composite - Patron Estructural", "{2A2A535A-4FF6-44B5-AC5E-1D91DEAC0B6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegadosYLambdaAPP", "DelegadosYLambdaAPP\DelegadosYLambdaAPP.csproj", "{6B4ED851-C834-4C3F-93FB-F5A0158CB326}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7- Colecciones", "7- Colecciones", "{459F969B-BDF9-431F-B9F8-8B79AAB55EF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8- Encapsulamiento", "8- Encapsulamiento", "{3F9D4249-9802-4F60-A21A-DF545F400DCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9- Herencia", "9- Herencia", "{76CD4BE0-37A9-48DC-8110-F5E1C4F3661D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10- Polimorfismo", "10- Polimorfismo", "{500C0274-232B-4F1F-BC0A-04CB46D55588}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11- Excepciones", "11- Excepciones", "{1DED608A-EF37-48B0-98CB-93BD6A8F4A78}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12- Test Unitarios", "12- Test Unitarios", "{27874A44-D089-4BF9-B8BB-92136DBD7920}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13- Tipos Genericos", "13- Tipos Genericos", "{03198C7F-90AB-4964-ABAD-B30AD60638E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "14- Interfaces", "14- Interfaces", "{503DD259-3B1E-4BA9-9997-2E2FE92490FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15- Archivos", "15- Archivos", "{4B7665C4-0BB7-4C32-A0CB-0506A358E5A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "16- Serializacion", "16- Serializacion", "{4C0A481C-7AAF-4383-8449-55675334FB25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "17- Intro a SQL", "17- Intro a SQL", "{791508C9-9CFA-4014-8013-FA7D5CE7D4E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18- Bases de Datos", "18- Bases de Datos", "{ADDE5683-EDE3-451D-BA7F-8B91F904826D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "19- Delegados y Lambda", "19- Delegados y Lambda", "{46098C0C-1B2E-41E0-91E5-CE48E29B6CD9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "20- Programacion Multi hilos - Threads - Concurrencia", "20- Programacion Multi hilos - Threads - Concurrencia", "{ADB81690-1184-4EFC-B718-7E71F4FA44A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "21- Eventos", "21- Eventos", "{13CA1410-9D37-4604-9A7D-E8BF09D44319}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "22- Metodos de Extension", "22- Metodos de Extension", "{8237DCF1-7093-40C5-8771-25FF29072E6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-Materiales de la Cursada", "0-Materiales de la Cursada", "{D3548E18-6C4B-40E4-884F-C716DEC55EC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppMaterial", "ConsoleAppMaterial\ConsoleAppMaterial.csproj", "{68291A7F-7DAD-48EF-B804-B7CBB68317C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -548,6 +586,14 @@ Global
 		{F7130A12-AEEE-4AFC-89E7-05B5E4584433}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7130A12-AEEE-4AFC-89E7-05B5E4584433}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7130A12-AEEE-4AFC-89E7-05B5E4584433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B4ED851-C834-4C3F-93FB-F5A0158CB326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4ED851-C834-4C3F-93FB-F5A0158CB326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4ED851-C834-4C3F-93FB-F5A0158CB326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4ED851-C834-4C3F-93FB-F5A0158CB326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68291A7F-7DAD-48EF-B804-B7CBB68317C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68291A7F-7DAD-48EF-B804-B7CBB68317C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68291A7F-7DAD-48EF-B804-B7CBB68317C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68291A7F-7DAD-48EF-B804-B7CBB68317C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -636,6 +682,8 @@ Global
 		{75A3E4D2-B0FE-4759-A04E-4BEBA44AEF00} = {43E3F43A-14A9-44A9-9C9E-7A19EA1A2125}
 		{77C27597-5DBE-4FAD-8B60-FA3059E7D40F} = {2A2A535A-4FF6-44B5-AC5E-1D91DEAC0B6D}
 		{F7130A12-AEEE-4AFC-89E7-05B5E4584433} = {2A2A535A-4FF6-44B5-AC5E-1D91DEAC0B6D}
+		{6B4ED851-C834-4C3F-93FB-F5A0158CB326} = {46098C0C-1B2E-41E0-91E5-CE48E29B6CD9}
+		{68291A7F-7DAD-48EF-B804-B7CBB68317C7} = {D3548E18-6C4B-40E4-884F-C716DEC55EC8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56A756F6-2467-43C0-90D6-FBEC92801C43}
