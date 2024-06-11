@@ -1,0 +1,116 @@
+﻿public class Empleado {
+    private int valor_hora;
+    public int dias_trabajados;
+    public int horas_trabajadas;
+    public string primer_nombre;
+    public string segundo_nombre;
+    public string apellido;
+    public string rol;
+
+
+    public int ValorHora {
+        get {
+            return this.valor_hora;
+        }
+    }
+
+
+    public Empleado(string nombre, string apellido, string rol) {
+        this.primer_nombre = nombre;
+        this.apellido = apellido;
+        this.rol = rol;
+    }
+
+
+    public void AgregarContabilidad(int valor_hora, int dias_trabajados, int horas_trabajadas) {
+        this.valor_hora = valor_hora;
+        this.dias_trabajados = dias_trabajados;
+        this.horas_trabajadas = horas_trabajadas;
+    }
+
+
+    public int cobroMensual() {
+        return this.valor_hora * this.dias_trabajados * this.horas_trabajadas;
+    }
+
+
+    public string devolverNombreCompleto() {
+        return $"{this.primer_nombre} {this.segundo_nombre} {this.apellido}";
+    }
+}
+
+
+public class Empresa {
+    public List<Empleado> empleados = new List<Empleado>();
+
+
+    public int pagoSalarioMensual() {
+        int pago_mensual = 0;
+        foreach (Empleado empleado in this.empleados) {
+            pago_mensual += empleado.cobroMensual();
+        }
+        return pago_mensual;
+    }
+
+
+    public List<string> nombresEmpleadosCompletos() {
+        List<string> nombres = new List<string>();
+        foreach (Empleado empleado in this.empleados) {
+            string a = empleado.devolverNombreCompleto();
+            nombres.Add(a);
+        }
+        return nombres;
+    }
+
+
+    public int sueldoGerencia() {
+        int sueldo = 0;
+        foreach (Empleado empleado in this.empleados) {
+            if (empleado.rol == "gerencia") {
+                sueldo += empleado.cobroMensual();
+            }
+        }
+        return sueldo;
+    }
+   
+    private double descuentoLimiteB(double salarioActual) {
+        double salario = salarioActual;
+        if (salarioActual > 100) {
+            salario = salarioActual * 0.2;
+        }
+        return salario;
+    }
+
+
+
+
+    public double descuentosEmpleado(Empleado empleado) {
+        // calculo su salario
+        double salarioEmpleado = empleado.cobroMensual();
+        salarioEmpleado = this.descuentoLimiteB(salarioEmpleado);
+        // si tambien supera limite A se le quita el 5%
+        if (salarioEmpleado > 10) {
+            salarioEmpleado = salarioEmpleado * 0.05;
+        }
+        return salarioEmpleado;
+    }
+
+
+}
+
+
+// TEST
+
+
+//Empleado empleado_1 = new Empleado(8, 22, 6, "Esteban", "Quito", "gerencia");
+//Empleado empleado_2 = new Empleado(10, 22, 8, "Esla", "Lamin", "administracion");
+Empleado empleado_1 = new Empleado("Esteban", "Quito", "gerencia");
+empleado_1.AgregarContabilidad(8, 22, 6);
+Empleado empleado_2 = new Empleado("Esla", "Lamin", "administracion");
+empleado_2.AgregarContabilidad(10, 22, 8);
+Empresa empresa = new Empresa();
+empresa.empleados.Add(empleado_1);
+empresa.empleados.Add(empleado_2);
+//Console.Write(empresa.pagoSalarioMensual())
+Console.Write(String.Join(" - ", empresa.nombresEmpleadosCompletos()))
+//Console.Write(empresa.sueldoGerencia())
