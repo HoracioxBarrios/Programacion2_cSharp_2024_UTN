@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8FD9F284-8A86-48D1-8ADD-578FE6324A43}|DelegadosPracticaAPP\\DelegadosPracticaAPP.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\delegadospracticaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD9F284-8A86-48D1-8ADD-578FE6324A43}|DelegadosPracticaAPP\\DelegadosPracticaAPP.csproj|solutionrelative:delegadospracticaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{68291A7F-7DAD-48EF-B804-B7CBB68317C7}|ConsoleAppMaterial\\ConsoleAppMaterial.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\consoleappmaterial\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{68291A7F-7DAD-48EF-B804-B7CBB68317C7}|ConsoleAppMaterial\\ConsoleAppMaterial.csproj|solutionrelative:consoleappmaterial\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\DelegadosPracticaAPP\\Program.cs",
+              "RelativeDocumentMoniker": "DelegadosPracticaAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\DelegadosPracticaAPP\\Program.cs",
+              "RelativeToolTip": "DelegadosPracticaAPP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:37:11.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TextFile1.txt",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\ConsoleAppMaterial\\TextFile1.txt",
               "RelativeDocumentMoniker": "ConsoleAppMaterial\\TextFile1.txt",
               "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\ConsoleAppMaterial\\TextFile1.txt",
               "RelativeToolTip": "ConsoleAppMaterial\\TextFile1.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-06-11T00:32:29.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ConsoleAppMaterial",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\ConsoleAppMaterial\\ConsoleAppMaterial.csproj",
               "RelativeDocumentMoniker": "ConsoleAppMaterial\\ConsoleAppMaterial.csproj",
@@ -84,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\ConsoleAppMaterial\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppMaterial\\Program.cs",
@@ -97,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CombinacionBebidas.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronComposite\\CombinacionBebidas.cs",
               "RelativeDocumentMoniker": "BibliotecaClassPatronComposite\\CombinacionBebidas.cs",
