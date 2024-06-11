@@ -260,7 +260,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "17- Intro a SQL", "17- Intr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18- Bases de Datos", "18- Bases de Datos", "{ADDE5683-EDE3-451D-BA7F-8B91F904826D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "19- Delegados y Lambda", "19- Delegados y Lambda", "{46098C0C-1B2E-41E0-91E5-CE48E29B6CD9}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "19- Delegados Lambda y Algo de Eventos", "19- Delegados Lambda y Algo de Eventos", "{46098C0C-1B2E-41E0-91E5-CE48E29B6CD9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "20- Programacion Multi hilos - Threads - Concurrencia", "20- Programacion Multi hilos - Threads - Concurrencia", "{ADB81690-1184-4EFC-B718-7E71F4FA44A2}"
 EndProject
@@ -273,6 +273,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppMaterial", "ConsoleAppMaterial\ConsoleAppMaterial.csproj", "{68291A7F-7DAD-48EF-B804-B7CBB68317C7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegadosPractica1", "DelegadosPracticaAPP\DelegadosPractica1.csproj", "{8FD9F284-8A86-48D1-8ADD-578FE6324A43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegadosPractica2", "DelegadosPractica2\DelegadosPractica2.csproj", "{AE100C98-F10B-49B9-91B9-2A8CB381D112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegadosPractica2Explicacion", "DelegadoPractica2Explicacion\DelegadosPractica2Explicacion.csproj", "{D6ADB899-7B82-4822-B041-2A94CB2D1BE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -600,6 +604,14 @@ Global
 		{8FD9F284-8A86-48D1-8ADD-578FE6324A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FD9F284-8A86-48D1-8ADD-578FE6324A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FD9F284-8A86-48D1-8ADD-578FE6324A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE100C98-F10B-49B9-91B9-2A8CB381D112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE100C98-F10B-49B9-91B9-2A8CB381D112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE100C98-F10B-49B9-91B9-2A8CB381D112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE100C98-F10B-49B9-91B9-2A8CB381D112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6ADB899-7B82-4822-B041-2A94CB2D1BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6ADB899-7B82-4822-B041-2A94CB2D1BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6ADB899-7B82-4822-B041-2A94CB2D1BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6ADB899-7B82-4822-B041-2A94CB2D1BE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -691,6 +703,8 @@ Global
 		{6B4ED851-C834-4C3F-93FB-F5A0158CB326} = {46098C0C-1B2E-41E0-91E5-CE48E29B6CD9}
 		{68291A7F-7DAD-48EF-B804-B7CBB68317C7} = {D3548E18-6C4B-40E4-884F-C716DEC55EC8}
 		{8FD9F284-8A86-48D1-8ADD-578FE6324A43} = {46098C0C-1B2E-41E0-91E5-CE48E29B6CD9}
+		{AE100C98-F10B-49B9-91B9-2A8CB381D112} = {46098C0C-1B2E-41E0-91E5-CE48E29B6CD9}
+		{D6ADB899-7B82-4822-B041-2A94CB2D1BE0} = {46098C0C-1B2E-41E0-91E5-CE48E29B6CD9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56A756F6-2467-43C0-90D6-FBEC92801C43}

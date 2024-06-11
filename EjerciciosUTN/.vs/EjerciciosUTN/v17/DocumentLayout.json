@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6B4ED851-C834-4C3F-93FB-F5A0158CB326}|DelegadosYLambdaAPP\\DelegadosPractica0.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\delegadosylambdaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4ED851-C834-4C3F-93FB-F5A0158CB326}|DelegadosYLambdaAPP\\DelegadosPractica0.csproj|solutionrelative:delegadosylambdaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4ED851-C834-4C3F-93FB-F5A0158CB326}|DelegadosYLambdaAPP\\DelegadosPractica0.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\delegadosylambdaapp\\delegadospractica0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B4ED851-C834-4C3F-93FB-F5A0158CB326}|DelegadosYLambdaAPP\\DelegadosPractica0.csproj|solutionrelative:delegadosylambdaapp\\delegadospractica0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ADB899-7B82-4822-B041-2A94CB2D1BE0}|DelegadoPractica2Explicacion\\DelegadoPractica2Explicacion.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\delegadopractica2explicacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6ADB899-7B82-4822-B041-2A94CB2D1BE0}|DelegadoPractica2Explicacion\\DelegadoPractica2Explicacion.csproj|solutionrelative:delegadopractica2explicacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ADB899-7B82-4822-B041-2A94CB2D1BE0}|DelegadoPractica2Explicacion\\DelegadosPractica2Explicacion.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\delegadopractica2explicacion\\delegadospractica2explicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6ADB899-7B82-4822-B041-2A94CB2D1BE0}|DelegadoPractica2Explicacion\\DelegadosPractica2Explicacion.csproj|solutionrelative:delegadopractica2explicacion\\delegadospractica2explicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE100C98-F10B-49B9-91B9-2A8CB381D112}|DelegadosPractica2\\DelegadosPractica2.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\delegadospractica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE100C98-F10B-49B9-91B9-2A8CB381D112}|DelegadosPractica2\\DelegadosPractica2.csproj|solutionrelative:delegadospractica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8FD9F284-8A86-48D1-8ADD-578FE6324A43}|DelegadosPracticaAPP\\DelegadosPracticaAPP.csproj|c:\\users\\orfhen2022\\desktop\\progra ii 2024\\proga\\ejerciciosutn\\delegadospracticaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FD9F284-8A86-48D1-8ADD-578FE6324A43}|DelegadosPracticaAPP\\DelegadosPracticaAPP.csproj|solutionrelative:delegadospracticaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,18 +56,83 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\DelegadosYLambdaAPP\\Program.cs",
+              "RelativeDocumentMoniker": "DelegadosYLambdaAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\DelegadosYLambdaAPP\\Program.cs",
+              "RelativeToolTip": "DelegadosYLambdaAPP\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:07:48.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DelegadosPractica0",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\DelegadosYLambdaAPP\\DelegadosPractica0.csproj",
+              "RelativeDocumentMoniker": "DelegadosYLambdaAPP\\DelegadosPractica0.csproj",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\DelegadosYLambdaAPP\\DelegadosPractica0.csproj",
+              "RelativeToolTip": "DelegadosYLambdaAPP\\DelegadosPractica0.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T02:07:45.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DelegadosPractica2Explicacion",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\DelegadoPractica2Explicacion\\DelegadosPractica2Explicacion.csproj",
+              "RelativeDocumentMoniker": "DelegadoPractica2Explicacion\\DelegadosPractica2Explicacion.csproj",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\DelegadoPractica2Explicacion\\DelegadosPractica2Explicacion.csproj",
+              "RelativeToolTip": "DelegadoPractica2Explicacion\\DelegadosPractica2Explicacion.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T02:06:16.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\DelegadoPractica2Explicacion\\Program.cs",
+              "RelativeDocumentMoniker": "DelegadoPractica2Explicacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\DelegadoPractica2Explicacion\\Program.cs",
+              "RelativeToolTip": "DelegadoPractica2Explicacion\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:05:57.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\DelegadosPractica2\\Program.cs",
+              "RelativeDocumentMoniker": "DelegadosPractica2\\Program.cs",
+              "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\DelegadosPractica2\\Program.cs",
+              "RelativeToolTip": "DelegadosPractica2\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwCMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:36:03.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\DelegadosPracticaAPP\\Program.cs",
               "RelativeDocumentMoniker": "DelegadosPracticaAPP\\Program.cs",
               "ToolTip": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\DelegadosPracticaAPP\\Program.cs",
               "RelativeToolTip": "DelegadosPracticaAPP\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA/AAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T00:37:11.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "TextFile1.txt",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\ConsoleAppMaterial\\TextFile1.txt",
               "RelativeDocumentMoniker": "ConsoleAppMaterial\\TextFile1.txt",
@@ -60,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ConsoleAppMaterial",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\ConsoleAppMaterial\\ConsoleAppMaterial.csproj",
               "RelativeDocumentMoniker": "ConsoleAppMaterial\\ConsoleAppMaterial.csproj",
@@ -101,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\ConsoleAppMaterial\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppMaterial\\Program.cs",
@@ -114,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "CombinacionBebidas.cs",
               "DocumentMoniker": "C:\\Users\\Orfhen2022\\Desktop\\PROGRA II 2024\\proga\\EjerciciosUTN\\BibliotecaClassPatronComposite\\CombinacionBebidas.cs",
               "RelativeDocumentMoniker": "BibliotecaClassPatronComposite\\CombinacionBebidas.cs",
